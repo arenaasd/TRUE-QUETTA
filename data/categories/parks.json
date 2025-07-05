@@ -1,0 +1,205 @@
+[
+  {
+    "name": "Askari / Fatima Jinnah Family Park",
+    "image": "/images/parks/askari/askari.jpg",
+    "rating": 4.1,
+    "description": "Askari Park — officially renamed Fatima Jinnah Family Park after its 2018 renovation — is Quetta’s top family-friendly destination. The park features lush greenery, a jogging track, children’s rides (swings, slides, a safari train), and food stalls. Perfect for morning or evening strolls, picnics, or casual family outings. Located on Airport Road near Gardenia Resort Hotel, it’s easy to reach and loved by locals.",
+    "createdAt": "1995-01-01T00:00:00Z",
+    "contact": {
+      "address": "Baleli Road (Airport Road), Quetta, Pakistan",
+      "socialMedia": {
+        "facebook": "https://www.facebook.com/askaripark1"
+      }
+    },
+    "features": [
+      "Jogging Track",
+      "Playground",
+      "Safari Train",
+      "Ferris Wheel",
+      "Food Stalls",
+      "Green Lawns",
+      "Family‑only Policy"
+    ],
+    "gallery": [
+      "/images/parks/askari/gallery1.jpg",
+      "/images/parks/askari/gallery2.jpg",
+      "/images/parks/askari/gallery3.jpg",
+      "/images/parks/askari/gallery4.jpg",
+      "/images/parks/askari/gallery5.webp",
+      "/images/parks/askari/gallery6.webp",
+      "/images/parks/askari/gallery7.webp",
+      "/images/parks/askari/gallery8.webp",
+      "/images/parks/askari/gallery9.webp",
+      "/images/parks/askari/gallery10.webp"
+    ],
+    "branches": []
+  },
+  {
+    "name": "Ziarat Park",
+    "image": "/images/parks/ziarat/ziarat.jpg",
+    "rating": 4.1,
+    "description": "Cantonment‑maintained park with fountains, trampolines, slides, train and jogging track.",
+    "createdAt": "2013-01-01T00:00:00Z",
+    "contact": {
+      "address": "Quetta Cantt, Quetta, Pakistan"
+    },
+    "features": [
+      "Fountains",
+      "Trampoline",
+      "Slides",
+      "Children's Train",
+      "Jogging Track",
+      "Tuck Shop"
+    ],
+    "gallery": [
+      "/images/parks/ziarat/gallery1.jpeg",
+      "/images/parks/ziarat/gallery2.jpg"
+    ],
+    "branches": []
+  },
+  {
+    "name": "Benazir Bhutto Park",
+    "image": "/images/parks/benazir/benazir.jpg",
+    "rating": 3.8,
+    "description": "Park with statue, running track, slides, train, swings, pirate ship and fountain.",
+    "createdAt": "2012-10-01T00:00:00Z",
+    "contact": {
+      "address": "Quetta, Pakistan"
+    },
+    "features": [
+      "Running Track",
+      "Playground",
+      "Train Ride",
+      "Pirate Ship",
+      "Fountain",
+      "Food Stalls",
+      "Parking"
+    ],
+    "gallery": [
+      "/images/parks/benazir/gallery1.jpg",
+      "/images/parks/benazir/gallery2.jpg",
+      "/images/parks/benazir/gallery3.jpg",
+      "/images/parks/benazir/gallery4.webp",
+      "/images/parks/benazir/gallery5.jpg",
+      "/images/parks/benazir/gallery6.jpg",
+      "/images/parks/benazir/gallery7.jpg"
+    ],
+    "branches": []
+  },
+  {
+    "name": "Liaquat Park",
+    "image": "/images/parks/liaqat/liaqat.webp",
+    "rating": 3.8,
+    "description": "Peaceful family park with shaded walkways and grass lawns.",
+    "createdAt": "2000-01-01T00:00:00Z",
+    "contact": {
+      "address": "Shahrah‑e‑Iqbal, Quetta, Pakistan"
+    },
+    "features": [
+      "Walking Track",
+      "Benches",
+      "Greenery",
+      "Family Area"
+    ],
+    "gallery": [
+      "/images/parks/liaqat/gallery2.webp",
+      "/images/parks/liaqat/gallery3.webp",
+      "/images/parks/liaqat/gallery4.webp",
+      "/images/parks/liaqat/gallery5.webp",
+      "/images/parks/liaqat/gallery6.webp"
+    ],
+    "branches": []
+  },
+  {
+    "name": "Fountain Park",
+    "image": "/images/parks/fountain/fountain.png",
+    "rating": 3.6,
+    "description": "Small community green area with a central fountain and seating, suited for short visits or relaxation.",
+    "createdAt": "2005-01-01T00:00:00Z",
+    "contact": {
+      "address": "Aziz Bhatti Road, Cantt, Quetta, Pakistan"
+    },
+    "features": [
+      "Central Fountain",
+      "Benches",
+      "Trees"
+    ],
+    "gallery": [
+      "/images/parks/fountain/gallery1.jpeg",
+      "/images/parks/fountain/gallery2.jpeg"
+    ],
+    "branches": []
+  },
+  {
+    "name": "Chaghi Children Park",
+    "image": "/images/parks/chaghi/chaghi.webp",
+    "rating": 3.7,
+    "description": "Children’s park with swings, slides and playground equipment.",
+    "createdAt": "2008-01-01T00:00:00Z",
+    "contact": {
+      "address": "Chiltan Road, Cantonment, Quetta, Pakistan"
+    },
+    "features": [
+      "Swings",
+      "Slides",
+      "Playground",
+      "Fenced Area"
+    ],
+    "gallery": [],
+    "branches": []
+  },
+
+  {
+    "name": "Karkhasa Park",
+    "image": "/images/parks/karkhasa/karkhasa.webp",
+    "rating": 4.0,
+    "description": "Urban hiking and picnic spot, more natural than manicured.",
+    "createdAt": "2012-01-01T00:00:00Z",
+    "contact": {
+      "address": "Karkhasa Area, Quetta, Pakistan"
+    },
+    "features": [
+      "Hiking",
+      "Picnic Area",
+      "Natural Scenery"
+    ],
+    "gallery": [
+      "/images/parks/karkhasa/gallery1.webp",
+      "/images/parks/karkhasa/gallery2.webp",
+      "/images/parks/karkhasa/gallery3.webp",
+      "/images/parks/karkhasa/gallery4.webp",
+      "/images/parks/karkhasa/gallery5.webp",
+      "/images/parks/karkhasa/gallery6.webp"
+    ],
+    "branches": []
+  },
+  {
+    "name": "Hazarganji-Chiltan National Park",
+    "image": "/images/parks/hazarchil/hazarchil.webp",
+    "rating": 4.6,
+    "description": "Protected national park famous for its mountainous landscape and endangered species like the Chiltan ibex.",
+    "createdAt": "1980-07-01T00:00:00Z",
+    "contact": {
+      "address": "Mastung District, near Quetta, Pakistan"
+    },
+    "features": [
+      "Wildlife",
+      "Natural Trails",
+      "Hiking",
+      "Mountain Views",
+      "Picnic Areas",
+      "Photography Spots"
+    ],
+    "gallery": [
+      "/images/parks/hazarchil/gallery1.webp",
+      "/images/parks/hazarchil/gallery2.webp",
+      "/images/parks/hazarchil/gallery3.webp",
+      "/images/parks/hazarchil/gallery4.webp",
+      "/images/parks/hazarchil/gallery5.webp",
+      "/images/parks/hazarchil/gallery6.webp",
+      "/images/parks/hazarchil/gallery7.webp",
+      "/images/parks/hazarchil/gallery8.webp"
+    ],
+    "branches": []
+  }
+]

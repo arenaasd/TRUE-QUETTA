@@ -1,0 +1,531 @@
+[
+  {
+    "name": "Quetta Serena Hotel",
+    "image": "/images/hotels/sarena/sarena-hotel.jpg",
+    "rating": 4.6,
+    "description": "140 rooms and suites with Luxury accommodation with lush landscaped gardens, spacious rooms, spa, outdoor pool and impeccable security Framed by locally inspired Balochi architecture and décor in addition to six acres of beautifully landscaped garden courtyards and orchards, cascading fountains and water features, Quetta Serena hotel is a destination synonymous with elegance and style. It’s also the epitome of personalised service. .",
+    "createdAt": "1988-10-01T00:00:00Z",
+    "contact": {
+      "phone": "+92 81 2820071",
+      "email": "reservation.qsh@serena.com.pk",
+      "address": "Zarghun Road, Quetta, Balochistan, Pakistan",
+      "website": "https://www.serenahotels.com/quetta",
+      "socialMedia": {
+        "facebook": "https://www.facebook.com/QuettaSerenaHotel/",
+        "twitter": "https://x.com/serena_hotels?ref_src=twsrc%5Egoogle%7Ctwcamp%5Eserp%7Ctwgr%5Eauthor",
+        "instagram": "https://www.instagram.com/serenahotelsofficial/"
+      }
+    },
+    "features": [
+      "Free WiFi",
+      "Air Conditioning",
+      "Swimming Pool",
+      "Fitness Center",
+      "Spa",
+      "Business Center",
+      "Laundry Service",
+      "Airport Shuttle",
+      "Secure Parking",
+      "Room Service"
+    ],
+    "gallery": [
+      "/images/hotels/sarena/gallery1.jpg",
+      "/images/hotels/sarena/gallery2.jpg",
+      "/images/hotels/sarena/gallery3.jpg",
+      "/images/hotels/sarena/gallery4.jpg",
+      "/images/hotels/sarena/gallery5.webp",
+      "/images/hotels/sarena/gallery6.webp",
+      "/images/hotels/sarena/gallery7.webp",
+      "/images/hotels/sarena/gallery8.webp",
+      "/images/hotels/sarena/gallery9.webp",
+      "/images/hotels/sarena/gallery10.webp"
+    ],
+    "branches": []
+  },
+  {
+    "name": "Azad Muslim Hotel",
+    "image": "/images/hotels/azad/azad-muslim.webp",
+    "rating": 3.8,
+    "description": "Azad Muslim Hotel is a budget-friendly, no-frills lodging located on Jinnah Road near the railway station and Imdad Cinema. Guests report that it’s clean and quiet, offering simple rooms equipped with TV, shower, and basic furnishings. The hotel provides daily housekeeping, room service, and an on-site restaurant that serves breakfast. Guests appreciate the hygienic environment and good value for money, though a few reviews mention occasional staff attitude and dated decor. Parking isn’t available but the central location makes it convenient for accessing the city.",
+    "createdAt": "1993-01-01T00:00:00Z",
+    "contact": {
+      "phone": "+92 310 8234614",
+      "email": "",
+      "address": "Imdad Chowk, M.A Jinnah Road, Quetta, Balochistan, Pakistan",
+      "website": "",
+      "socialMedia": {
+        "facebook": "",
+        "twitter": "",
+        "instagram": ""
+      }
+    },
+    "features": [],
+    "gallery": [
+      "/images/hotels/azad/gallery1.webp",
+      "/images/hotels/azad/gallery2.webp",
+      "/images/hotels/azad/gallery3.webp",
+      "/images/hotels/azad/gallery4.webp",
+      "/images/hotels/azad/gallery5.webp"
+    ],
+    "branches": []
+  },
+  {
+    "name": "Grand Hotel Quetta",
+    "image": "/images/hotels/grand/grand.webp",
+    "rating": 4.5,
+    "description": "Modern rooms with air-conditioning, flat-screen TVs, free Wi-Fi, complimentary breakfast buffet, restaurant, 24‑hr front desk, laundry and free parking.",
+    "createdAt": "2009-01-01T00:00:00Z",
+    "contact": {
+      "phone": "(081) 2829090",
+      "email": "",
+      "address": "Moti Ram Rd, Quetta, Balochistan, Pakistan",
+      "website": "",
+      "socialMedia": {
+        "facebook": "",
+        "twitter": "",
+        "instagram": ""
+      }
+    },
+    "features": [
+      "Free WiFi",
+      "Air Conditioning",
+      "Flat-screen TV",
+      "Private Bathroom",
+      "Restaurant",
+      "24/7 Front Desk",
+      "Laundry",
+      "Parking"
+    ],
+    "gallery": [
+      "/images/hotels/grand/gallery1.webp",
+      "/images/hotels/grand/gallery2.webp",
+      "/images/hotels/grand/gallery3.webp",
+      "/images/hotels/grand/gallery4.webp",
+      "/images/hotels/grand/gallery5.webp",
+      "/images/hotels/grand/gallery6.webp",
+      "/images/hotels/grand/gallery7.webp",
+      "/images/hotels/grand/gallery8.webp",
+      "/images/hotels/grand/gallery9.webp",
+      "/images/hotels/grand/gallery10.webp"
+    ],
+    "branches": []
+  },
+  {
+    "name": "Reliance Hotel Quetta",
+    "image": "/images/hotels/reliance/reliance.webp",
+    "rating": 4.3,
+    "description": "Air-conditioned rooms with TVs, free Wi-Fi, complimentary breakfast, laundry services, and airport shuttle on request.",
+    "createdAt": "2010-01-01T00:00:00Z",
+    "contact": {
+      "phone": "(081) 2828584",
+      "email": "",
+      "address": "Moti Ram Road, Near Prince Road, Quetta, Balochistan, Pakistan",
+      "website": "",
+      "socialMedia": {
+        "facebook": "",
+        "twitter": "",
+        "instagram": ""
+      }
+    },
+    "features": [
+      "Free WiFi",
+      "Air Conditioning",
+      "TV",
+      "Breakfast",
+      "Laundry",
+      "Airport Shuttle",
+      "24/7 Front Desk"
+    ],
+    "gallery": [
+      "/images/hotels/reliance/gallery1.webp",
+      "/images/hotels/reliance/gallery2.webp",
+      "/images/hotels/reliance/gallery3.webp",
+      "/images/hotels/reliance/gallery4.webp",
+      "/images/hotels/reliance/gallery5.webp",
+      "/images/hotels/reliance/gallery6.jpg"
+    ],
+    "branches": []
+  },
+  {
+    "name": "Vista Guest House",
+    "image": "/images/hotels/vista/vista.webp",
+    "rating": 3.9,
+    "description": "Vista Guest House offers a homely stay with a spacious terrace, shared kitchen, private check‑in/out, 24‑hr front desk, minimarket, daily housekeeping, laundry/dry‑cleaning, car hire, airport shuttle, pet‑friendly policy, free buffet breakfast, and on‑site parking. Guests enjoy cosy living areas and easy access to the city centre (~2.9 km).",
+    "createdAt": "2015-01-01T00:00:00Z",
+    "contact": {
+      "phone": "+(92) 313 8286159",
+      "email": "",
+      "address": "Major Raheem Street, Jinnah Town, near IT University, Quetta, Balochistan, Pakistan",
+      "website": "",
+      "socialMedia": {
+        "facebook": "",
+        "twitter": "",
+        "instagram": ""
+      }
+    },
+    "features": [
+      "Free Breakfast",
+      "Free WiFi",
+      "Free Parking",
+      "Shared Kitchen",
+      "24/7 Front Desk",
+      "Laundry",
+      "Airport Shuttle",
+      "Pet Friendly",
+      "Terrace",
+      "Room Service"
+    ],
+    "gallery": [
+      "/images/hotels/vista/gallery1.webp",
+      "/images/hotels/vista/gallery2.webp",
+      "/images/hotels/vista/gallery3.webp",
+      "/images/hotels/vista/gallery4.webp"
+    ],
+    "branches": []
+  },
+  {
+    "name": "Lourdes Hotel",
+    "image": "/images/hotels/lourdes/lourdes.webp",
+    "rating": 3.7,
+    "description": "Set within lush garden grounds, Lourdes Hotel features air‑conditioned rooms with private bathrooms and flat‑screen TVs. On‑site amenities include a restaurant, room service, 24‑hr front desk, free Wi‑Fi, laundry/ironing, airport pick‑up/drop‑off and complimentary breakfasts.",
+    "createdAt": "2005-01-01T00:00:00Z",
+    "contact": {
+      "phone": "(081) 2829656",
+      "email": "",
+      "address": "Staff College Road, Cantonment, Quetta, Balochistan, Pakistan",
+      "website": "",
+      "socialMedia": {
+        "facebook": "",
+        "twitter": "",
+        "instagram": ""
+      }
+    },
+    "features": [
+      "Free WiFi",
+      "Restaurant",
+      "Room Service",
+      "24/7 Front Desk",
+      "Free Parking",
+      "Garden & Terrace",
+      "Laundry",
+      "Airport Shuttle",
+      "Flat‑screen TV",
+      "Air Conditioning"
+    ],
+    "gallery": [
+      "/images/hotels/lourdes/gallery1.webp",
+      "/images/hotels/lourdes/gallery2.webp",
+      "/images/hotels/lourdes/gallery3.webp",
+      "/images/hotels/lourdes/gallery4.webp",
+      "/images/hotels/lourdes/gallery5.jpg",
+      "/images/hotels/lourdes/gallery5.webp",
+      "/images/hotels/lourdes/gallery6.webp",
+      "/images/hotels/lourdes/gallery7.webp"
+    ],
+    "branches": []
+  },
+  {
+    "name": "Hotel Al Mudassar",
+    "image": "/images/hotels/mudassar/mudassar.webp",
+    "rating": 3.1,
+    "description": "Hotel Al Mudassar offers elegantly appointed rooms with private balconies or terraces, air‑conditioning, flat‑screen TVs, microwaves, tea/coffee makers, safes, and private bathrooms with bidets and bathrobes. Complimentary breakfast and free Wi‑Fi are available.",
+    "createdAt": "2015-01-01T00:00:00Z",
+    "contact": {
+      "phone": "+(92) 316 8272879",
+      "email": "",
+      "address": "Masjid Road, Quetta, Balochistan, Pakistan",
+      "website": "",
+      "socialMedia": {
+        "facebook": "",
+        "twitter": "",
+        "instagram": ""
+      }
+    },
+    "features": [
+      "Free Breakfast",
+      "Free WiFi",
+      "Air Conditioning",
+      "TV",
+      "Private Bathroom",
+      "Balcony/Terrace",
+      "Microwave",
+      "Tea/Coffee Maker",
+      "Safety Deposit Box"
+    ],
+    "gallery": [
+      "/images/hotels/mudassar/gallery1.webp",
+      "/images/hotels/mudassar/gallery2.webp",
+      "/images/hotels/mudassar/gallery3.webp",
+      "/images/hotels/mudassar/gallery4.webp",
+      "/images/hotels/mudassar/gallery5.webp"
+    ],
+    "branches": []
+  },
+  {
+    "name": "Bloom Star Hotel",
+    "image": "/images/hotels/bloom/bloom.webp",
+    "rating": 4.0,
+    "description": "Located in the business district, Bloom Star Hotel offers air‑conditioned rooms with free in‑room Wi‑Fi, flat‑screen TVs, a restaurant, meeting room, 24‑hr front desk, laundry facilities, free newspapers and self parking in a modern setting.",
+    "createdAt": "1978-01-01T00:00:00Z",
+    "contact": {
+      "phone": "(081) 2833350",
+      "email": "",
+      "address": "",
+      "website": "",
+      "socialMedia": {
+        "facebook": "",
+        "twitter": "",
+        "instagram": ""
+      }
+    },
+    "features": [
+      "Free WiFi",
+      "Restaurant",
+      "Meeting Room",
+      "24/7 Front Desk",
+      "Laundry",
+      "Free Parking",
+      "TV",
+      "Air Conditioning",
+      "Free Newspapers"
+    ],
+    "gallery": [
+      "/images/hotels/bloom/gallery1.webp",
+      "/images/hotels/bloom/gallery2.webp",
+      "/images/hotels/bloom/gallery3.webp",
+      "/images/hotels/bloom/gallery4.webp",
+      "/images/hotels/bloom/gallery5.webp",
+      "/images/hotels/bloom/gallery6.webp",
+      "/images/hotels/bloom/gallery7.jpg",
+      "/images/hotels/bloom/gallery8.webp",
+      "/images/hotels/bloom/gallery9.webp",
+      "/images/hotels/bloom/gallery10.webp"
+    ],
+    "branches": []
+  },
+  {
+    "name": "Hotel Qasr E Gul",
+    "image": "/images/hotels/qasr-e-gull/qasr-e-gull.webp",
+    "rating": 3.8,
+    "description": "Hotel Qasr E Gul provides air‑conditioned rooms with balconies, private bathrooms, seating areas and flat‑screen TVs. Guests enjoy free Wi‑Fi, complimentary Asian breakfast, on‑site restaurant, 24‑hr front desk, room service, laundry service, and paid private parking. Conveniently located ~11 km from Quetta International Airport.",
+    "createdAt": "2012-01-01T00:00:00Z",
+    "contact": {
+      "phone": "(081) 2825192",
+      "email": "",
+      "address": "Suraj Ganj Bazaar, Bohra Gali, Quetta, Balochistan, Pakistan",
+      "website": "",
+      "socialMedia": {
+        "facebook": "",
+        "twitter": "",
+        "instagram": ""
+      }
+    },
+    "features": [
+      "Free Breakfast",
+      "Free WiFi",
+      "Air Conditioning",
+      "Balcony",
+      "TV",
+      "Private Bathroom",
+      "Restaurant",
+      "Room Service",
+      "24/7 Front Desk",
+      "Laundry",
+      "Paid Parking"
+    ],
+    "gallery": [
+      "/images/hotels/qasr-e-gull/gallery1.webp",
+      "/images/hotels/qasr-e-gull/gallery2.webp",
+      "/images/hotels/qasr-e-gull/gallery3.webp",
+      "/images/hotels/qasr-e-gull/gallery4.webp",
+      "/images/hotels/qasr-e-gull/gallery5.webp",
+      "/images/hotels/qasr-e-gull/gallery5.jpg"
+    ],
+    "branches": []
+  },
+  {
+    "name": "Civic Hotel",
+    "image": "/images/hotels/civic/civic.webp",
+    "rating": 4.3,
+    "description": "Civic Hotel features 35 comfortable air-conditioned rooms with private bathrooms, flat-screen TVs, free toiletries, work desks, hairdryers, and slippers. Guests enjoy free on-site parking, free Wi‑Fi, smoke-free common areas, and a 24-hour reception. The hotel is located about 1.1 mi (1.8 km) from Quetta city centre and approximately 5.6 mi (9 km) from Quetta International Airport. The property is child-friendly and emphasizes parking and safety.",
+    "createdAt": "2025-05-25T00:00:00Z",
+    "contact": {
+      "phone": "0313 5580387",
+      "email": "",
+      "address": "",
+      "website": "",
+      "socialMedia": {
+        "facebook": "",
+        "twitter": "",
+        "instagram": ""
+      }
+    },
+    "features": [
+      "Air Conditioning",
+      "Flat-screen TV",
+      "TV",
+      "Private Bathroom"
+    ],
+    "gallery": [
+      "/images/hotels/civic/gallery1.webp",
+      "/images/hotels/civic/gallery2.webp",
+      "/images/hotels/civic/gallery3.webp",
+      "/images/hotels/civic/gallery4.webp",
+      "/images/hotels/civic/gallery5.webp",
+      "/images/hotels/civic/gallery6.webp",
+      "/images/hotels/civic/gallery7.webp",
+      "/images/hotels/civic/gallery8.webp",
+      "/images/hotels/civic/gallery9.webp",
+      "/images/hotels/civic/gallery10.webp"
+    ],
+    "branches": []
+  },
+  {
+    "name": "Rehan Hotel",
+    "image": "/images/hotels/rehan/rehan.webp",
+    "rating": 3.7,
+    "description": "Rehan Hotel offers family and double rooms equipped with air-conditioning, private bathrooms, complimentary toiletries, flat-screen TVs, work desks, and wardrobes. Guests can relax in the garden or on the terrace and dine at the on-site restaurant. The hotel includes free Wi‑Fi (~25 Mbps), complimentary self-parking, a 24-hour front desk, room service, dry-cleaning/laundry services, and free daily newspapers. Located on Faiz Muhmmed Rd, it's about 1.3 km from Quetta city centre and ~12.4 km from the airport",
+    "createdAt": "2018-06-30T00:00:00Z",
+    "contact": {
+      "phone": "(081) 2830013",
+      "email": "",
+      "address": "",
+      "website": "",
+      "socialMedia": {
+        "facebook": "",
+        "twitter": "",
+        "instagram": ""
+      }
+    },
+    "features": [
+      "Balcony",
+      "TV",
+      "Private Bathroom"
+    ],
+    "gallery": [
+      "/images/hotels/rehan/gallery1.webp",
+      "/images/hotels/rehan/gallery2.webp",
+      "/images/hotels/rehan/gallery3.webp",
+      "/images/hotels/rehan/gallery4.webp",
+      "/images/hotels/rehan/gallery5.webp",
+      "/images/hotels/rehan/gallery6.webp",
+      "/images/hotels/rehan/gallery7.webp",
+      "/images/hotels/rehan/gallery8.webp",
+      "/images/hotels/rehan/gallery9.webp",
+      "/images/hotels/rehan/gallery10.webp"
+    ],
+    "branches": []
+  },
+  {
+    "name": "The Western Crown Auberge Guest House",
+    "image": "/images/hotels/western/west.jpeg",
+    "rating": 3.7,
+    "description": "Situated in the Kotwāl area of Quetta, this charming, dog-friendly guest house features air-conditioned rooms with private bathrooms. Guests enjoy a relaxing terrace, peaceful street views, complimentary breakfast (including English, Asian, and vegetarian options), a well-stocked on-site bar, free high-speed Wi‑Fi, and secure on-site parking. It’s a cozy and convenient choice located about 1.2 mi (≈2 km) from the city center.",
+    "createdAt": "2019-01-01T00:00:00Z",
+    "contact": {
+      "phone": "",
+      "email": "",
+      "address": "",
+      "website": "",
+      "socialMedia": {
+        "facebook": "",
+        "twitter": "",
+        "instagram": ""
+      }
+    },
+    "features": [],
+    "gallery": [
+      "/images/hotels/western/gallery1.jpeg",
+      "/images/hotels/western/gallery2.jpeg",
+      "/images/hotels/western/gallery3.jpeg"
+    ],
+    "branches": []
+  },
+  {
+    "name": "Metro Hotel",
+    "image": "/images/hotels/metro/metro.webp",
+    "rating": 4.3,
+    "description": "A family-friendly city-center hotel featuring a restaurant, bar, garden, and terrace. Accommodations include 26 air-conditioned rooms with LCD TVs, free high-speed Wi‑Fi, and free parking. Offers 24‑hour reception, laundry, and dry-cleaning service. Located near the Archaeological Museum and University.",
+    "createdAt": "2018-06-30T00:00:00Z",
+    "contact": {
+      "phone": "(081) 2833312",
+      "email": "",
+      "address": "",
+      "website": "",
+      "socialMedia": {
+        "facebook": "",
+        "twitter": "",
+        "instagram": ""
+      }
+    },
+    "features": [
+      "24/7 Front Desk",
+      "Parking",
+      "Air Conditioning"
+    ],
+    "gallery": [
+      "/images/hotels/metro/gallery1.webp",
+      "/images/hotels/metro/gallery2.webp",
+      "/images/hotels/metro/gallery3.webp",
+      "/images/hotels/metro/gallery4.webp",
+      "/images/hotels/metro/gallery5.webp",
+      "/images/hotels/metro/gallery6.webp",
+      "/images/hotels/metro/gallery7.webp",
+      "/images/hotels/metro/gallery8.webp",
+      "/images/hotels/metro/gallery9.webp",
+      "/images/hotels/metro/gallery10.jpg"
+    ],
+    "branches": []
+  },
+  {
+    "name": "Hotel Deluxe",
+    "image": "/images/hotels/deluxe/deluxe.webp",
+    "rating": 3.9,
+    "description": "A relaxed garden-side hotel featuring a restaurant, room service, and round-the-clock reception. Rooms are air-conditioned with private bathrooms, flat-screen TVs, and select units include terraces. Provides free Wi‑Fi and on-demand parking. Around 5 miles from the airport.",
+    "createdAt": "2010-01-01T00:00:00Z",
+    "contact": {
+      "phone": "(081) 2831537",
+      "email": "",
+      "address": "",
+      "website": "",
+      "socialMedia": {
+        "facebook": "",
+        "twitter": "",
+        "instagram": ""
+      }
+    },
+    "features": [],
+    "gallery": [
+      "/images/hotels/deluxe/gallery1.webp",
+      "/images/hotels/deluxe/gallery2.webp",
+      "/images/hotels/deluxe/gallery3.webp",
+      "/images/hotels/deluxe/gallery4.webp"
+    ],
+    "branches": []
+  },
+  {
+    "name": "Balochistan International Hotel",
+    "image": "/images/hotels/balochistan/balochistan.webp",
+    "rating": 3.7,
+    "description": "A no-frills hotel with simple, air-conditioned rooms featuring private bathrooms, flat-screen TVs, and seating areas. Guests can enjoy a continental breakfast, 24-hour reception, restaurant on-site, and room service. Located in Kachāhri, providing a basic but convenient stay.",
+    "createdAt": "2000-01-01T00:00:00Z",
+    "contact": {
+      "phone": "0346 5162722",
+      "email": "",
+      "address": "",
+      "website": "",
+      "socialMedia": {
+        "facebook": "",
+        "twitter": "",
+        "instagram": ""
+      }
+    },
+    "features": [],
+    "gallery": [
+      "/images/hotels/balochistan/gallery1.jpg",
+      "/images/hotels/balochistan/gallery2.webp",
+      "/images/hotels/balochistan/gallery3.jpg"
+    ],
+    "branches": []
+  }
+]

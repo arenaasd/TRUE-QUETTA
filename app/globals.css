@@ -1,0 +1,13 @@
+@import "tailwindcss";
+
+:root {
+  --white: #ffffff;
+  --foreground: #28262C;
+  --teal: #0B5563;
+  --bronze: #5C1C26;
+}
+
+
+/* globals.css */
+
+

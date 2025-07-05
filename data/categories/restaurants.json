@@ -1,0 +1,600 @@
+[
+  {
+    "name": "Lehri Sajji House",
+    "image": "/images/restaurants/lehri/lehri.png",
+    "rating": 4.4,
+    "description": "Legendary spot famous for authentic slow-cooked Balochi sajji, loved by locals and visitors alike.",
+    "createdAt": "1995-05-01T00:00:00Z",
+    "contact": {
+      "phone": "+92 307 3737866",
+      "email": "",
+      "address": "Prince Road, Quetta, Pakistan",
+      "website": "",
+      "socialMedia": {
+        "facebook": "https://www.facebook.com/LehriSajjiHouseqta/",
+        "twitter": "",
+        "instagram": ""
+      }
+    },
+    "features": [
+      "Sajji",
+      "Pakistani",
+      "Outdoor Seating",
+      "Casual Dining"
+    ],
+    "gallery": [
+      "/images/restaurants/lehri/gallery1.webp",
+      "/images/restaurants/lehri/gallery2.webp",
+      "/images/restaurants/lehri/gallery3.webp",
+      "/images/restaurants/lehri/gallery4.webp",
+      "/images/restaurants/lehri/gallery5.webp",
+      "/images/restaurants/lehri/gallery6.webp",
+      "/images/restaurants/lehri/gallery7.webp",
+      "/images/restaurants/lehri/gallery8.webp",
+      "/images/restaurants/lehri/gallery9.webp",
+      "/images/restaurants/lehri/gallery10.webp"
+    ],
+    "branches": [
+      {
+        "name": "Lehri Sajji House Main",
+        "address": "Prince Road, Quetta",
+        "phone": "+92 307 3737866",
+        "image": "/images/restaurants/lehri/lehri.png"
+      },
+      {
+        "name": "Lehri Sajji Sariab",
+        "address": "near Sadabahar Terminal, Sariab Road, Quetta",
+        "phone": "(081) 2444412",
+        "image": "/images/restaurants/lehri/sariab.webp"
+      },
+      {
+        "name": "Lehri Sajji House Jinnah Road",
+        "address": "Neel Hotel، Jinnah Road، Eagle Road, Quetta",
+        "phone": "(081) 2821853",
+        "image": "/images/restaurants/lehri/jinnah.webp"
+      }
+    ]
+  },
+  {
+    "name": "Usmania Restaurant",
+    "image": "/images/restaurants/usmania/usmania.webp",
+    "rating": 4.9,
+    "description": "Iconic family restaurant known for multi-cuisine dishes including Pakistani, Afghani and Arabic platters.",
+    "createdAt": "2010-01-01T00:00:00Z",
+    "contact": {
+      "phone": "0333 1170216",
+      "email": "",
+      "address": "Kuchlak, Beside Shell Pump, Near DHA Baleli Road Quetta, Pakistan",
+      "website": "https://restaurantusmania.com/",
+      "socialMedia": {
+        "facebook": "https://www.facebook.com/QuettaUsmaniaRestaurant",
+        "twitter": "",
+        "instagram": ""
+      }
+    },
+    "features": [
+      "Pakistani",
+      "Afghani",
+      "Turkish",
+      "Family Friendly",
+      "Outdoor Seating",
+      "Royal Ambiance",
+      "Buffet"
+    ],
+    "gallery": [
+      "/images/restaurants/usmania/gallery1.webp",
+      "/images/restaurants/usmania/gallery2.webp",
+      "/images/restaurants/usmania/gallery3.webp",
+      "/images/restaurants/usmania/gallery4.webp",
+      "/images/restaurants/usmania/gallery5.webp",
+      "/images/restaurants/usmania/gallery6.webp",
+      "/images/restaurants/usmania/gallery7.webp",
+      "/images/restaurants/usmania/gallery8.webp",
+      "/images/restaurants/usmania/gallery9.webp",
+      "/images/restaurants/usmania/gallery10.webp"
+    ],
+    "branches": [
+      {
+        "name": "Nosh by Usmania",
+        "address": "Kuchlak, Baleli Road, Quetta",
+        "phone": "+92 333 1170216",
+        "image": "/images/restaurants/usmania/branch2.webp"
+      },
+      {
+        "name": "Usmania Restaurant",
+        "address": "near University Law College, Model Town Quetta",
+        "phone": "(081) 2829629",
+        "image": "/images/restaurants/usmania/usmania.webp"
+      },
+      {
+        "name": "Gidan by Usmania",
+        "address": "Circular Rd، near Regal chowk, Quetta",
+        "phone": "",
+        "image": "/images/restaurants/usmania/branch3.webp"
+      }
+    ]
+  },
+  {
+    "name": "Mehfil Restaurant",
+    "image": "/images/restaurants/mehfil/mehfil.webp",
+    "rating": 4.2,
+    "description": "Popular choice for mutton rosh, barbecue and classic karahi in a lively environment.",
+    "createdAt": "2005-03-15T00:00:00Z",
+    "contact": {
+      "phone": "0300 3838761",
+      "email": "",
+      "address": "Baleli Road, Chiltan Housing Society Quetta, Pakistan",
+      "website": "",
+      "socialMedia": {
+        "facebook": "",
+        "twitter": "",
+        "instagram": ""
+      }
+    },
+    "features": [
+      "BBQ",
+      "Rosh",
+      "Karahi",
+      "Outdoor Seating"
+    ],
+    "gallery": [
+      "/images/restaurants/mehfil/gallery1.webp",
+      "/images/restaurants/mehfil/gallery2.webp",
+      "/images/restaurants/mehfil/gallery3.webp",
+      "/images/restaurants/mehfil/gallery4.webp",
+      "/images/restaurants/mehfil/gallery5.webp",
+      "/images/restaurants/mehfil/gallery6.webp"
+    ],
+    "branches": []
+  },
+  {
+    "name": "Shah Wali Restaurant",
+    "image": "/images/restaurants/wali/wali.webp",
+    "rating": 4.0,
+    "description": "Open-air dhabba style restaurant serving authentic Balochi and Pakistani dishes.",
+    "createdAt": "1998-04-01T00:00:00Z",
+    "contact": {
+      "phone": "(081) 4166189",
+      "email": "",
+      "address": "Suraj Ganj Rd, Quetta, Pakistan",
+      "website": "",
+      "socialMedia": {
+        "facebook": "https://www.facebook.com/shawalihotel1/",
+        "twitter": "",
+        "instagram": ""
+      }
+    },
+    "features": [
+      "Balochi",
+      "Karahi",
+      "Outdoor Seating",
+      "Budget Friendly"
+    ],
+    "gallery": [
+      "/images/restaurants/wali/gallery1.webp",
+      "/images/restaurants/wali/gallery2.webp",
+      "/images/restaurants/wali/gallery3.webp",
+      "/images/restaurants/wali/gallery4.webp",
+      "/images/restaurants/wali/gallery5.webp",
+      "/images/restaurants/wali/gallery6.webp",
+      "/images/restaurants/wali/gallery7.webp",
+      "/images/restaurants/wali/gallery8.webp",
+      "/images/restaurants/wali/gallery9.webp",
+      "/images/restaurants/wali/gallery10.webp"
+    ],
+    "branches": []
+  },
+  {
+    "name": "Gulshan Karahi",
+    "image": "/images/restaurants/gulshan/gulshan.webp",
+    "rating": 3.8,
+    "description": "Renowned karahi shop offering spicy, flavorful curries loved across generations.",
+    "createdAt": "1992-09-01T00:00:00Z",
+    "contact": {
+      "phone": "0345 8350874",
+      "email": "",
+      "address": "Toghi Road, Quetta, Pakistan",
+      "website": "",
+      "socialMedia": {
+        "facebook": "",
+        "twitter": "",
+        "instagram": ""
+      }
+    },
+    "features": [
+      "Karahi",
+      "Pakistani",
+      "Quick Service"
+    ],
+    "gallery": [
+      "/images/restaurants/gulshan/gallery1.webp",
+      "/images/restaurants/gulshan/gallery2.webp",
+      "/images/restaurants/gulshan/gallery3.webp",
+      "/images/restaurants/gulshan/gallery4.webp",
+      "/images/restaurants/gulshan/gallery5.webp",
+      "/images/restaurants/gulshan/gallery6.webp",
+      "/images/restaurants/gulshan/gallery7.webp"
+    ],
+    "branches": []
+  },
+  {
+    "name": "Mir Afzal Karahi",
+    "image": "/images/restaurants/afzal/afzal.webp",
+    "rating": 3.8,
+    "description": "Central city favorite for freshly cooked karahi and family dining.",
+    "createdAt": "2000-05-01T00:00:00Z",
+    "contact": {
+      "phone": "0345 8152876",
+      "email": "",
+      "address": "Regal Plaza, Circular Rd, Quetta, Pakistan",
+      "website": "",
+      "socialMedia": {
+        "facebook": "",
+        "twitter": "",
+        "instagram": ""
+      }
+    },
+    "features": [
+      "Karahi",
+      "Family Friendly",
+      "Affordable"
+    ],
+    "gallery": [
+      "/images/restaurants/afzal/gallery1.webp",
+      "/images/restaurants/afzal/gallery2.webp",
+      "/images/restaurants/afzal/gallery3.webp",
+      "/images/restaurants/afzal/gallery4.webp",
+      "/images/restaurants/afzal/gallery5.webp",
+      "/images/restaurants/afzal/gallery6.webp",
+      "/images/restaurants/afzal/gallery7.webp"
+    ],
+    "branches": []
+  },
+  {
+    "name": "Ice and Fire Restaurant & Cafe",
+    "image": "/images/cafes/icefire/icefire.jpg",
+    "rating": 4.2,
+    "description": "Café-restaurant-bar offering mocktails, smoothies, fresh juices and light food.",
+    "createdAt": "2018-07-01T00:00:00Z",
+    "contact": {
+      "phone": "(081) 2444351",
+      "email": "",
+      "address": "Mini Market Rd, Satellite Town Quetta, Pakistan",
+      "website": "",
+      "socialMedia": {}
+    },
+    "features": [
+      "Mocktails",
+      "Juices",
+      "Light Meals"
+    ],
+    "gallery": [
+      "/images/cafes/icefire/gallery1.webp",
+      "/images/cafes/icefire/gallery2.webp",
+      "/images/cafes/icefire/gallery3.webp",
+      "/images/cafes/icefire/gallery4.webp",
+      "/images/cafes/icefire/gallery5.webp",
+      "/images/cafes/icefire/gallery6.webp",
+      "/images/cafes/icefire/gallery7.webp",
+      "/images/cafes/icefire/gallery8.jpg",
+      "/images/cafes/icefire/gallery9.webp",
+      "/images/cafes/icefire/gallery10.webp"
+    ],
+    "branches": []
+  },
+  {
+    "name": "Takatu Nights",
+    "image": "/images/restaurants/takatu/takatu.webp",
+    "rating": 4.3,
+    "description": "Known for lamb karahi, Chinese and continental dishes in a popular night setting.",
+    "createdAt": "2008-06-01T00:00:00Z",
+    "contact": {
+      "phone": "0332 7810600",
+      "email": "",
+      "address": "Tor Nasar Chowk, Airport Road, Quetta, Pakistan",
+      "website": "https://sites.google.com/view/takatunightrestaurant/home",
+      "socialMedia": {
+        "facebook": "https://www.facebook.com/takattunightssrestaurant/",
+        "twitter": "",
+        "instagram": "https://www.instagram.com/takattu_nights_rest/?hl=en"
+      }
+    },
+    "features": [
+      "Karahi",
+      "Chinese",
+      "Continental",
+      "Night Dining"
+    ],
+    "gallery": [
+      "/images/restaurants/takatu/gallery1.webp",
+      "/images/restaurants/takatu/gallery2.webp",
+      "/images/restaurants/takatu/gallery3.webp",
+      "/images/restaurants/takatu/gallery4.webp",
+      "/images/restaurants/takatu/gallery5.webp",
+      "/images/restaurants/takatu/gallery6.webp",
+      "/images/restaurants/takatu/gallery7.webp",
+      "/images/restaurants/takatu/gallery8.webp"
+    ],
+    "branches": []
+  },
+  {
+    "name": "Garden Cafe & Restaurant",
+    "image": "/images/restaurants/garden/garden.webp",
+    "rating": 3.8,
+    "description": "Elegant environment for steak, biryani, grilled chicken and fish tikka.",
+    "createdAt": "2016-05-01T00:00:00Z",
+    "contact": {
+      "phone": "0321 8040067",
+      "email": "",
+      "address": "Hazara Town, Quetta, Pakistan",
+      "website": "",
+      "socialMedia": {
+        "facebook": "",
+        "twitter": "",
+        "instagram": ""
+      }
+    },
+    "features": [
+      "Steak",
+      "Biryani",
+      "Grilled Chicken",
+      "Fine Dining"
+    ],
+    "gallery": [
+      "/images/restaurants/garden/gallery1.webp",
+      "/images/restaurants/garden/gallery2.webp",
+      "/images/restaurants/garden/gallery3.webp",
+      "/images/restaurants/garden/gallery4.webp",
+      "/images/restaurants/garden/gallery5.webp"
+    ],
+    "branches": []
+  },
+  {
+    "name": "Jaan Broast",
+    "image": "/images/restaurants/jaan/jaan.webp",
+    "rating": 4.4,
+    "description": "Known for Karachi-style biryani, kebabs and crispy chicken broast, popular among students and workers.",
+    "createdAt": "2004-08-01T00:00:00Z",
+    "contact": {
+      "phone": "0311 1786550",
+      "email": "",
+      "address": "Prince Road, Quetta, Pakistan",
+      "website": "",
+      "socialMedia": {
+        "facebook": "https://www.facebook.com/JaanBroastandbiryani/",
+        "twitter": "",
+        "instagram": "https://www.instagram.com/jaanbroast"
+      }
+    },
+    "features": [
+      "Biryani",
+      "Broast",
+      "Kebabs",
+      "Chicken Rolls",
+      "Quick Service"
+    ],
+    "gallery": [
+      "/images/restaurants/jaan/gallery1.webp",
+      "/images/restaurants/jaan/gallery2.webp",
+      "/images/restaurants/jaan/gallery3.webp",
+      "/images/restaurants/jaan/gallery4.webp",
+      "/images/restaurants/jaan/gallery5.webp",
+      "/images/restaurants/jaan/gallery6.webp",
+      "/images/restaurants/jaan/gallery7.webp",
+      "/images/restaurants/jaan/gallery8.webp",
+      "/images/restaurants/jaan/gallery9.webp",
+      "/images/restaurants/jaan/gallery10.webp"
+    ],
+    "branches": []
+  },
+  {
+    "name": "Black Diamond Restaurant",
+    "image": "/images/restaurants/black-diamond/black-diamond.jpg",
+    "rating": 4.8,
+    "description": "Family-friendly restaurant offering a mix of Balochi, Pakistani and Chinese dishes.",
+    "createdAt": "2013-04-01T00:00:00Z",
+    "contact": {
+      "phone": "0313 1839977",
+      "email": "Shahidkakar36@gmail.com",
+      "address": "Baleli Bypass Chaman Kuchlak National High way 25 opposite DHA main entrance Quetta, Quetta, Pakistan",
+      "website": "",
+      "socialMedia": {
+        "facebook": "https://www.facebook.com/BlackDiamondResturantQuetta/",
+        "twitter": "",
+        "instagram": "https://www.instagram.com/black_diamondrestaurant/?hl=en"
+      }
+    },
+    "features": [
+      "Balochi",
+      "Pakistani",
+      "Chinese",
+      "Family Friendly"
+    ],
+    "gallery": [
+      "/images/restaurants/black-diamond/gallery1.webp",
+      "/images/restaurants/black-diamond/gallery2.webp",
+      "/images/restaurants/black-diamond/gallery3.webp",
+      "/images/restaurants/black-diamond/gallery4.webp",
+      "/images/restaurants/black-diamond/gallery5.webp",
+      "/images/restaurants/black-diamond/gallery6.webp"
+    ],
+    "branches": []
+  },
+  {
+    "name": "Sultan Sofra Restaurant",
+    "image": "/images/restaurants/sultan/sultan.jpg",
+    "rating": 4.7,
+    "description": "Turkish-inspired eatery known for shawarma, falafel and grills in a cozy atmosphere.",
+    "createdAt": "2017-03-01T00:00:00Z",
+    "contact": {
+      "phone": "(081) 2873377",
+      "email": "",
+      "address": "Airport Road Baleli Road, opposite IT University, Quetta, Pakistan",
+      "website": "",
+      "socialMedia": {
+        "facebook": "https://www.facebook.com/sultansofraquetta/",
+        "twitter": "",
+        "instagram": "https://www.instagram.com/sultansofraquetta/?hl=en"
+      }
+    },
+    "features": [
+      "Turkish",
+      "Shawarma",
+      "Grilled Meats",
+      "Cozy Seating"
+    ],
+    "gallery": [
+      "/images/restaurants/sultan/gallery1.webp",
+      "/images/restaurants/sultan/gallery2.webp",
+      "/images/restaurants/sultan/gallery3.webp",
+      "/images/restaurants/sultan/gallery4.webp",
+      "/images/restaurants/sultan/gallery5.webp",
+      "/images/restaurants/sultan/gallery6.webp",
+      "/images/restaurants/sultan/gallery7.webp",
+      "/images/restaurants/sultan/gallery8.webp",
+      "/images/restaurants/sultan/gallery9.webp",
+      "/images/restaurants/sultan/gallery10.webp"
+    ],
+    "branches": []
+  },
+  {
+    "name": "King Kong Pizza & Restaurant",
+    "image": "/images/restaurants/king/king.webp",
+    "rating": 4.5,
+    "description": "Fun spot and aesthetic vibes, for creative pizzas, pastas and sides; popular among young crowds.",
+    "createdAt": "2018-06-01T00:00:00Z",
+    "contact": {
+      "phone": "(081) 2832277",
+      "email": "",
+      "address": "Samungli Rd, Shahbaz Town, Quetta, Pakistan",
+      "website": "",
+      "socialMedia": {
+        "facebook": "https://www.facebook.com/KKPIZZAS",
+        "twitter": "",
+        "instagram": "https://www.instagram.com/king.kongpizza/?hl=en"
+      }
+    },
+    "features": [
+      "Pizza",
+      "Pasta",
+      "Youth Hangout",
+      "Casual Dining"
+    ],
+    "gallery": [
+      "/images/restaurants/king/gallery1.webp",
+      "/images/restaurants/king/gallery2.webp",
+      "/images/restaurants/king/gallery3.webp",
+      "/images/restaurants/king/gallery4.jpg",
+      "/images/restaurants/king/gallery5.webp",
+      "/images/restaurants/king/gallery6.webp",
+      "/images/restaurants/king/gallery7.webp",
+      "/images/restaurants/king/gallery8.webp",
+      "/images/restaurants/king/gallery9.webp",
+      "/images/restaurants/king/gallery10.webp"
+    ],
+    "branches": []
+  },
+  {
+    "name": "EFC Quetta",
+    "image": "/images/restaurants/efc/efc.webp",
+    "rating": 3.7,
+    "description": "Family‑friendly fast‑food chain next to Sahaar Bakery serving fried chicken, burgers and sides.",
+    "createdAt": "2015-01-01T00:00:00Z",
+    "contact": {
+      "phone": "0311 8226682",
+      "email": "",
+      "address": "Airport Rd, near Sahaar Bakery, Quetta, Pakistan",
+      "website": "",
+      "socialMedia": {
+        "facebook": "",
+        "twitter": "",
+        "instagram": ""
+      }
+    },
+    "features": [
+      "Fried Chicken",
+      "Burgers",
+      "Fast Food",
+      "Family Friendly"
+    ],
+    "gallery": [
+      "/images/restaurants/efc/gallery1.webp",
+      "/images/restaurants/efc/gallery2.webp",
+      "/images/restaurants/efc/gallery3.webp",
+      "/images/restaurants/efc/gallery4.webp",
+      "/images/restaurants/efc/gallery5.webp",
+      "/images/restaurants/efc/gallery6.webp",
+      "/images/restaurants/efc/gallery7.jpg"
+    ],
+    "branches": []
+  },
+  {
+    "name": "Chiltan Nights",
+    "image": "/images/restaurants/chiltan/chiltan.webp",
+    "rating": 4.0,
+    "description": "Popular night‑time spot offering desi BBQ, karahi and grills in a lively open‑air setting.",
+    "createdAt": "2018-01-01T00:00:00Z",
+    "contact": {
+      "phone": "0340 0234574",
+      "email": "",
+      "address": "13 Meel Quetta, Pakistan",
+      "website": "",
+      "socialMedia": {
+        "facebook": "https://www.facebook.com/cafechenak/",
+        "twitter": "",
+        "instagram": ""
+      }
+    },
+    "features": [
+      "BBQ",
+      "Karahi",
+      "Desi Grills",
+      "Night Dining"
+    ],
+    "gallery": [
+      "/images/restaurants/chiltan/gallery1.webp",
+      "/images/restaurants/chiltan/gallery2.webp",
+      "/images/restaurants/chiltan/gallery3.webp",
+      "/images/restaurants/chiltan/gallery4.webp",
+      "/images/restaurants/chiltan/gallery5.webp"
+    ],
+    "branches": []
+  },
+  {
+    "name": "Safa Restaurant",
+    "image": "/images/restaurants/safa/safa.webp",
+    "rating": 4.3,
+    "description": "Casual family restaurant in Hazara Town serving Pakistani and continental dishes including biryani and grills.",
+    "createdAt": "2017-01-01T00:00:00Z",
+    "contact": {
+      "phone": "0347 3585946",
+      "email": "",
+      "address": "Safa Restaurant, Barma Rd, Hazara Town, Quetta,",
+      "website": "",
+      "socialMedia": {
+        "facebook": "https://www.facebook.com/SafaRestaurant1",
+        "twitter": "",
+        "instagram": ""
+      }
+    },
+    "features": [
+      "Pakistani",
+      "Continental",
+      "Biryani",
+      "Family Dining"
+    ],
+    "gallery": [
+      "/images/restaurants/safa/gallery1.webp",
+      "/images/restaurants/safa/gallery2.webp",
+      "/images/restaurants/safa/gallery3.webp",
+      "/images/restaurants/safa/gallery4.webp",
+      "/images/restaurants/safa/gallery5.webp",
+      "/images/restaurants/safa/gallery6.webp",
+      "/images/restaurants/safa/gallery7.webp",
+      "/images/restaurants/safa/gallery8.webp",
+      "/images/restaurants/safa/gallery9.webp",
+      "/images/restaurants/safa/gallery10.webp"
+    ],
+    "branches": []
+  }
+]

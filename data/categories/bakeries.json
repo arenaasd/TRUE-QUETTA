@@ -1,0 +1,516 @@
+[
+    {
+        "name": "Bake O'Clock",
+        "image": "/images/bakeries/baklock/baklock.webp",
+        "rating": 4.9,
+        "description": "Home-based bakery specializing in designer cakes, biscuits & pastries; open 11 am–11 pm with home delivery.",
+        "createdAt": "2017-09-01T00:00:00Z",
+        "contact": {
+            "phone": "+92 333 1311206",
+            "email": "",
+            "address": "Near City School Main Campus, Jinnah Town, Quetta, Pakistan",
+            "website": "",
+            "socialMedia": {
+                "facebook": "https://www.facebook.com/bakeoclockquetta/",
+                "twitter": "",
+                "instagram": "https://www.instagram.com/bakeoclockqta/"
+            }
+        },
+        "features": [
+            "Cake Delivery",
+            "Custom Cakes",
+            "Biscuits & Pastries",
+            "Home Delivery"
+        ],
+        "gallery": [
+            "/images/bakeries/baklok/gallery1.webp",
+            "/images/bakeries/baklok/gallery2.webp",
+            "/images/bakeries/baklok/gallery3.webp",
+            "/images/bakeries/baklok/gallery4.webp",
+            "/images/bakeries/baklok/gallery5.webp",
+            "/images/bakeries/baklok/gallery6.webp",
+            "/images/bakeries/baklok/gallery7.webp",
+            "/images/bakeries/baklok/gallery8.webp",
+            "/images/bakeries/baklok/gallery9.webp",
+            "/images/bakeries/baklok/gallery10.webp"
+        ],
+        "branches": []
+    },
+    {
+        "name": "Dolce Cakery",
+        "image": "/images/bakeries/dolce/dolce.webp",
+        "rating": 4.2,
+        "description": "Upscale bakery & café offering cakes, bento cakes, pizza & cheeseburgers; home delivery available.",
+        "createdAt": "2018-01-01T00:00:00Z",
+        "contact": {
+            "phone": "+92 331 8019061",
+            "email": "",
+            "address": "Shahrah-e-Staff College, Cantonment, Quetta, 87300, Pakistan",
+            "website": "",
+            "socialMedia": {
+                "facebook": "https://www.facebook.com/DolceCakery",
+                "twitter": "",
+                "instagram": "https://www.instagram.com/dolce.cakery/"
+            }
+        },
+        "features": [
+            "Cakes",
+            "Bento Cakes",
+            "Pizza",
+            "Coffee",
+            "Home Delivery"
+        ],
+        "gallery": [
+            "/images/bakeries/dolce/gallery1.webp",
+            "/images/bakeries/dolce/gallery2.webp",
+            "/images/bakeries/dolce/gallery3.webp",
+            "/images/bakeries/dolce/gallery4.webp",
+            "/images/bakeries/dolce/gallery5.webp",
+            "/images/bakeries/dolce/gallery6.jpg",
+            "/images/bakeries/dolce/gallery7.webp",
+            "/images/bakeries/dolce/gallery8.webp",
+            "/images/bakeries/dolce/gallery9.webp",
+            "/images/bakeries/dolce/gallery10.webp"
+        ],
+        "branches": []
+    },
+    {
+        "name": "Bravo Bakery Cantt",
+        "image": "/images/bakeries/bravo/bravo.webp",
+        "rating": 3.7,
+        "description": "Popular local bakery in the Cantonment area offering quality cakes, snacks & desserts.",
+        "createdAt": "2012-05-01T00:00:00Z",
+        "contact": {
+            "phone": "+92 306 9001697",
+            "email": "",
+            "address": "Olive Plaza, G.P.O Chowk, Cantonment, Quetta, Pakistan",
+            "website": "",
+            "socialMedia": {
+                "facebook": "",
+                "twitter": "",
+                "instagram": "https://www.instagram.com/bravoquetta/"
+            }
+        },
+        "features": [
+            "Cakes",
+            "Snacks",
+            "Desserts",
+            "Local Bakery"
+        ],
+        "gallery": [
+            "/images/bakeries/bravo/gallery1.webp",
+            "/images/bakeries/bravo/gallery2.webp",
+            "/images/bakeries/bravo/gallery3.webp",
+            "/images/bakeries/bravo/gallery4.webp",
+            "/images/bakeries/bravo/gallery5.webp",
+            "/images/bakeries/bravo/gallery6.webp",
+            "/images/bakeries/bravo/gallery7.webp",
+            "/images/bakeries/bravo/gallery8.webp",
+            "/images/bakeries/bravo/gallery9.webp",
+            "/images/bakeries/bravo/gallery10.webp"
+        ],
+        "branches": []
+    },
+    {
+        "name": "El Dorado Bakery & Cafe",
+        "image": "/images/bakeries/dorado/dorado.webp",
+        "rating": 4.2,
+        "description": "Bakery & café offering a wide variety of breads and pastries at Kalat Plaza; known for royal-quality bakes.",
+        "createdAt": "2019-08-01T00:00:00Z",
+        "contact": {
+            "phone": "(081) 2828808",
+            "email": "",
+            "address": "Joint Road, Kalat Plaza, Quetta, Pakistan",
+            "website": "http://www.eldoradobakery.cafe",
+            "socialMedia": {
+                "facebook": "https://www.facebook.com/eldoradoqta/",
+                "twitter": "",
+                "instagram": ""
+            }
+        },
+        "features": [
+            "Bakery",
+            "Pastries",
+            "Bread",
+            "Cafe"
+        ],
+        "gallery": [
+            "/images/bakeries/dorado/gallery1.webp",
+            "/images/bakeries/dorado/gallery2.webp",
+            "/images/bakeries/dorado/gallery3.webp",
+            "/images/bakeries/dorado/gallery4.webp",
+            "/images/bakeries/dorado/gallery5.webp"
+        ],
+        "branches": []
+    },
+    {
+        "name": "Imperial Bakery",
+        "image": "/images/bakeries/imperial/imperial.webp",
+        "rating": 4.0,
+        "description": "Long-standing bakery on Mission Road offering high-quality cakes, pastries, biscuits and pies, known for its consistent taste and legacy.",
+        "createdAt": "1920-01-01T00:00:00Z",
+        "contact": {
+            "phone": "(081) 2824542",
+            "email": "",
+            "address": "Mission Road, Quetta, Balochistan, Pakistan",
+            "website": "",
+            "socialMedia": {
+                "facebook": "",
+                "twitter": "",
+                "instagram": ""
+            }
+        },
+        "features": [
+            "Cakes",
+            "Pastries",
+            "Biscuits",
+            "Pies"
+        ],
+        "gallery": [
+            "/images/bakeries/imperial/gallery1.webp",
+            "/images/bakeries/imperial/gallery2.webp",
+            "/images/bakeries/imperial/gallery3.webp",
+            "/images/bakeries/imperial/gallery4.webp",
+            "/images/bakeries/imperial/gallery5.jpg",
+            "/images/bakeries/imperial/gallery6.webp",
+            "/images/bakeries/imperial/gallery7.webp"
+        ],
+        "branches": []
+    },
+    {
+        "name": "Cakes N Cookies",
+        "image": "/images/bakeries/cakecook/cakecook.webp",
+        "rating": 4.1,
+        "description": "Established in 2006, this popular bakery specializes in traditional mithai, custom cakes and pastries, with a loyal local following.",
+        "createdAt": "2006-01-01T00:00:00Z",
+        "contact": {
+            "phone": "(081) 2882598",
+            "email": "",
+            "address": "Shop 15, 1st Floor, Hali Road, Model Town, Quetta, Pakistan",
+            "website": "",
+            "socialMedia": {
+                "facebook": "",
+                "twitter": "",
+                "instagram": ""
+            }
+        },
+        "features": [
+            "Mithai",
+            "Custom Cakes",
+            "Pastries"
+        ],
+        "gallery": [
+            "/images/bakeries/cakecook/gallery1.webp",
+            "/images/bakeries/cakecook/gallery2.webp",
+            "/images/bakeries/cakecook/gallery3.webp",
+            "/images/bakeries/cakecook/gallery4.webp",
+            "/images/bakeries/cakecook/gallery5.webp",
+            "/images/bakeries/cakecook/gallery6.webp",
+            "/images/bakeries/cakecook/gallery7.webp",
+            "/images/bakeries/cakecook/gallery8.jpg",
+            "/images/bakeries/cakecook/gallery9.webp",
+            "/images/bakeries/cakecook/gallery10.webp"
+        ],
+        "branches": []
+    },
+    {
+        "name": "New French Bakery",
+        "image": "/images/bakeries/french/french.webp",
+        "rating": 3.2,
+        "description": "A French-style bakery in Hazara Town known for fresh baked goods and celebration cakes made with quality ingredients.",
+        "createdAt": "2015-01-01T00:00:00Z",
+        "contact": {
+            "phone": "(081) 2853420",
+            "email": "",
+            "address": "Hazara Town, Quetta, Balochistan, Pakistan",
+            "website": "",
+            "socialMedia": {
+                "facebook": "",
+                "twitter": "",
+                "instagram": ""
+            }
+        },
+        "features": [
+            "French Pastries",
+            "Cakes",
+            "Fresh Bread"
+        ],
+        "gallery": [
+            "/images/bakeries/french/gallery1.webp",
+            "/images/bakeries/french/gallery2.webp",
+            "/images/bakeries/french/gallery3.webp"
+        ],
+        "branches": []
+    },
+    {
+        "name": "Porto's Donuts Quetta",
+        "image": "/images/bakeries/portos/portos.webp",
+        "rating": 4.0,
+        "description": "Popular for freshly baked donuts, cakes, and desserts, especially during festivals and Eid celebrations.",
+        "createdAt": "2023-10-01T00:00:00Z",
+        "contact": {
+            "phone": "(081) 2823994",
+            "email": "",
+            "address": "Shop#2 Shahbaz Town, near Agha Pharmacy, Quetta, Pakistan",
+            "website": "",
+            "socialMedia": {
+                "facebook": "https://www.facebook.com/PortosBakeryQuetta/",
+                "twitter": "",
+                "instagram": ""
+            }
+        },
+        "features": [
+            "Donuts",
+            "Cakes",
+            "Desserts"
+        ],
+        "gallery": [
+            "/images/bakeries/portos/gallery1.webp",
+            "/images/bakeries/portos/gallery2.webp",
+            "/images/bakeries/portos/gallery3.webp",
+            "/images/bakeries/portos/gallery4.webp",
+            "/images/bakeries/portos/gallery5.webp"
+        ],
+        "branches": []
+    },
+    {
+        "name": "English Bakery",
+        "image": "/images/bakeries/english/english.webp",
+        "rating": 4.2,
+        "description": "Well-regarded local bakery offering a range of breads, buns, and pastries, with a reputation for consistent freshness.",
+        "createdAt": "2000-01-01T00:00:00Z",
+        "contact": {
+            "phone": "(081) 111 252 111",
+            "email": "",
+            "address": "Quetta, Pakistan",
+            "website": "",
+            "socialMedia": {}
+        },
+        "features": [
+            "Bread",
+            "Buns",
+            "Pastries"
+        ],
+        "gallery": [
+            "/images/bakeries/english/gallery1.webp",
+            "/images/bakeries/english/gallery2.webp",
+            "/images/bakeries/english/gallery3.webp",
+            "/images/bakeries/english/gallery4.webp",
+            "/images/bakeries/english/gallery5.webp",
+            "/images/bakeries/english/gallery6.webp"
+        ],
+        "branches": []
+    },
+    {
+        "name": "Utopia Dessert Shop",
+        "image": "/images/bakeries/utopia/utopia.webp",
+        "rating": 4.5,
+        "description": "One-stop dessert destination near Serena Hotel offering custom cakes, pastries and sweets made from premium ingredients.",
+        "createdAt": "2024-05-05T00:00:00Z",
+        "contact": {
+            "phone": "0312 2639938",
+            "email": "",
+            "address": "Shop No. G12, Engineering Building, near Serena Hotel, Zarghoon Road, Quetta, Pakistan",
+            "website": "",
+            "socialMedia": {}
+        },
+        "features": [
+            "Custom Cakes",
+            "Pastries",
+            "Desserts"
+        ],
+        "gallery": [
+            "/images/bakeries/utopia/gallery1.webp",
+            "/images/bakeries/utopia/gallery2.webp",
+            "/images/bakeries/utopia/gallery3.webp",
+            "/images/bakeries/utopia/gallery4.jpg",
+            "/images/bakeries/utopia/gallery5.webp",
+            "/images/bakeries/utopia/gallery6.webp",
+            "/images/bakeries/utopia/gallery7.webp",
+            "/images/bakeries/utopia/gallery8.webp"
+        ],
+        "branches": []
+    },
+    {
+        "name": "Dream Bakers & Super Store",
+        "image": "/images/bakeries/dream/dream.webp",
+        "rating": 3.2,
+        "description": "Popular bakery in Shahbaz Town known for cakes, pastries & same-day delivery; open daily 10 AM–11 PM.",
+        "createdAt": "2014-01-01T00:00:00Z",
+        "contact": {
+            "phone": "+92 333 7817344",
+            "email": "",
+            "address": "Shahbaz Town, Quetta, Balochistan, Pakistan",
+            "website": "",
+            "socialMedia": {
+                "facebook": "",
+                "twitter": "",
+                "instagram": ""
+            }
+        },
+        "features": [
+            "Cakes",
+            "Pastries",
+            "Same-day Delivery"
+        ],
+        "gallery": [],
+        "branches": []
+    },
+    {
+        "name": "Palace Bakery",
+        "image": "/images/bakeries/palace/palace.webp",
+        "rating": 3.9,
+        "description": "Well‑regarded bakery on Mission Road offering cakes, cookies & pastries made with premium ingredients.",
+        "createdAt": "1975-01-01T00:00:00Z",
+        "contact": {
+            "phone": "(081) 2825354",
+            "email": "",
+            "address": "Mission Rd, Quetta, Balochistan, Pakistan",
+            "website": "",
+            "socialMedia": {
+                "facebook": "",
+                "twitter": "",
+                "instagram": ""
+            }
+        },
+        "features": [
+            "Cakes",
+            "Cookies",
+            "Pastries"
+        ],
+        "gallery": [
+            "/images/bakeries/palace/gallery1.webp",
+            "/images/bakeries/palace/gallery2.webp",
+            "/images/bakeries/palace/gallery3.webp",
+            "/images/bakeries/palace/gallery4.webp",
+            "/images/bakeries/palace/gallery5.webp",
+            "/images/bakeries/palace/gallery6.webp"
+        ],
+        "branches": []
+    },
+    {
+        "name": "Zehri Sweets & Bakers",
+        "image": "/images/bakeries/zehri/zehri.webp",
+        "rating": 4.2,
+        "description": "Renowned bakery on Sirki Road, Satellite Town, specializing in freshly baked pastries, cakes & sweets.",
+        "createdAt": "2005-01-01T00:00:00Z",
+        "contact": {
+            "phone": "(081) 2447770",
+            "email": "",
+            "address": "Sirki Rd, Block 2‑3, Satellite Town, Quetta, Balochistan, Pakistan",
+            "website": "",
+            "socialMedia": {
+                "facebook": "",
+                "twitter": "",
+                "instagram": ""
+            }
+        },
+        "features": [
+            "Pastries",
+            "Cakes",
+            "Sweets"
+        ],
+        "gallery": [
+            "/images/bakeries/zehri/gallery1.webp",
+            "/images/bakeries/zehri/gallery2.webp",
+            "/images/bakeries/zehri/gallery3.webp",
+            "/images/bakeries/zehri/gallery4.webp",
+            "/images/bakeries/zehri/gallery5.webp",
+            "/images/bakeries/zehri/gallery6.webp",
+            "/images/bakeries/zehri/gallery7.jpg",
+            "/images/bakeries/zehri/gallery8.webp"
+        ],
+        "branches": []
+    },
+    {
+        "name": "Shaheen Bakery",
+        "image": "/images/bakeries/shaheen/shaheen.webp",
+        "rating": 3.9,
+        "description": "Local bakery in Nasirabad area known for custom celebration cakes (wedding/birthday), open daily 7 am–11 pm.",
+        "createdAt": "2023-10-07T00:00:00Z",
+        "contact": {
+            "phone": "0333 7881123",
+            "email": "",
+            "address": "Pull Syed Garnade, Nasirabad, Quetta, Balochistan, Pakistan",
+            "website": "",
+            "socialMedia": {
+                "facebook": "",
+                "twitter": "",
+                "instagram": ""
+            }
+        },
+        "features": [
+            "Custom Cakes",
+            "Celebration Cakes",
+            "Post Decorated Orders"
+        ],
+        "gallery": [
+            "/images/bakeries/shaheen/gallery1.webp",
+            "/images/bakeries/shaheen/gallery2.webp",
+            "/images/bakeries/shaheen/gallery3.webp",
+            "/images/bakeries/shaheen/gallery4.webp",
+            "/images/bakeries/shaheen/gallery5.webp"
+        ],
+        "branches": []
+    },
+    {
+        "name": "Sahaar Bakers",
+        "image": "/images/bakeries/sahaar/sahaar.webp",
+        "rating": 3.8,
+        "description": "Bakery on Shahbaz Town, offers fresh pastries, cakes and same-day delivery.",
+        "createdAt": "2023-11-01T00:00:00Z",
+        "contact": {
+            "phone": "+92 345 8314706",
+            "email": "",
+            "address": "Samungli Rd, Shahbaz Town, Quetta",
+            "website": "",
+            "socialMedia": {
+                "facebook": "",
+                "twitter": "",
+                "instagram": ""
+            }
+        },
+        "features": [
+            "Pastries",
+            "Cakes",
+            "Same‑Day Delivery"
+        ],
+        "gallery": [
+            "/images/bakeries/sahaar/gallery1.webp",
+            "/images/bakeries/sahaar/gallery2.webp",
+            "/images/bakeries/sahaar/gallery3.webp",
+            "/images/bakeries/sahaar/gallery4.webp"
+        ],
+        "branches": []
+    },
+    {
+        "name": "Pasteria",
+        "image": "/images/bakeries/pasteria/pasteria.webp",
+        "rating": 4.7,
+        "description": "Specializes in custom-designed cakes for all occasions; feels like star bucks enjoy deserts and  crafting visually stunning, delicious cakes.",
+        "createdAt": "2022-12-01T00:00:00Z",
+        "contact": {
+            "phone": "",
+            "email": "",
+            "address": "Airport Rd, Quetta",
+            "website": "",
+            "socialMedia": {}
+        },
+        "features": [
+            "Custom Cakes",
+            "Desserts",
+            "Designer Cakes"
+        ],
+        "gallery": [
+            "/images/bakeries/pasteria/gallery1.webp",
+            "/images/bakeries/pasteria/gallery2.webp",
+            "/images/bakeries/pasteria/gallery3.webp",
+            "/images/bakeries/pasteria/gallery4.webp",
+            "/images/bakeries/pasteria/gallery5.webp",
+            "/images/bakeries/pasteria/gallery6.webp",
+            "/images/bakeries/pasteria/gallery7.webp",
+            "/images/bakeries/pasteria/gallery8.webp"
+        ],
+        "branches": []
+    }
+]

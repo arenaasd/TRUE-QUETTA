@@ -1,0 +1,507 @@
+[
+  {
+    "name": "Sousa's Café",
+    "image": "/images/cafes/sousa/sousa.webp",
+    "rating": 3.7,
+    "description": "Known for delightful cakes, cheesecakes and its signature 3-Milks Cake, Sousa’s Café is a popular spot for treats and casual coffee.",
+    "createdAt": "2018-01-01T00:00:00Z",
+    "contact": {
+      "phone": "(081) 4165952",
+      "email": "",
+      "address": "GPU Chowk, Quetta, Pakistan",
+      "website": "",
+      "socialMedia": {
+        "facebook": "",
+        "twitter": "",
+        "instagram": ""
+      }
+    },
+    "features": [
+      "Cakes",
+      "Cheesecakes",
+      "Desserts",
+      "Coffee"
+    ],
+    "gallery": [
+      "/images/cafes/sousa/gallery1.webp",
+      "/images/cafes/sousa/gallery2.webp"
+    ],
+    "branches": []
+  },
+  {
+    "name": "BeeHive Café & Fast Food",
+    "image": "/images/cafes/beehive/beehive.webp",
+    "rating": 4.2,
+    "description": "Café‑style restaurant offering refreshments, light meals and home delivery in a relaxed atmosphere.",
+    "createdAt": "2021-06-01T00:00:00Z",
+    "contact": {
+      "phone": "+92 316 6888716",
+      "email": "",
+      "address": "Karani Road, New Hazara Town, Quetta, Pakistan",
+      "website": "",
+      "socialMedia": {
+        "facebook": "",
+        "twitter": "",
+        "instagram": "https://www.instagram.com/beehivecafe.pk/"
+      }
+    },
+    "features": [
+      "Cafe",
+      "Light Meals",
+      "Home Delivery"
+    ],
+    "gallery": [
+      "/images/cafes/beehive/gallery1.webp",
+      "/images/cafes/beehive/gallery2.webp",
+      "/images/cafes/beehive/gallery3.webp",
+      "/images/cafes/beehive/gallery4.webp",
+      "/images/cafes/beehive/gallery5.jpg",
+      "/images/cafes/beehive/gallery6.webp",
+      "/images/cafes/beehive/gallery7.webp",
+      "/images/cafes/beehive/gallery8.webp",
+      "/images/cafes/beehive/gallery9.png",
+      "/images/cafes/beehive/gallery10.webp"
+    ],
+    "branches": []
+  },
+  {
+    "name": "Cafe Chill Out",
+    "image": "/images/cafes/cafechill/cafechill.webp",
+    "rating": 3.5,
+    "description": "Casual, family- and kid-friendly café in Jinnah Town, offering fast-food favourites in a relaxed hangout atmosphere.",
+    "createdAt": "2015-06-01T00:00:00Z",
+    "contact": {
+      "phone": "",
+      "email": "",
+      "address": "Shop No 87 Street 3, Samungli Rd, opposite Board Office Quetta, Balochistan, Pakistan",
+      "website": "",
+      "socialMedia": {
+        "facebook": "",
+        "twitter": "",
+        "instagram": ""
+      }
+    },
+    "features": [
+      "Fast Food",
+      "Takeout",
+      "Casual Atmosphere"
+    ],
+    "gallery": [
+      "/images/cafes/cafechill/gallery1.webp",
+      "/images/cafes/cafechill/gallery2.webp"
+    ],
+    "branches": []
+  },
+  {
+    "name": "Quetta Commercial Cafe",
+    "image": "/images/cafes/cc/cc.webp",
+    "rating": 4.3,
+    "description": "A beloved local spot known for excellent tea and Lachadar Parathas—affordable, with a friendly, welcoming crowd and good breakfast options.",
+    "createdAt": "2010-04-01T00:00:00Z",
+    "contact": {
+      "phone": "0315 2833332",
+      "email": "",
+      "address": "Old Pishin, next to Cakes n Cookies in, Stop Model Town Quetta, Balochistan, Pakistan",
+      "website": "",
+      "socialMedia": {
+        "facebook": "https://www.facebook.com/manaarestaurant/",
+        "twitter": "",
+        "instagram": "https://www.instagram.com/cafecncquetta/"
+      }
+    },
+    "features": [
+      "Tea",
+      "Breakfast",
+      "Affordable",
+      "Casual"
+    ],
+    "gallery": [
+      "/images/cafes/cc/gallery1.webp",
+      "/images/cafes/cc/gallery2.webp",
+      "/images/cafes/cc/gallery3.webp",
+      "/images/cafes/cc/gallery4.webp",
+      "/images/cafes/cc/gallery5.webp",
+      "/images/cafes/cc/gallery6.webp",
+      "/images/cafes/cc/gallery7.webp"
+    ],
+    "branches": []
+  },
+  {
+    "name": "Cafe Baldia",
+    "image": "/images/cafes/baldia/baldia.webp",
+    "rating": 3.7,
+    "description": "Comfortable local café in Baldia offering a simple but pleasant ambiance, suitable for small gatherings and casual coffee or snacks.",
+    "createdAt": "1960-01-01T00:00:00Z",
+    "contact": {
+      "phone": "0312 8297897",
+      "email": "",
+      "address": "Baldia, Quetta, Balochistan, Pakistan",
+      "website": "",
+      "socialMedia": {
+        "facebook": "",
+        "twitter": "",
+        "instagram": ""
+      }
+    },
+    "features": [
+      "Coffee",
+      "Snacks",
+      "Casual Atmosphere"
+    ],
+    "gallery": [
+      "/images/cafes/baldia/gallery1.webp",
+      "/images/cafes/baldia/gallery2.webp",
+      "/images/cafes/baldia/gallery3.webp",
+      "/images/cafes/baldia/gallery4.webp"
+    ],
+    "branches": []
+  },
+  {
+    "name": "Road Stoves Cafe",
+    "image": "/images/cafes/roadstoves/roadstoves.webp",
+    "rating": 4.5,
+    "description": "A cozy café known for its relaxed vibe and range of beverages and light snacks.",
+    "createdAt": "2018-01-01T00:00:00Z",
+    "contact": {
+      "phone": "(081) 2825971",
+      "email": "Hashim@roadstoves.com.pk",
+      "address": "PANI TAKSEEM CHOWK QUETTA CANTT BRANCH 5 . SAMUNGALI ROAD QUETTA,",
+      "website": "https://roadstoves.com.pk/",
+      "socialMedia": {
+        "facebook": "https://www.facebook.com/roadstovescafe/",
+        "twitter": "",
+        "instagram": "https://www.instagram.com/roadstovescafepakistan/?hl=en"
+      }
+    },
+    "features": [
+      "Coffee",
+      "Tea",
+      "Snacks"
+    ],
+    "gallery": [
+      "/images/cafes/roadstoves/gallery1.webp",
+      "/images/cafes/roadstoves/gallery2.webp",
+      "/images/cafes/roadstoves/gallery3.webp",
+      "/images/cafes/roadstoves/gallery4.webp",
+      "/images/cafes/roadstoves/gallery5.webp",
+      "/images/cafes/roadstoves/gallery6.webp",
+      "/images/cafes/roadstoves/gallery7.webp",
+      "/images/cafes/roadstoves/gallery8.webp",
+      "/images/cafes/roadstoves/gallery9.webp",
+      "/images/cafes/roadstoves/gallery10.webp"
+    ],
+    "branches": []
+  },
+  {
+    "name": "Café Paag",
+    "image": "/images/cafes/paag/paag.webp",
+    "rating": 4.3,
+    "description": "Tranquil café with a mix of traditional and modern fare—BBQ, pizza, burgers, juices—great for relaxed hangouts.",
+    "createdAt": "2022-07-09T00:00:00Z",
+    "contact": {
+      "phone": "0345-8308999",
+      "email": "",
+      "address": "",
+      "website": "",
+      "socialMedia": {
+        "facebook": "https://www.instagram.com/cafepaag/",
+        "instagram": ""
+      }
+    },
+    "features": [
+      "BBQ",
+      "Burgers",
+      "Pizza",
+      "Juices"
+    ],
+    "gallery": [
+      "/images/cafes/paag/gallery1.webp",
+      "/images/cafes/paag/gallery2.webp",
+      "/images/cafes/paag/gallery3.webp",
+      "/images/cafes/paag/gallery4.webp",
+      "/images/cafes/paag/gallery5.webp",
+      "/images/cafes/paag/gallery6.webp",
+      "/images/cafes/paag/gallery7.webp",
+      "/images/cafes/paag/gallery8.webp",
+      "/images/cafes/paag/gallery9.webp",
+      "/images/cafes/paag/gallery10.webp"
+    ],
+    "branches": []
+  },
+  {
+    "name": "Cafe China",
+    "image": "/images/cafes/china/china.webp",
+    "rating": 3.9,
+    "description": "A casual café-style restaurant open evenings, offering tea and snacks in a relaxed setting.",
+    "createdAt": "1983-01-01T00:00:00Z",
+    "contact": {
+      "phone": "(081) 2841367",
+      "email": "",
+      "Address": "beside China checkpost Cafe China, Quetta",
+      "website": "",
+      "socialMedia": {
+        "facebook": "",
+        "twitter": "",
+        "instagram": ""
+      }
+    },
+    "features": [
+      "Tea",
+      "Snacks",
+      "Casual Atmosphere"
+    ],
+    "gallery": [
+      "/images/cafes/china/gallery1.webp",
+      "/images/cafes/china/gallery2.webp",
+      "/images/cafes/china/gallery3.webp",
+      "/images/cafes/china/gallery4.jpg",
+      "/images/cafes/china/gallery5.webp",
+      "/images/cafes/china/gallery6.webp",
+      "/images/cafes/china/gallery7.webp",
+      "/images/cafes/china/gallery8.webp",
+      "/images/cafes/china/gallery9.webp",
+      "/images/cafes/china/gallery10.webp"
+    ],
+    "branches": []
+  },
+  {
+    "name": "Saigon Cafe",
+    "image": "/images/cafes/saigan/saigan.webp",
+    "rating": 4.3,
+    "description": "Café offering Chinese and Western foods, with standout coffee and traditional tea flavors reminiscent of the 1970s.",
+    "createdAt": "2018-06-01T00:00:00Z",
+    "contact": {
+      "phone": "+92 81 2863333",
+      "email": "",
+      "address": "Shahbaz Town, Phase 3, Quetta, Balochistan, Pakistan",
+      "website": "",
+      "socialMedia": {}
+    },
+    "features": [
+      "Coffee",
+      "Tea",
+      "Chinese Food",
+      "Western Food"
+    ],
+    "gallery": [
+      "/images/cafes/saigan/gallery1.webp",
+      "/images/cafes/saigan/gallery2.webp",
+      "/images/cafes/saigan/gallery3.webp",
+      "/images/cafes/saigan/gallery4.webp",
+      "/images/cafes/saigan/gallery5.webp",
+      "/images/cafes/saigan/gallery6.webp",
+      "/images/cafes/saigan/gallery7.webp",
+      "/images/cafes/saigan/gallery8.webp",
+      "/images/cafes/saigan/gallery9.webp",
+      "/images/cafes/saigan/gallery10.webp"
+    ],
+    "branches": []
+  },
+  {
+    "name": "Linkup Cafe",
+    "image": "/images/cafes/linkup/linkup.webp",
+    "rating": 4.0,
+    "description": "Casual café popular for light snacks and beverages, located near Staff College in Quetta.",
+    "createdAt": "2015-01-01T00:00:00Z",
+    "contact": {
+      "phone": "",
+      "email": "",
+      "address": "Staff College area, Quetta, Balochistan, Pakistan",
+      "website": "",
+      "socialMedia": {}
+    },
+    "features": [
+      "Coffee",
+      "Snacks",
+      "Casual Atmosphere"
+    ],
+    "gallery": [
+      "/images/cafes/linkup/gallery1.webp",
+      "/images/cafes/linkup/gallery2.webp",
+      "/images/cafes/linkup/gallery3.webp",
+      "/images/cafes/linkup/gallery4.webp",
+      "/images/cafes/linkup/gallery5.webp",
+      "/images/cafes/linkup/gallery6.webp",
+      "/images/cafes/linkup/gallery7.webp",
+      "/images/cafes/linkup/gallery8.webp",
+      "/images/cafes/linkup/gallery9.webp",
+      "/images/cafes/linkup/gallery10.webp"
+    ],
+    "branches": []
+  },
+  {
+    "name": "The Tea Lounge",
+    "image": "/images/cafes/tealounge/tealounge.webp",
+    "rating": 4.1,
+    "description": "Cozy tea lounge in Hazara Town offering a relaxed sit-down experience with a variety of teas.",
+    "createdAt": "2017-09-01T00:00:00Z",
+    "contact": {
+      "phone": "0309 1089979",
+      "email": "",
+      "address": "Mohammad Dawood Mall, Hazara Town, Quetta, Balochistan, Pakistan",
+      "website": "",
+      "socialMedia": {}
+    },
+    "features": [
+      "Tea",
+      "Snacks",
+      "Relaxed Ambience"
+    ],
+    "gallery": [
+      "/images/cafes/tealounge/gallery1.webp",
+      "/images/cafes/tealounge/gallery2.webp",
+      "/images/cafes/tealounge/gallery3.webp",
+      "/images/cafes/tealounge/gallery4.webp",
+      "/images/cafes/tealounge/gallery5.webp",
+      "/images/cafes/tealounge/gallery6.webp"
+    ],
+    "branches": []
+  },
+  {
+    "name": "Chai Shai",
+    "image": "/images/cafes/chaishai/chaishai.webp",
+    "rating": 3.0,
+    "description": "Traditional chai spot near University of Balochistan, known for strong tea and casual hangouts.",
+    "createdAt": "2013-05-01T00:00:00Z",
+    "contact": {
+      "phone": "",
+      "email": "",
+      "address": "In front of University of Balochistan, Green Town, Quetta, Balochistan, Pakistan",
+      "website": "",
+      "socialMedia": {}
+    },
+    "features": [
+      "Tea",
+      "Traditional Chai",
+      "Casual"
+    ],
+    "gallery": [
+      "/images/cafes/chaishai/gallery1.webp",
+      "/images/cafes/chaishai/gallery2.webp",
+      "/images/cafes/chaishai/gallery3.webp",
+      "/images/cafes/chaishai/gallery4.webp"
+    ],
+    "branches": []
+  },
+  {
+    "name": "Nehmat Kada",
+    "image": "/images/cafes/naimatkada/naimatkada.webp",
+    "rating": 4.0,
+    "description": "Breakfast-focused café on Prince Road popular in mornings for chae and parathas.",
+    "createdAt": "2005-01-01T00:00:00Z",
+    "contact": {
+      "phone": "0332 8501604",
+      "email": "",
+      "address": "Prince Rd, Quetta, Pakistan",
+      "website": "",
+      "socialMedia": {}
+    },
+    "features": [
+      "Breakfast",
+      "Tea",
+      "Casual Atmosphere"
+    ],
+    "gallery": [
+      "/images/naimatkada/gallery1.webp",
+      "/images/naimatkada/gallery2.webp",
+      "/images/naimatkada/gallery3.webp",
+      "/images/naimatkada/gallery4.webp",
+      "/images/naimatkada/gallery5.webp",
+      "/images/naimatkada/gallery6.webp",
+      "/images/naimatkada/gallery7.webp",
+      "/images/naimatkada/gallery8.webp",
+      "/images/naimatkada/gallery9.webp",
+      "/images/naimatkada/gallery10.webp"
+    ],
+    "branches": []
+  },
+  {
+    "name": "Youngsters Den",
+    "image": "/images/cafes/youngden/youngden.webp",
+    "rating": 4.4,
+    "description": "Local café in Cantonment area frequented by youth, offering coffee and light snacks.",
+    "createdAt": "2018-01-01T00:00:00Z",
+    "contact": {
+      "phone": "",
+      "email": "",
+      "address": "Cantonment, Quetta, Pakistan",
+      "website": "",
+      "socialMedia": {}
+    },
+    "features": [
+      "Coffee",
+      "Snacks",
+      "Youth-Friendly"
+    ],
+    "gallery": [
+      "/images/cafes/youngden/gallery1.webp",
+      "/images/cafes/youngden/gallery2.webp",
+      "/images/cafes/youngden/gallery3.webp",
+      "/images/cafes/youngden/gallery4.webp",
+      "/images/cafes/youngden/gallery5.webp",
+      "/images/cafes/youngden/gallery6.webp",
+      "/images/cafes/youngden/gallery7.webp",
+      "/images/cafes/youngden/gallery8.webp",
+      "/images/cafes/youngden/gallery9.webp",
+      "/images/cafes/youngden/gallery10.webp"
+    ],
+    "branches": []
+  },
+  {
+    "name": "Ice and Fire Cafe & Restaurant",
+    "image": "/images/cafes/icefire/icefire.jpg",
+    "rating": 4.8,
+    "description": "Café-restaurant-bar offering mocktails, smoothies, fresh juices and light food.",
+    "createdAt": "2018-07-01T00:00:00Z",
+    "contact": {
+      "phone": "(081) 2444351",
+      "email": "",
+      "address": "Mini Market Rd, Satellite Town Quetta, Pakistan",
+      "website": "",
+      "socialMedia": {}
+    },
+    "features": [
+      "Mocktails",
+      "Juices",
+      "Light Meals"
+    ],
+    "gallery": [
+      "/images/cafes/icefire/gallery1.webp",
+      "/images/cafes/icefire/gallery2.webp",
+      "/images/cafes/icefire/gallery3.webp",
+      "/images/cafes/icefire/gallery4.webp",
+      "/images/cafes/icefire/gallery5.webp",
+      "/images/cafes/icefire/gallery6.webp",
+      "/images/cafes/icefire/gallery7.webp",
+      "/images/cafes/icefire/gallery8.jpg",
+      "/images/cafes/icefire/gallery9.webp",
+      "/images/cafes/icefire/gallery10.webp"
+    ],
+    "branches": []
+  },
+  {
+    "name": "Cafe Istanbul",
+    "image": "/images/cafes/istanbul/istanbul.webp",
+    "rating": 4.0,
+    "description": "Turkish-style café on Airport Road offering authentic cuisine and desserts like kunafa.",
+    "createdAt": "2020-05-01T00:00:00Z",
+    "contact": {
+      "phone": "0340 0505999",
+      "email": "",
+      "address": "Business Center, Airport Road, Quetta",
+      "website": "",
+      "socialMedia": {}
+    },
+    "features": [
+      "Turkish Food",
+      "Coffee",
+      "Desserts"
+    ],
+    "gallery": [
+      "/images/cafes/istanbul/gallery1.webp",
+      "/images/cafes/istanbul/gallery2.webp",
+      "/images/cafes/istanbul/gallery3.webp"
+    ],
+    "branches": []
+  }
+]
