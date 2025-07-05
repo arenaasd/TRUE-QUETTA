@@ -7,6 +7,8 @@ import {
   Coffee
 } from 'lucide-react';
 import Link from 'next/link';
+import { useRef } from 'react';
+
 
 export default function CompleteLandingPage() {
   // Typing animation state
@@ -20,7 +22,7 @@ export default function CompleteLandingPage() {
   const heroBackgrounds = [
     '/images/restaurants/usmania/usmania.webp',
     '/images/hotels/sarena/sarena-hotel.jpg',
-"    /images/parks/hazarchil/hazarchil.webp",
+    "    /images/parks/hazarchil/hazarchil.webp",
     '/images/bakeries/dorado/dorado.webp',
     '/images/cafes/beehive/beehive.webp',
   ];
@@ -28,6 +30,15 @@ export default function CompleteLandingPage() {
   const [currentBgIndex, setCurrentBgIndex] = useState(0);
 
   // Image slider state
+
+  const categoryRef = useRef(null);
+
+  const scrollToCategories = () => {
+    if (categoryRef.current) {
+      categoryRef.current.scrollIntoView({ behavior: 'smooth' });
+    }
+  };
+
 
 
   const categoryMap = {
@@ -245,6 +256,7 @@ export default function CompleteLandingPage() {
             {/* CTA Buttons */}
             <div className="flex flex-col sm:flex-row gap-4 sm:gap-6 mb-12 sm:mb-16">
               <button
+                onClick={scrollToCategories}
                 className="group inline-flex items-center gap-3 px-8 sm:px-10 py-4 sm:py-5 text-white font-bold rounded-full transition-all duration-300 transform hover:scale-105 shadow-lg text-base sm:text-lg cursor-pointer bg-[var(--teal)] backdrop-blur-md hover:bg-[var(--bronze)]/80"
                 style={{ border: '1px solid rgba(255, 255, 255, 0.2)' }}
               >
@@ -288,7 +300,7 @@ export default function CompleteLandingPage() {
             </p>
           </div>
 
-          <div className="grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-4 gap-6 sm:gap-8">
+          <div ref={categoryRef} className="grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-4 gap-6 sm:gap-8">
             {categories.map((category, index) => (
               <Link
                 key={index}
@@ -541,35 +553,35 @@ export default function CompleteLandingPage() {
           </div>
 
           {/* Bottom Bar */}
- <div className="border-t border-gray-800 bg-gradient-to-r from-gray-900 via-gray-800 to-gray-900">
-  <div className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8 py-10 relative">
-    <div className="flex flex-col sm:flex-row items-center justify-between gap-6 sm:gap-8">
-      {/* Copyright Text */}
-      <p className="text-gray-200 text-sm font-medium text-center sm:text-left transition-all duration-300 hover:text-white hover:tracking-wide">
-        © 2025 Quetta Explorer. All rights reserved.
-      </p>
+          <div className="border-t border-gray-800 bg-gradient-to-r from-gray-900 via-gray-800 to-gray-900">
+            <div className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8 py-10 relative">
+              <div className="flex flex-col sm:flex-row items-center justify-between gap-6 sm:gap-8">
+                {/* Copyright Text */}
+                <p className="text-gray-200 text-sm font-medium text-center sm:text-left transition-all duration-300 hover:text-white hover:tracking-wide">
+                  © 2025 Quetta Explorer. All rights reserved.
+                </p>
 
-      {/* Credits with ARZUNO TEAM */}
-      <div className="flex items-center gap-3 text-sm group">
-        <span className="text-gray-200 font-medium transition-all duration-300 group-hover:text-white">
-          Build with
-        </span>
-        <Heart className="w-5 h-5 text-red-500 fill-current animate-pulse" />
-        <span className="text-gray-200 font-medium transition-all duration-300 group-hover:text-white">
-          by
-        </span>
-        <span
-          className="font-bold text-white px-5 cursor-pointer py-2 rounded-full text-sm transition-all duration-300 group-hover:scale-105 group-hover:shadow-[0_0_15px_rgba(92,28,38,0.5)]"
-          style={{ backgroundColor: 'var(--teal)', border: '1px solid rgba(255, 255, 255, 0.2)' }}
-        >
-          ARZUNO TEAM
-        </span>
-      </div>
-    </div>
-    {/* Decorative Line */}
-    <div className="mt-6 h-1 w-24 mx-auto rounded-full bg-gradient-to-r from-[var(--teal)] to-[var(--bronze)]"></div>
-  </div>
-</div>
+                {/* Credits with ARZUNO TEAM */}
+                <div className="flex items-center gap-3 text-sm group">
+                  <span className="text-gray-200 font-medium transition-all duration-300 group-hover:text-white">
+                    Build with
+                  </span>
+                  <Heart className="w-5 h-5 text-red-500 fill-current animate-pulse" />
+                  <span className="text-gray-200 font-medium transition-all duration-300 group-hover:text-white">
+                    by
+                  </span>
+                  <span
+                    className="font-bold text-white px-5 cursor-pointer py-2 rounded-full text-sm transition-all duration-300 group-hover:scale-105 group-hover:shadow-[0_0_15px_rgba(92,28,38,0.5)]"
+                    style={{ backgroundColor: 'var(--teal)', border: '1px solid rgba(255, 255, 255, 0.2)' }}
+                  >
+                    ARZUNO TEAM
+                  </span>
+                </div>
+              </div>
+              {/* Decorative Line */}
+              <div className="mt-6 h-1 w-24 mx-auto rounded-full bg-gradient-to-r from-[var(--teal)] to-[var(--bronze)]"></div>
+            </div>
+          </div>
 
 
           {/* Scroll to Top Button */}
