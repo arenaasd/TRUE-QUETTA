@@ -8,6 +8,7 @@ import {
 } from 'lucide-react';
 import Link from 'next/link';
 import { useRef } from 'react';
+import Image from 'next/image';
 
 
 export default function CompleteLandingPage() {
@@ -22,7 +23,7 @@ export default function CompleteLandingPage() {
   const heroBackgrounds = [
     '/images/restaurants/usmania/usmania.webp',
     '/images/hotels/sarena/sarena-hotel.jpg',
-    "    /images/parks/hazarchil/hazarchil.webp",
+    "/images/parks/hazarchil/hazarchil.webp",
     '/images/bakeries/dorado/dorado.webp',
     '/images/cafes/beehive/beehive.webp',
   ];
@@ -35,9 +36,11 @@ export default function CompleteLandingPage() {
 
   const scrollToCategories = () => {
     if (categoryRef.current) {
-      categoryRef.current.scrollIntoView({ behavior: 'smooth' });
+      const y = categoryRef.current.getBoundingClientRect().top + window.scrollY - 70; // 70 = your header height
+      window.scrollTo({ top: y, behavior: 'smooth' });
     }
   };
+
 
 
 
@@ -98,7 +101,7 @@ export default function CompleteLandingPage() {
     {
       icon: Bed,
       title: 'Popular Hotels',
-      description: 'Comfortable stays for every budget',
+      description: 'Comfortable stays for every budget in Quetta',
       color: 'bg-blue-50 text-blue-600',
       hoverColor: 'group-hover:bg-blue-100 group-hover:text-blue-700',
       count: '16+'
@@ -106,7 +109,7 @@ export default function CompleteLandingPage() {
     {
       icon: Cake,
       title: 'Famous Bakeries',
-      description: 'Fresh baked goods and treats',
+      description: 'Fresh baked goods and treats in Quetta',
       color: 'bg-pink-50 text-pink-600',
       hoverColor: 'group-hover:bg-pink-100 group-hover:text-pink-700',
       count: '20+'
@@ -114,7 +117,7 @@ export default function CompleteLandingPage() {
     {
       icon: TreePine,
       title: 'Local Parks',
-      description: 'Natural beauty spots to relax with family',
+      description: 'Natural beauty spots to relax with family in Quetta',
       color: 'bg-green-50 text-green-600',
       hoverColor: 'group-hover:bg-green-100 group-hover:text-green-700',
       count: '8+'
@@ -212,13 +215,15 @@ export default function CompleteLandingPage() {
         {/* Background Images */}
         <div className="absolute inset-0">
           {heroBackgrounds.map((bg, index) => (
-            <div
+            <Image
               key={index}
-              className={`absolute inset-0 bg-cover bg-center bg-no-repeat transition-opacity duration-1000 ${index === currentBgIndex ? 'opacity-100' : 'opacity-0'
-                }`}
-              style={{
-                backgroundImage: `url(${bg})`,
-              }}
+              src={bg}
+              quality={100}
+              alt={`Hero Background ${index + 1}`}
+              fill
+              style={{ objectFit: 'cover' }}
+              className={`transition-opacity duration-1000 ${index === currentBgIndex ? 'opacity-100' : 'opacity-0'}`}
+              priority={index === 0} // preload first hero image
             />
           ))}
           {/* Dark overlay for better text readability */}
@@ -291,7 +296,7 @@ export default function CompleteLandingPage() {
 
       <section className="py-16 sm:py-20 lg:py-24 px-4 sm:px-6 lg:px-8 bg-white">
         <div className="max-w-7xl mx-auto">
-          <div className="text-center mb-12 sm:mb-16">
+          <div ref={categoryRef} className="text-center mb-12 sm:mb-16">
             <h2 className="text-2xl sm:text-3xl lg:text-4xl font-black mb-4 sm:mb-6" style={{ color: 'var(--teal)' }}>
               Explore Categories
             </h2>
@@ -300,7 +305,7 @@ export default function CompleteLandingPage() {
             </p>
           </div>
 
-          <div ref={categoryRef} className="grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-4 gap-6 sm:gap-8">
+          <div className="grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-4 gap-6 sm:gap-8">
             {categories.map((category, index) => (
               <Link
                 key={index}
