@@ -384,7 +384,7 @@
     "branches": []
   },
   {
-    "name": "Nehmat Kada",
+    "name": "Nehmat Kada Café & Restaurant",
     "image": "/images/cafes/naimatkada/naimatkada.webp",
     "rating": 4.0,
     "description": "Breakfast-focused café on Prince Road popular in mornings for chae and parathas.",
@@ -402,16 +402,16 @@
       "Casual Atmosphere"
     ],
     "gallery": [
-      "/images/naimatkada/gallery1.webp",
-      "/images/naimatkada/gallery2.webp",
-      "/images/naimatkada/gallery3.webp",
-      "/images/naimatkada/gallery4.webp",
-      "/images/naimatkada/gallery5.webp",
-      "/images/naimatkada/gallery6.webp",
-      "/images/naimatkada/gallery7.webp",
-      "/images/naimatkada/gallery8.webp",
-      "/images/naimatkada/gallery9.webp",
-      "/images/naimatkada/gallery10.webp"
+      "/images/cafes/naimatkada/gallery1.webp",
+      "/images/cafes/naimatkada/gallery2.webp",
+      "/images/cafes/naimatkada/gallery3.webp",
+      "/images/cafes/naimatkada/gallery4.webp",
+      "/images/cafes/naimatkada/gallery5.webp",
+      "/images/cafes/naimatkada/gallery6.webp",
+      "/images/cafes/naimatkada/gallery7.webp",
+      "/images/cafes/naimatkada/gallery8.webp",
+      "/images/cafes/naimatkada/gallery9.webp",
+      "/images/cafes/naimatkada/gallery10.webp"
     ],
     "branches": []
   },

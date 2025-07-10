@@ -388,6 +388,38 @@
     "branches": []
   },
   {
+    "name": "Nehmat Kada Restaurant & Cafe",
+    "image": "/images/cafes/naimatkada/naimatkada.webp",
+    "rating": 4.0,
+    "description": "Breakfast-focused café on Prince Road popular in mornings for chae and parathas.",
+    "createdAt": "2005-01-01T00:00:00Z",
+    "contact": {
+      "phone": "0332 8501604",
+      "email": "",
+      "address": "Prince Rd, Quetta, Pakistan",
+      "website": "",
+      "socialMedia": {}
+    },
+    "features": [
+      "Breakfast",
+      "Tea",
+      "Casual Atmosphere"
+    ],
+    "gallery": [
+      "/images/cafes/naimatkada/gallery1.webp",
+      "/images/cafes/naimatkada/gallery2.webp",
+      "/images/cafes/naimatkada/gallery3.webp",
+      "/images/cafes/naimatkada/gallery4.webp",
+      "/images/cafes/naimatkada/gallery5.webp",
+      "/images/cafes/naimatkada/gallery6.webp",
+      "/images/cafes/naimatkada/gallery7.webp",
+      "/images/cafes/naimatkada/gallery8.webp",
+      "/images/cafes/naimatkada/gallery9.webp",
+      "/images/cafes/naimatkada/gallery10.webp"
+    ],
+    "branches": []
+  },
+  {
     "name": "Black Diamond Restaurant",
     "image": "/images/restaurants/black-diamond/black-diamond.jpg",
     "rating": 4.8,
