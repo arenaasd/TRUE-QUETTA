@@ -146,23 +146,23 @@ export default function CompleteLandingPage() {
 
   const testimonials = [
     {
-      name: 'Ahmed Khan',
-      role: 'Local Food Blogger',
-      image: 'https://images.unsplash.com/photo-1472099645785-5658abf4ff4e?w=80&h=80&fit=crop&crop=face',
+      name: 'F&S Adventures',
+      role: 'Local Food Vlogger',
+      image: '/reviews/vlogger.jpeg',
       rating: 5,
       text: 'This platform helped me discover amazing restaurants I never knew existed in Quetta. The recommendations are spot-on!'
     },
     {
       name: 'Fatima Ali',
       role: 'Tourism Officer',
-      image: 'https://images.unsplash.com/photo-1601027847350-0285867c31f7?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxzZWFyY2h8N3x8cXVlc3Rpb24lMjBtYXJrfGVufDB8fDB8fHww',
+      image: '/reviews/women.webp',
       rating: 5,
       text: 'As someone working in tourism, I recommend this site to all visitors. It showcases the best of what Quetta has to offer.'
     },
     {
-      name: 'Mehmood Ahmed',
+      name: 'Liaqat Sasoli',
       role: 'Business Owner',
-      image: 'https://dynamic-media-cdn.tripadvisor.com/media/photo-o/1d/d7/c3/b6/mehmood-hotel-restaurant.jpg?w=900&h=500&s=1',
+      image: '/reviews/local.jpg',
       rating: 5,
       text: 'Being listed here brought more customers to my restaurant. The platform truly supports local businesses.'
     }
@@ -380,10 +380,14 @@ export default function CompleteLandingPage() {
             {testimonials.map((testimonial, index) => (
               <div key={index} className="bg-white border-2 border-gray-100 rounded-2xl p-6 sm:p-8 transition-all duration-300 hover:border-[var(--bronze)] hover:shadow-lg">
                 <div className="flex items-center mb-4 sm:mb-6">
-                  <img
+                  <Image
+                    width={80}
+                    height={80}
+                    quality={90}
+                    priority
                     src={testimonial.image}
                     alt={testimonial.name}
-                    className="w-12 h-12 sm:w-16 sm:h-16 rounded-full mr-4"
+                    className="w-12 h-12 sm:w-16 sm:h-16 object-cover rounded-full mr-4"
                   />
                   <div>
                     <h4 className="font-bold text-gray-900 text-sm sm:text-base">{testimonial.name}</h4>
