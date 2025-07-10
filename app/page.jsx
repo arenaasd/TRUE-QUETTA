@@ -96,7 +96,7 @@ export default function CompleteLandingPage() {
       description: 'Discover the best dining experiences in Quetta',
       color: 'bg-orange-50 text-orange-600',
       hoverColor: 'group-hover:bg-orange-100 group-hover:text-orange-700',
-      count: '15+'
+      count: '17+'
     },
     {
       icon: Bed,
@@ -104,7 +104,7 @@ export default function CompleteLandingPage() {
       description: 'Comfortable stays for every budget in Quetta',
       color: 'bg-blue-50 text-blue-600',
       hoverColor: 'group-hover:bg-blue-100 group-hover:text-blue-700',
-      count: '16+'
+      count: '15+'
     },
     {
       icon: Cake,
@@ -112,7 +112,7 @@ export default function CompleteLandingPage() {
       description: 'Fresh baked goods and treats in Quetta',
       color: 'bg-pink-50 text-pink-600',
       hoverColor: 'group-hover:bg-pink-100 group-hover:text-pink-700',
-      count: '20+'
+      count: '16+'
     },
     {
       icon: TreePine,
@@ -193,10 +193,10 @@ export default function CompleteLandingPage() {
 
 
   const stats = [
-    { icon: MapPin, count: '150+', label: 'Places Listed' },
-    { icon: Users, count: '12K+', label: 'Happy Users' },
+    { icon: MapPin, count: '60+', label: 'Places Listed' },
+    { icon: Users, count: '1200+', label: 'Happy Users' },
     { icon: Star, count: '4.9', label: 'Average Rating' },
-    { icon: Award, count: '98%', label: 'Verified Places' }
+    { icon: Award, count: '100%', label: 'Verified Places' }
   ];
 
 
@@ -424,7 +424,7 @@ export default function CompleteLandingPage() {
                   <div className="p-2 rounded-lg" style={{ backgroundColor: 'var(--teal)' }}>
                     <MapPin className="w-6 h-6 text-white" />
                   </div>
-                  <h3 className="text-2xl font-black text-white">Quetta Explorer</h3>
+                  <h3 className="text-2xl font-black text-white">True Quetta</h3>
                 </div>
                 <p className="text-gray-400 mb-8 leading-relaxed">
                   Your ultimate guide to discovering the finest dining, accommodation, and entertainment experiences in the beautiful city of Quetta.
@@ -563,32 +563,16 @@ export default function CompleteLandingPage() {
 
           {/* Bottom Bar */}
           <div className="border-t border-gray-800 bg-gradient-to-r from-gray-900 via-gray-800 to-gray-900">
-            <div className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8 py-10 relative">
-              <div className="flex flex-col sm:flex-row items-center justify-between gap-6 sm:gap-8">
+            <div className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8 py-4 relative">
+              <div className="flex flex-col sm:flex-row items-center justify-center gap-6 sm:gap-8">
                 {/* Copyright Text */}
                 <p className="text-gray-200 text-sm font-medium text-center sm:text-left transition-all duration-300 hover:text-white hover:tracking-wide">
-                  © 2025 Quetta Explorer. All rights reserved.
+                  © 2025 True Quetta. All rights reserved.
                 </p>
 
-                {/* Credits with ARZUNO TEAM */}
-                <div className="flex items-center gap-3 text-sm group">
-                  <span className="text-gray-200 font-medium transition-all duration-300 group-hover:text-white">
-                    Build with
-                  </span>
-                  <Heart className="w-5 h-5 text-red-500 fill-current animate-pulse" />
-                  <span className="text-gray-200 font-medium transition-all duration-300 group-hover:text-white">
-                    by
-                  </span>
-                  <span
-                    className="font-bold text-white px-5 cursor-pointer py-2 rounded-full text-sm transition-all duration-300 group-hover:scale-105 group-hover:shadow-[0_0_15px_rgba(92,28,38,0.5)]"
-                    style={{ backgroundColor: 'var(--teal)', border: '1px solid rgba(255, 255, 255, 0.2)' }}
-                  >
-                    ARZUNO TEAM
-                  </span>
-                </div>
               </div>
               {/* Decorative Line */}
-              <div className="mt-6 h-1 w-24 mx-auto rounded-full bg-gradient-to-r from-[var(--teal)] to-[var(--bronze)]"></div>
+              <div className="mt-4 h-1 w-24 mx-auto rounded-full bg-gradient-to-r from-[var(--teal)] to-[var(--bronze)]"></div>
             </div>
           </div>
 
