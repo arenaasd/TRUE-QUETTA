@@ -1,17 +1,17 @@
 export default function Loading() {
   return (
-    <div className="fixed inset-0 z-50 ml-12 flex flex-col mt-16 items-center justify-center">
+    <div className="fixed inset-0 z-50 ml-12 flex flex-col  items-center justify-center">
       <video
         src="/animation.mp4"
         autoPlay
         muted
         playsInline
-        className="w-[200px] h-[150px] object-cover "
+        className="w-[350px] h-[250px] object-cover "
       ></video>
       <div
-        className="mt-4 text-medium text-center md:text-xl lg:text-2xl font-black uppercase tracking-wider"
+        className="mb-4 text-medium text-center md:text-xl lg:text-2xl font-black uppercase tracking-wider"
         style={{
-          backgroundImage: 'repeating-linear-gradient(105deg, var(--teal) 0%, #8B4513 5%, var(--teal) 12%)',
+          backgroundImage: 'repeating-linear-gradient(105deg, var(--teal) 5%, var(--teal) 12%)',
           backgroundClip: 'text',
           WebkitBackgroundClip: 'text',
           color: 'transparent',
@@ -21,7 +21,7 @@ export default function Loading() {
           fontSize: 'clamp(1.5rem, 5vw, 3rem)',
         }}
       >
-        Loading Data...
+        Please wait...
       </div>
     </div>
   );
