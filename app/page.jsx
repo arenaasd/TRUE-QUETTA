@@ -2,9 +2,7 @@
 import { useEffect, useState } from 'react';
 import {
   Utensils, Bed, TreePine, Cake, MapPin, Star, ArrowRight, Search,
-  Users, Award, Shield, Zap, Globe, Phone, Mail, Facebook, Twitter,
-  Instagram, Youtube, ArrowUp, Heart,
-  Coffee
+  Users, Award, Shield, Zap, Globe, Facebook, Instagram, Youtube, ArrowUp, Heart, Coffee,
 } from 'lucide-react';
 import Link from 'next/link';
 import { useRef } from 'react';
@@ -19,13 +17,17 @@ export default function CompleteLandingPage() {
   const [wordIndex, setWordIndex] = useState(0);
   const [charIndex, setCharIndex] = useState(0);
 
+
+  const BASE_IMAGE_URL = "https://tgqbqycxltdgbdyewxth.supabase.co/storage/v1/object/public";
+
+
   // Background images for hero section
   const heroBackgrounds = [
-    '/images/restaurants/usmania/usmania.webp',
-    '/images/hotels/sarena/sarena-hotel.jpg',
-    "/images/parks/hazarchil/hazarchil.webp",
-    '/images/bakeries/dorado/dorado.webp',
-    '/images/cafes/beehive/beehive.webp',
+    `${BASE_IMAGE_URL}/images/restaurants/usmania/usmania.webp`,
+    `${BASE_IMAGE_URL}/images/hotels/sarena/sarena-hotel.jpg`,
+    `${BASE_IMAGE_URL}/images/parks/hazarchil/hazarchil.webp`,
+    `${BASE_IMAGE_URL}/images/bakeries/dorado/dorado.webp`,
+    `${BASE_IMAGE_URL}/images/cafes/beehive/beehive.webp`,
   ];
 
   const [currentBgIndex, setCurrentBgIndex] = useState(0);
