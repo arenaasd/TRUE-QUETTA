@@ -1,6 +1,6 @@
 'use client'
 import Link from 'next/link'
-import { ChefHat, Cake, Building2, TreePine, ChevronLeft, Coffee, Grid3X3, ChevronDown } from 'lucide-react'
+import { ChefHat, Cake, Building2, TreePine, ShoppingBag, Utensils, ChevronLeft, Coffee, Grid3X3, ChevronDown } from 'lucide-react'
 import { usePathname } from 'next/navigation';
 import { useEffect, useState } from 'react';
 
@@ -19,7 +19,7 @@ const Sidebar = ({ isOpen, setIsOpen }) => {
   useEffect(() => {
     // Only disable scroll on mobile devices
     const isMobile = window.innerWidth < 768
-    
+
     if (isOpen && isMobile) {
       document.body.style.overflow = 'hidden'
     } else {
@@ -28,11 +28,12 @@ const Sidebar = ({ isOpen, setIsOpen }) => {
   }, [isOpen])
 
   const categories = [
-    { href: "/category/restaurants", icon: ChefHat, label: "Top Restaurants" },
+    { href: "/category/restaurants", icon: Utensils, label: "Top Restaurants" },
     { href: "/category/bakeries", icon: Cake, label: "Top Bakeries" },
     { href: "/category/cafes", icon: Coffee, label: "Top Cafes" },
     { href: "/category/hotels", icon: Building2, label: "Top Hotels" },
-    { href: "/category/parks", icon: TreePine, label: "Best Parks" }
+    { href: "/category/parks", icon: TreePine, label: "Best Parks" },
+    { href: "/category/malls", icon: ShoppingBag, label: "Best Shopping Malls" },
   ];
 
   return (
@@ -63,7 +64,8 @@ const Sidebar = ({ isOpen, setIsOpen }) => {
           <div className="relative">
             <button
               onClick={toggleCategory}
-              className={`flex items-center w-full py-3 text-[var(--foreground)] hover:bg-[var(--bronze)] hover:text-white transition-all duration-300 group rounded-xl
+              className={`flex items-center w-full py-3 hover:bg-[var(--bronze)]/10 hover:shadow-lg hover:-translate-y-[1px] hover:scale-[1.01]
+                text-[var(--foreground)] group duration-150 transition-all ease-in
                 ${isOpen ? 'px-4 justify-between' : 'pl-4 justify-center'}`}
             >
               <div className="flex items-center">
@@ -72,7 +74,7 @@ const Sidebar = ({ isOpen, setIsOpen }) => {
                   Category
                 </span>
               </div>
-              <ChevronDown 
+              <ChevronDown
                 className={`w-4 h-4 transition-transform duration-300 ${isOpen ? 'opacity-100' : 'opacity-0'} ${isCategoryOpen ? 'rotate-180' : ''}`}
               />
             </button>

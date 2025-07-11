@@ -55,6 +55,9 @@ export async function generateMetadata({ params }) {
 
 const slugify = str => str.toLowerCase().replace(/\s+/g, '-');
 
+const BASE_IMAGE_URL = "https://tgqbqycxltdgbdyewxth.supabase.co/storage/v1/object/public";
+
+
 import path from 'path';
 import { promises as fs } from 'fs';
 import Image from 'next/image'
@@ -62,10 +65,15 @@ import { notFound } from 'next/navigation'
 import { Phone, Mail, Globe, MapPin, Facebook, Twitter, Instagram, CheckCircle, Building2, ArrowRight } from 'lucide-react'
 import Link from 'next/link';
 
+export const dynamic = 'force-dynamic';
+
+
 
 const page = async ({ params }) => {
   const categoryName = params.name
   const placeSlug = decodeURIComponent(params.place)
+
+    await new Promise((resolve) => setTimeout(resolve, 3000));
 
   // Step 1: Load JSON file
   const filePath = path.join(process.cwd(), 'data', 'categories', `${categoryName}.json`)
@@ -97,7 +105,7 @@ const page = async ({ params }) => {
           {/* Main Image */}
           <div className="relative h-48 sm:h-64 md:h-80 lg:h-96 overflow-hidden rounded-lg sm:rounded-2xl lg:rounded-3xl shadow-2xl">
             <Image
-              src={place.image}
+              src={`${BASE_IMAGE_URL}${place.image}` || "/placeholder.jpg"}
               alt={`${place.name} - ${categoryName} in Quetta`} fill
               priority
               quality={90}
@@ -308,7 +316,7 @@ const page = async ({ params }) => {
                     {branch.image && (
                       <div className="relative h-32 sm:h-40 overflow-hidden">
                         <Image
-                          src={branch.image}
+                          src={`${BASE_IMAGE_URL}${branch.image}`}
                           alt={branch.name}
                           fill
                           className="object-cover group-hover:scale-105 transition-transform duration-500"
@@ -371,7 +379,7 @@ const page = async ({ params }) => {
                     className="group cursor-pointer relative aspect-[4/3] overflow-hidden rounded-xl sm:rounded-2xl shadow-lg hover:shadow-xl transition-all duration-300"
                   >
                     <Image
-                      src={img}
+                      src={`${BASE_IMAGE_URL}${img}`}
                       alt={`${place.name} image ${i + 1}`}
                       fill
                       className="object-cover group-hover:scale-105 transition-transform duration-500"

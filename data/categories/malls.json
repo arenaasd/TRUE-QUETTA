@@ -1,0 +1,384 @@
+[
+  {
+    "name": "Millennium Mall Quetta",
+    "rating": 4.4,
+    "description": "Millennium Mall Quetta is the top shopping mall in Quetta, Pakistan, offering an international-standard shopping and entertainment experience. Featuring a wide range of branded stores, a spacious food court, kids’ play areas, prayer rooms, and multi-level secure parking, it is the perfect family destination for shopping and leisure activities in Quetta.",
+    "createdAt": "2018-10-15T00:00:00Z",
+    "contact": {
+      "phone": "+92 81 2845555",
+      "email": "info@millenniummallquetta.com",
+      "address": "Millennium Mall, Airport Road, Quetta, Balochistan, Pakistan",
+      "website": "https://millenniummallquetta.com",
+      "socialMedia": {
+        "facebook": "https://facebook.com/millenniummallquetta",
+        "twitter": "https://twitter.com/millenniumquet",
+        "instagram": "https://instagram.com/millenniummallquetta"
+      }
+    },
+    "features": [
+      "Branded Stores",
+      "Food Court",
+      "Kids Play Area",
+      "Prayer Rooms",
+      "Multi-level Parking",
+      "Escalators & Elevators",
+      "24/7 Security"
+    ],
+    "branches": []
+  },
+  {
+    "name": "Gold City Shopping Mall",
+    "rating": 4.2,
+    "description": "Gold City Shopping Mall on Jinnah Road in Quetta offers a premium shopping experience with a blend of fashion stores, jewelry shops, cosmetics outlets, and a lively food court. It’s a family-friendly mall known for its elegant ambiance, making it a top spot for shopping and dining in Quetta.",
+    "createdAt": "2017-05-20T00:00:00Z",
+    "contact": {
+      "phone": "+92 81 2857777",
+      "email": "contact@goldcitymall.com",
+      "address": "Gold City Mall, Jinnah Road, Quetta, Balochistan, Pakistan",
+      "website": "https://goldcitymall.com",
+      "socialMedia": {
+        "facebook": "https://facebook.com/goldcitymallquetta",
+        "twitter": "https://twitter.com/goldcityquetta",
+        "instagram": "https://instagram.com/goldcitymallquetta"
+      }
+    },
+    "features": [
+      "Fashion Stores",
+      "Jewelry & Cosmetics",
+      "Family Food Court",
+      "Secure Parking",
+      "Kids Friendly"
+    ],
+    "branches": []
+  },
+  {
+    "name": "Complex of Quetta",
+    "rating": 4.0,
+    "description": "Complex of Quetta is a modern multi-purpose shopping and entertainment complex located on Sariab Road. It features retail outlets, a mini-cinema, a well-stocked supermarket, and diverse dining options, making it a popular choice for families and visitors looking for shopping and entertainment in Quetta.",
+    "createdAt": "2020-11-10T00:00:00Z",
+    "contact": {
+      "phone": "+92 81 2868888",
+      "email": "info@complexofquetta.com",
+      "address": "Complex of Quetta, Sariab Road, Quetta, Balochistan, Pakistan",
+      "website": "https://complexofquetta.com",
+      "socialMedia": {
+        "facebook": "https://facebook.com/complexofquetta",
+        "twitter": "https://twitter.com/complexquetta",
+        "instagram": ""
+      }
+    },
+    "features": [
+      "Retail Shops",
+      "Mini Cinema",
+      "Supermarket",
+      "Multiple Restaurants",
+      "Spacious Parking"
+    ],
+    "branches": []
+  },
+  {
+    "name": "Galaxy Mall Quetta",
+    "rating": 4.3,
+    "description": "Galaxy Mall Quetta is a premier shopping mall located on Zarghoon Road. Known for its luxurious architecture, wide selection of international brands, and a gourmet food court, it’s the ideal destination for shoppers and families seeking a complete shopping and dining experience in Quetta.",
+    "createdAt": "2019-08-05T00:00:00Z",
+    "contact": {
+      "phone": "+92 81 2891234",
+      "email": "info@galaxymallquetta.com",
+      "address": "Galaxy Mall, Zarghoon Road, Quetta, Balochistan, Pakistan",
+      "website": "https://galaxymallquetta.com",
+      "socialMedia": {
+        "facebook": "https://facebook.com/galaxymallquetta",
+        "twitter": "",
+        "instagram": "https://instagram.com/galaxymallquetta"
+      }
+    },
+    "features": [
+      "International Brands",
+      "Gourmet Food Court",
+      "Modern Interiors",
+      "Spacious Parking",
+      "Kids Play Zone"
+    ],
+    "branches": []
+  },
+  {
+    "name": "Quetta Trade Center",
+    "rating": 4.1,
+    "description": "Quetta Trade Center on Brewery Road is a popular commercial complex featuring a variety of retail shops, electronics outlets, and casual dining spots. With ample parking and a central location, it’s a convenient hub for everyday shopping and leisure in Quetta.",
+    "createdAt": "2016-03-15T00:00:00Z",
+    "contact": {
+      "phone": "+92 81 2876543",
+      "email": "contact@quettatradecenter.com",
+      "address": "Quetta Trade Center, Brewery Road, Quetta, Balochistan, Pakistan",
+      "website": "https://quettatradecenter.com",
+      "socialMedia": {
+        "facebook": "https://facebook.com/quettatradecenter",
+        "twitter": "",
+        "instagram": ""
+      }
+    },
+    "features": [
+      "Retail Shops",
+      "Electronics Stores",
+      "Casual Dining",
+      "Convenient Parking",
+      "Central Location"
+    ],
+    "branches": []
+  },
+  {
+    "name": "Sapphire Mall Quetta",
+    "rating": 4.0,
+    "description": "Sapphire Mall Quetta, situated near Airport Road, offers a vibrant shopping atmosphere with fashion boutiques, lifestyle stores, and delightful eateries. It's a favorite spot among locals for trendy shopping and enjoying delicious meals in Quetta.",
+    "createdAt": "2021-07-25T00:00:00Z",
+    "contact": {
+      "phone": "+92 81 2889988",
+      "email": "info@sapphiremallquetta.com",
+      "address": "Sapphire Mall, near Airport Road, Quetta, Balochistan, Pakistan",
+      "website": "https://sapphiremallquetta.com",
+      "socialMedia": {
+        "facebook": "https://facebook.com/sapphiremallquetta",
+        "twitter": "",
+        "instagram": "https://instagram.com/sapphiremallquetta"
+      }
+    },
+    "features": [
+      "Fashion Boutiques",
+      "Lifestyle Stores",
+      "Family Dining",
+      "Entertainment Options",
+      "Safe Parking"
+    ],
+    "branches": []
+  },
+  {
+    "name": "Delight Mall Quetta",
+    "rating": 4.1,
+    "description": "Delight Mall Quetta on Toghi Road is an all-in-one shopping, entertainment, and family destination featuring a modern indoor playland, a variety of retail outlets, escalators, elevators, and ample parking. Known for its upscale environment and customer service, it’s quickly become a favorite shopping spot in Quetta.", 
+    "createdAt": "2023-01-01T00:00:00Z",
+    "contact": {
+      "phone": "",
+      "email": "",
+      "address": "Toghi Road, Quetta, Balochistan, Pakistan",
+      "website": "https://delightmallquetta.com",
+      "socialMedia": {
+        "facebook": "",
+        "twitter": "",
+        "instagram": ""
+      }
+    },
+    "features": [
+      "Indoor Playland",
+      "Escalators & Elevators",
+      "Retail Shops",
+      "Wide Parking",
+      "24/7 Security",
+      "Power Backup"
+    ],
+    "branches": []
+  },
+  {
+    "name": "QA Mall Quetta",
+    "rating": 4.0,
+    "description": "QA Mall, one of the largest mall projects in Balochistan near Askari Park, offers a spacious, earthquake-resistant retail environment with multi-storey design, high-speed escalators, wide corridors, and extensive car parking. Designed as a future retail landmark, it's aimed at becoming the top shopping destination in Quetta.", 
+    "createdAt": "2022-10-02T00:00:00Z",
+    "contact": {
+      "phone": "",
+      "email": "",
+      "address": "Near Askari Park, Quetta, Balochistan, Pakistan",
+      "website": "",
+      "socialMedia": {
+        "facebook": "",
+        "twitter": "",
+        "instagram": ""
+      }
+    },
+    "features": [
+      "Earthquake‑Resistant Structure",
+      "High‑speed Escalators",
+      "Wide Corridors",
+      "Multi‑storey Parking",
+      "Fire Safety Systems"
+    ],
+    "branches": []
+  },
+  {
+    "name": "Balochistan Askari Mall",
+    "rating": 3.9,
+    "description": "Balochistan Askari Mall, a centrally air‑conditioned shopping complex, features a range of retail outlets, a food court, secure parking and a modern retail environment. It's one of the few fully climate‑controlled malls in Quetta, making it ideal for family shopping year‑round.", 
+    "createdAt": "2019-10-02T00:00:00Z",
+    "contact": {
+      "phone": "",
+      "email": "",
+      "address": "Quetta Cantt, Balochistan, Pakistan",
+      "website": "",
+      "socialMedia": {
+        "facebook": "",
+        "twitter": "",
+        "instagram": ""
+      }
+    },
+    "features": [
+      "Central Air Conditioning",
+      "Food Court",
+      "Retail Outlets",
+      "Secure Parking",
+      "CCTV Surveillance"
+    ],
+    "branches": []
+  },
+   {
+    "name": "Dawood Shopping Centre",
+    "rating": 4.1,
+    "description": "Dawood Shopping Centre on Tola Ram Road is a popular retail hub in Quetta, offering a wide range of clothing, ladies’ fashion, kid’s items and home accessories at reasonable prices. With ample parking, home-delivery options, and a vibrant shopping environment, it’s a go-to spot for everyday and occasional shoppers in Quetta.",
+    "createdAt": "2015-06-10T00:00:00Z",
+    "contact": {
+      "phone": "+92 321 8122244",
+      "email": "",
+      "address": "Tola Ram Road, Quetta, Balochistan, Pakistan",
+      "website": "",
+      "socialMedia": {
+        "facebook": "https://facebook.com/dawoodshoppingcentre",
+        "twitter": "",
+        "instagram": "https://instagram.com/mdm_mall"
+      }
+    },
+    "features": [
+      "Clothing & Fashion",
+      "Ladies & Kids Items",
+      "Home Accessories",
+      "Home Delivery",
+      "Ample Parking",
+      "Reasonable Prices"
+    ],
+    "branches": []
+  },
+  {
+    "name": "Safa Shopping Centre",
+    "rating": 4.2,
+    "description": "Safa Shopping Centre on Tola Ram Road is a leading departmental store and retail mall in Quetta, featuring a variety of garments, beauty products, shoe shops, and accessories. With multiple floors and modern shelving, it’s a preferred destination for fashion-conscious shoppers and families exploring the latest trends in Quetta.",
+    "createdAt": "2018-03-22T00:00:00Z",
+    "contact": {
+      "phone": "+92 310 0080333",
+      "email": "",
+      "address": "Usman Jogezai Street / Tola Ram Road, Quetta, Balochistan, Pakistan",
+      "website": "",
+      "socialMedia": {
+        "facebook": "https://facebook.com/SafaShoppingCenter",
+        "twitter": "",
+        "instagram": "https://instagram.com/safashoppingcenterquetta"
+      }
+    },
+    "features": [
+      "Garments & Beauty",
+      "Multi-level Stores",
+      "Shoe & Accessories",
+      "Modern Layout",
+      "Family-friendly"
+    ],
+    "branches": []
+  },
+  {
+    "name": "Haroon Shopping Centre",
+    "rating": 4.0,
+    "description": "Haroon Shopping Centre on Tola Ram Road near Toba Masjid is a modern, climate-controlled retail complex in Quetta, featuring traditional handicrafts, fashion boutiques, children’s apparel, and a food court. With spacious aisles, cultural exhibitions, and convenient hours, it’s a shopper’s paradise offering both local culture and contemporary retail.",
+    "createdAt": "2020-10-05T00:00:00Z",
+    "contact": {
+      "phone": "+92 300 8380061",
+      "email": "",
+      "address": "Tola Ram Road, Near Toba Masjid, Quetta, Balochistan, Pakistan",
+      "website": "",
+      "socialMedia": {
+        "facebook": "https://facebook.com/haroonshoppingcenter",
+        "twitter": "",
+        "instagram": "https://instagram.com/haroonshoppingcentre"
+      }
+    },
+    "features": [
+      "Handicrafts & Fashion",
+      "Children’s Clothes",
+      "Food Court",
+      "Cultural Exhibitions",
+      "Climate-Controlled",
+      "Secure Parking"
+    ],
+    "branches": []
+  },
+  {
+    "name": "A.R Shopping Mall",
+    "rating": 4.0,
+    "description": "A.R Shopping Mall on Sariab Road is a vibrant retail hub in Quetta, offering clothing, electronics, household goods, and a food court. With wide corridors and ample parking, it’s a top choice for families and everyday shopping in Quetta.",
+    "createdAt": "2021-05-01T00:00:00Z",
+    "contact": {
+      "phone": "+92 81 2861234",
+      "email": "",
+      "address": "Sariab Road (Burma Hotel Chowk), Quetta, Balochistan, Pakistan",
+      "website": "",
+      "socialMedia": {
+        "facebook": "",
+        "twitter": "",
+        "instagram": ""
+      }
+    },
+    "features": [
+      "Clothing",
+      "Electronics",
+      "Household Goods",
+      "Food Court",
+      "Ample Parking",
+      "Family Friendly"
+    ],
+    "branches": []
+  },
+  {
+    "name": "City Center Plaza",
+    "rating": 4.1,
+    "description": "City Center Plaza on Jinnah Road features a modern, multi-level retail space with branded apparel stores, a café lounge, and convenient parking. It’s a convenient and stylish shopping destination in Quetta’s city center.",
+    "createdAt": "2019-11-20T00:00:00Z",
+    "contact": {
+      "phone": "+92 81 2879000",
+      "email": "info@citycenterplaza.com.pk",
+      "address": "Jinnah Road, Quetta, Balochistan, Pakistan",
+      "website": "",
+      "socialMedia": {
+        "facebook": "",
+        "twitter": "",
+        "instagram": ""
+      }
+    },
+    "features": [
+      "Branded Apparel",
+      "Café Lounge",
+      "Multi-Level Parking",
+      "Family Friendly",
+      "Urban Shopping"
+    ],
+    "branches": []
+  },
+  {
+    "name": "Metro Shopping Complex",
+    "rating": 4.2,
+    "description": "Metro Shopping Complex near University Road offers a wide variety of fashion boutiques, electronics, grocery outlets, and a small food court. It combines convenience with a friendly community feel, making it a preferred local mall in Quetta.",
+    "createdAt": "2018-07-15T00:00:00Z",
+    "contact": {
+      "phone": "+92 81 2833312",
+      "email": "",
+      "address": "University Road, Quetta, Balochistan, Pakistan",
+      "website": "",
+      "socialMedia": {
+        "facebook": "",
+        "twitter": "",
+        "instagram": ""
+      }
+    },
+    "features": [
+      "Fashion Boutiques",
+      "Electronics Shops",
+      "Grocery Outlet",
+      "Mini Food Court",
+      "Community Feel",
+      "Parking Available"
+    ],
+    "branches": []
+  }
+]
