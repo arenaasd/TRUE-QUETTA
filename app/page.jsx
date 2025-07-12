@@ -3,6 +3,7 @@ import { useEffect, useState } from 'react';
 import {
   Utensils, Bed, TreePine, Cake, MapPin, Star, ArrowRight, Search,
   Users, Award, Shield, Zap, Globe, Facebook, Instagram, Youtube, ArrowUp, Heart, Coffee,
+  Mail,
 } from 'lucide-react';
 import Link from 'next/link';
 import { useRef } from 'react';
