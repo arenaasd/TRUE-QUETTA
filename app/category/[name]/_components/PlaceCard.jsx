@@ -33,7 +33,11 @@ const PlaceCard = ({ place, categoryName, BASE_IMAGE_URL }) => {
 
                 <div className="relative overflow-hidden">
                     <Image
-                        src={`${BASE_IMAGE_URL}${place.image}` || "/placeholder.jpg"}
+                        src={
+                            place.image
+                                ? `${BASE_IMAGE_URL}${place.image}`
+                                : "/placeholder.png"
+                        }
                         alt={place.name}
                         width={400}
                         priority

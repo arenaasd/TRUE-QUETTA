@@ -55,11 +55,9 @@ const BASE_IMAGE_URL = "https://tgqbqycxltdgbdyewxth.supabase.co/storage/v1/obje
 
 
 
-import Image from 'next/image';
 import { notFound } from 'next/navigation';
 import React from 'react';
 import SortDropdown from './_components/SortDropdown';
-import Link from 'next/link';
 import RandomLinks from './_components/Suggestions';
 import PlaceCard from './_components/PlaceCard';
 
