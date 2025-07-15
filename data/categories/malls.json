@@ -210,6 +210,81 @@
     "branches": []
   },
   {
+    "name": "BA Mall",
+    "image": "/images/malls/ba/ba.webp",
+    "rating": 4.7,
+    "description": "BA Mall is one of Quetta's key shopping hubs on Quetta Cantonment. Featuring a diverse mix of branded clothing, ladies’ & kids’ fashion, home decor, electronics, and a food court, it provides a modern, family-friendly shopping experience. With ample parking, clean interiors, and seasonal events, it’s a popular destination for both everyday and occasional shoppers in Quetta.",
+    "createdAt": "2015-06-10T00:00:00Z",
+    "contact": {
+      "phone": "0312 8061448",
+      "email": "Bamallqta@gmail.com",
+      "address": "Saite office Near Askari Check Post Air port Road Quetta, Quetta Cantonment, Pakistan",
+      "website": "",
+      "socialMedia": {
+        "facebook": "https://www.facebook.com/profile.php?id=100064720998535#",
+        "twitter": "",
+        "instagram": ""
+      }
+    },
+    "features": [
+      "Branded Clothing & Fashion",
+      "Ladies & Kids Fashion",
+      "Home Décor & Accessories",
+      "Electronics & Mobile Shops",
+      "Food Court & Snacks",
+      "Ample Parking",
+      "Family-friendly Environment",
+      "Clean Shopping Spaces",
+      "Seasonal Events & Promotions"
+    ],
+    "gallery": [
+      "/images/malls/ba/gallery1.webp",
+      "/images/malls/ba/gallery2.webp",
+      "/images/malls/ba/gallery3.webp",
+      "/images/malls/ba/gallery4.webp"
+    ],
+    "branches": []
+  },
+  {
+    "name": "Jaan Mall",
+    "image": "/images/malls/jaan/jaan.png",
+    "rating": 4.4,
+    "description": "Located on Hali Road in Quetta, Jaan Mall is a vibrant shopping destination featuring over 200 local and international stores. Open daily until late evening, it combines fashion, electronics, traditional Balochi crafts, and a modern food court. With a spacious layout, friendly staff, and regular events, Jaan Mall offers a safe, family-friendly outing in Quetta.",
+    "createdAt": "2018-06-15T00:00:00Z",
+    "contact": {
+      "phone": "(081) 4166424",
+      "email": "info@janmall.pk",
+      "address": "Jaan Mall, Hali Road, Quetta, Balochistan, Pakistan",
+      "website": "",
+      "socialMedia": {
+        "facebook": "https://www.facebook.com/janmallquetta/",
+        "twitter": "",
+        "instagram": "https://www.instagram.com/janmallquetta/?hl=en"
+      }
+    },
+    "features": [
+      "200+ Local & International Brands",
+      "Clothing, Electronics & Accessories",
+      "Traditional Balochi Crafts",
+      "Modern Food Court",
+      "Spacious Family-friendly Layout",
+      "Late Evenings (Open until 10 PM)",
+      "Regular Events & Cultural Exhibitions",
+      "Ample Parking"
+    ],
+    "gallery": [
+      "/images/malls/jaan/gallery1.webp",
+      "/images/malls/jaan/gallery2.webp",
+      "/images/malls/jaan/gallery3.webp",
+      "/images/malls/jaan/gallery4.webp",
+      "/images/malls/jaan/gallery5.webp",
+      "/images/malls/jaan/gallery6.webp",
+      "/images/malls/jaan/gallery7.webp",
+      "/images/malls/jaan/gallery8.jpg"
+    ],
+    "branches": []
+  },
+  {
     "name": "A.R Shopping Mall",
     "image": "/images/malls/ar/ar.webp",
     "rating": 3.8,
