@@ -58,38 +58,37 @@ const Sidebar = ({ isOpen, setIsOpen }) => {
       </div>
 
       {/* Navigation */}
-      <nav className="pt-6 px-3">
-        <div className="space-y-2">
+            <nav className="pt-4 px-3 h-[calc(100%-110px)] overflow-y-auto">
+        <div className="space-y-1">
           {/* Category Dropdown */}
           <div className="relative">
             <button
               onClick={toggleCategory}
-              className={`flex items-center w-full py-3 hover:bg-[var(--bronze)]/10 hover:shadow-lg hover:-translate-y-[1px] hover:scale-[1.01]
-                text-[var(--foreground)] group duration-150 transition-all ease-in
-                ${isOpen ? 'px-4 justify-between' : 'pl-4 justify-center'}`}
+              className={`flex items-center w-full py-2.5 text-[var(--foreground)] group duration-150 transition-all ease-in
+                ${isOpen ? 'px-3 justify-between' : 'pl-3 justify-center'}`}
             >
               <div className="flex items-center">
-                <Grid3X3 className="w-6 h-6 flex-shrink-0" />
-                <span className={`ml-4 font-medium transition-all duration-300 whitespace-nowrap ${isOpen ? 'opacity-100' : 'opacity-0 w-0 overflow-hidden'}`}>
+                <Grid3X3 className="w-5 h-5 flex-shrink-0" />
+                <span className={`ml-3 font-medium text-sm transition-all duration-300 whitespace-nowrap ${isOpen ? 'opacity-100' : 'opacity-0 w-0 overflow-hidden'}`}>
                   Category
                 </span>
               </div>
               <ChevronDown
-                className={`w-4 h-4 transition-transform duration-300 ${isOpen ? 'opacity-100' : 'opacity-0'} ${isCategoryOpen ? 'rotate-180' : ''}`}
+                className={`w-3 h-3 transition-transform duration-300 ${isOpen ? 'opacity-100' : 'opacity-0'} ${isCategoryOpen ? 'rotate-180' : ''}`}
               />
             </button>
 
             {/* Dropdown Items */}
             <div className={`overflow-hidden transition-all duration-300 ${isCategoryOpen && isOpen ? 'max-h-96 opacity-100' : 'max-h-0 opacity-0'}`}>
-              <div className="pt-2 pb-1 space-y-1">
+              <div className="pt-1 pb-1 space-y-0.5">
                 {categories.map((category) => (
                   <Link
                     key={category.href}
                     href={category.href}
-                    className="flex items-center py-2.5 ml-4 pl-6 pr-4 text-[var(--foreground)]/80 hover:text-[var(--foreground)] hover:bg-white/10 transition-all duration-300 rounded-lg border-l-2 border-transparent hover:border-[var(--bronze)] group"
+                    className="flex items-center py-2 ml-3 pl-5 pr-3 text-[var(--foreground)]/70 hover:text-[var(--foreground)] hover:bg-white/10 transition-all duration-300 rounded-lg border-l-2 border-transparent hover:border-[var(--bronze)] group"
                   >
-                    <category.icon className="w-5 h-5 flex-shrink-0" />
-                    <span className="ml-3 font-medium text-sm">
+                    <category.icon className="w-4 h-4 flex-shrink-0" />
+                    <span className="ml-2.5 font-medium text-xs">
                       {category.label}
                     </span>
                   </Link>
@@ -99,9 +98,9 @@ const Sidebar = ({ isOpen, setIsOpen }) => {
           </div>
 
           {/* Coming Soon Badge */}
-          <div className={`mt-6 transition-all duration-300 ${isOpen ? 'opacity-100' : 'opacity-0'}`}>
+          <div className={`mt-4 transition-all duration-300 ${isOpen ? 'opacity-100' : 'opacity-0'}`}>
             <div className="flex items-center justify-center">
-              <div className="px-3 py-1.5 bg-gradient-to-r from-[var(--bronze)]/20 to-[var(--bronze)]/30 rounded-full border border-[var(--bronze)]/40">
+              <div className="px-2.5 py-1 bg-gradient-to-r from-[var(--bronze)]/20 to-[var(--bronze)]/30 rounded-full border border-[var(--bronze)]/40">
                 <span className="text-xs font-medium text-[var(--foreground)]/70">
                   More Coming Soon!
                 </span>
