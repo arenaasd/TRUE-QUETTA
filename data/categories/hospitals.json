@@ -1,0 +1,327 @@
+[
+    {
+        "name": "Civil Hospital Quetta",
+        "rating": 5,
+        "description": "Main government hospital",
+        "createdAt": "1954-01-01T00:00:00Z",
+        "image": "/images/hospital/hospital.svg",
+        "contact": {
+            "phone": "081-9201456"
+        },
+        "features": [],
+        "gallery": [],
+        "branches": []
+    },
+    {
+        "name": "Bolan Medical Complex",
+        "rating": 5,
+        "description": "Tertiary care hospital",
+        "createdAt": "1984-01-01T00:00:00Z",
+        "image": "/images/hospital/hospital.svg",
+        "contact": {
+            "phone": "081-9213090"
+        },
+        "features": [],
+        "gallery": [],
+        "branches": []
+    },
+    {
+        "name": "Fatima Jinnah General Hospital",
+        "rating": 5,
+        "description": "General healthcare and maternity",
+        "createdAt": "1990-01-01T00:00:00Z",
+        "image": "/images/hospital/hospital.svg",
+        "contact": {
+            "phone": "081-9201370"
+        },
+        "features": [],
+        "gallery": [],
+        "branches": []
+    },
+    {
+        "name": "CMH Quetta",
+        "rating": 5,
+        "description": "Military hospital",
+        "createdAt": "1950-01-01T00:00:00Z",
+        "image": "/images/hospital/hospital.svg",
+        "contact": {
+            "phone": "081-9201234"
+        },
+        "features": [],
+        "gallery": [],
+        "branches": []
+    },
+    {
+        "name": "Agha Khan Laboratory & Collection Center",
+        "rating": 5,
+        "description": "Diagnostic and testing services",
+        "createdAt": "2005-01-01T00:00:00Z",
+        "image": "/images/hospital/hospital.svg",
+        "contact": {
+            "phone": "081-2826162"
+        },
+        "features": [],
+        "gallery": [],
+        "branches": []
+    },
+    {
+        "name": "Al Khidmat Hospital",
+        "rating": 5,
+        "description": "Affordable community care",
+        "createdAt": "2010-01-01T00:00:00Z",
+        "image": "/images/hospital/hospital.svg",
+        "contact": {
+            "phone": "081-2842200"
+        },
+        "features": [],
+        "gallery": [],
+        "branches": []
+    },
+    {
+        "name": "Helpers Eye Hospital",
+        "rating": 5,
+        "description": "Specialized eye care services",
+        "createdAt": "2000-01-01T00:00:00Z",
+        "image": "/images/hospital/hospital.svg",
+        "contact": {
+            "phone": "081-9211090"
+        },
+        "features": [],
+        "gallery": [],
+        "branches": []
+    },
+    {
+        "name": "Imdad Hospital",
+        "rating": 5,
+        "description": "General and emergency services",
+        "createdAt": "2005-01-01T00:00:00Z",
+        "image": "/images/hospital/hospital.svg",
+        "contact": {
+            "phone": "081-2824476"
+        },
+        "features": [],
+        "gallery": [],
+        "branches": []
+    },
+    {
+        "name": "Gillani Hospital",
+        "rating": 5,
+        "description": "Located in Satellite Town",
+        "createdAt": "2006-01-01T00:00:00Z",
+        "image": "/images/hospital/hospital.svg",
+        "contact": {
+            "phone": "081-2853470"
+        },
+        "features": [],
+        "gallery": [],
+        "branches": []
+    },
+    {
+        "name": "Ghelani Hospital",
+        "rating": 5,
+        "description": "Community healthcare services",
+        "createdAt": "2007-01-01T00:00:00Z",
+        "image": "/images/hospital/hospital.svg",
+        "contact": {
+            "phone": "081-2841343"
+        },
+        "features": [],
+        "gallery": [],
+        "branches": []
+    },
+    {
+        "name": "Jam-e-Shifa Hospital",
+        "rating": 5,
+        "description": "Private medical center",
+        "createdAt": "2008-01-01T00:00:00Z",
+        "image": "/images/hospital/hospital.svg",
+        "contact": {
+            "phone": "081-2840772"
+        },
+        "features": [],
+        "gallery": [],
+        "branches": []
+    },
+    {
+        "name": "Kidney Center",
+        "rating": 5,
+        "description": "Renal care and dialysis center",
+        "createdAt": "2003-01-01T00:00:00Z",
+        "image": "/images/hospital/hospital.svg",
+        "contact": {
+            "phone": "081-2834196"
+        },
+        "features": [],
+        "gallery": [],
+        "branches": []
+    },
+    {
+        "name": "LRBT Hospital",
+        "rating": 5,
+        "description": "Free eye treatment center",
+        "createdAt": "1998-01-01T00:00:00Z",
+        "image": "/images/hospital/hospital.svg",
+        "contact": {
+            "phone": "081-2667085"
+        },
+        "features": [],
+        "gallery": [],
+        "branches": []
+    },
+    {
+        "name": "Leady Dephrin Hospital",
+        "rating": 5,
+        "description": "Maternity and child care",
+        "createdAt": "1995-01-01T00:00:00Z",
+        "image": "/images/hospital/hospital.svg",
+        "contact": {
+            "phone": "081-2842029"
+        },
+        "features": [],
+        "gallery": [],
+        "branches": []
+    },
+    {
+        "name": "Mission Hospital",
+        "rating": 5,
+        "description": "Located in Mission Road",
+        "createdAt": "1992-01-01T00:00:00Z",
+        "image": "/images/hospital/hospital.svg",
+        "contact": {
+            "phone": "081-2826687"
+        },
+        "features": [],
+        "gallery": [],
+        "branches": []
+    },
+    {
+        "name": "Alamgeer Hospital (Mansoor Hospital)",
+        "rating": 5,
+        "description": "Double Road medical care",
+        "createdAt": "2002-01-01T00:00:00Z",
+        "image": "/images/hospital/hospital.svg",
+        "contact": {
+            "phone": "081-2825028"
+        },
+        "features": [],
+        "gallery": [],
+        "branches": []
+    },
+    {
+        "name": "Medi Care Hospital",
+        "rating": 5,
+        "description": "General health and surgery",
+        "createdAt": "2001-01-01T00:00:00Z",
+        "image": "/images/hospital/hospital.svg",
+        "contact": {
+            "phone": "081-2834987"
+        },
+        "features": [],
+        "gallery": [],
+        "branches": []
+    },
+    {
+        "name": "Mylo Shaheed Trust",
+        "rating": 5,
+        "description": "Community healthcare services",
+        "createdAt": "2009-01-01T00:00:00Z",
+        "image": "/images/hospital/hospital.svg",
+        "contact": {
+            "phone": "081-2821264"
+        },
+        "features": [],
+        "gallery": [],
+        "branches": []
+    },
+    {
+        "name": "Al-Zahra Hospital",
+        "rating": 5,
+        "description": "Double Road specialist center",
+        "createdAt": "2013-01-01T00:00:00Z",
+        "image": "/images/hospital/hospital.svg",
+        "contact": {
+            "phone": "081-2834086"
+        },
+        "features": [],
+        "gallery": [],
+        "branches": []
+    },
+    {
+        "name": "Rehan Hospital",
+        "rating": 5,
+        "description": "Surgical and OPD services",
+        "createdAt": "2011-01-01T00:00:00Z",
+        "image": "/images/hospital/hospital.svg",
+        "contact": {
+            "phone": "081-2826217"
+        },
+        "features": [],
+        "gallery": [],
+        "branches": []
+    },
+    {
+        "name": "Saiban Family Hospital",
+        "rating": 5,
+        "description": "Located in Satellite Town",
+        "createdAt": "2014-01-01T00:00:00Z",
+        "image": "/images/hospital/hospital.svg",
+        "contact": {
+            "phone": "081-2444284"
+        },
+        "features": [],
+        "gallery": [],
+        "branches": []
+    },
+    {
+        "name": "Sandeman Provincial Hospital",
+        "rating": 5,
+        "description": "Oldest government hospital in Quetta",
+        "createdAt": "1881-01-01T00:00:00Z",
+        "image": "/images/hospital/hospital.svg",
+        "contact": {
+            "phone": "081-9201757"
+        },
+        "features": [],
+        "gallery": [],
+        "branches": []
+    },
+    {
+        "name": "City International Hospital",
+        "rating": 5,
+        "description": "Private multispecialty care",
+        "createdAt": "2012-01-01T00:00:00Z",
+        "image": "/images/hospital/hospital.svg",
+        "contact": {
+            "phone": "081-2826681"
+        },
+        "features": [],
+        "gallery": [],
+        "branches": []
+    },
+    {
+        "name": "Medicare Hospital",
+        "rating": 5,
+        "description": "Private hospital with surgical care",
+        "createdAt": "2008-01-01T00:00:00Z",
+        "image": "/images/hospital/hospital.svg",
+        "contact": {
+            "phone": "081-2825026"
+        },
+        "features": [],
+        "gallery": [],
+        "branches": []
+    },
+    {
+        "name": "BMC Hospital",
+        "rating": 5,
+        "description": "Teaching hospital attached to BMC",
+        "createdAt": "1990-01-01T00:00:00Z",
+        "image": "/images/hospital/hospital.svg",
+        "contact": {
+            "phone": "081-9213090"
+        },
+        "features": [],
+        "gallery": [],
+        "branches": []
+    }
+]

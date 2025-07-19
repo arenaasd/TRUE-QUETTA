@@ -9,7 +9,9 @@ const Categories = {
   bakeries: 'Top Bakeries to Satisfy Your Sweet Tooth',
   cafes: 'Best Cafes to Relax',
   parks: 'Best Parks to Visit',
-  malls: 'Top Shopping Malls to Explore'
+  malls: 'Top Shopping Malls to Explore',
+  hospitals: 'Hospital For Emergency',
+  police: 'Police Stations to Contact'
 };
 
 const taglines = {
@@ -18,7 +20,9 @@ const taglines = {
   hotels: "🏨 Need stay? Find best hotels in Quetta!",
   bakeries: "🧁 Sweet tooth? Explore bakeries in Quetta!",
   parks: "🌳 Relax outdoors? Visit parks in Quetta!",
-  malls: "🛍️ Find the best brands & deals at Quetta’s top malls!"
+  malls: "🛍️ Find the best brands & deals at Quetta’s top malls!",
+  hospitals: "🏥 Need care? Find trusted hospitals in Quetta!",
+  police: "👮‍♂️ Stay safe! Locate police stations in Quetta!"
 };
 
 const accentColors = {
@@ -27,7 +31,9 @@ const accentColors = {
   hotels: "from-[#8B4513] via-[#A0522D] to-[#5C4033]",
   bakeries: "from-[#FFA07A] via-[#F4A460] to-[#CD5C5C]",
   parks: "from-[#228B22] via-[#32CD32] to-[#006400]",
-  malls: "from-[#800080] via-[#9932CC] to-[#8A2BE2]"
+  malls: "from-[#800080] via-[#9932CC] to-[#8A2BE2]",
+  hospitals: "from-[#DC143C] via-[#FF6F61] to-[#FFB6C1]",
+  police: "from-[#1E3A8A] via-[#3B82F6] to-[#60A5FA]"
 };
 
 const cardBackgrounds = {
@@ -36,7 +42,9 @@ const cardBackgrounds = {
   hotels: "from-white via-slate-50 to-white",
   bakeries: "from-white via-slate-50 to-white",
   parks: "from-white via-slate-50 to-white",
-  malls: "from-white via-slate-50 to-white"
+  malls: "from-white via-slate-50 to-white",
+  hospitals: "from-red-50 via-white to-red-100",
+  police: "from-blue-50 via-white to-blue-100"
 };
 
 const icons = {
@@ -45,7 +53,9 @@ const icons = {
   hotels: "🏨",
   bakeries: "🧁",
   parks: "🌳",
-  malls: "🛍️"
+  malls: "🛍️",
+  hospitals: "🏥",
+  police: "👮‍♂️"
 };
 
 const RandomLinks = ({ currentCategory, allPlaces }) => {

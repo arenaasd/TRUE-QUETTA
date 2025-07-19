@@ -1,13 +1,21 @@
 'use client'
 import Link from 'next/link'
-import { ChefHat, Cake, Building2, TreePine, ShoppingBag, Utensils, ChevronLeft, Coffee, Grid3X3, ChevronDown } from 'lucide-react'
+import { Cake, Building2, TreePine, ShoppingBag, Utensils, ChevronLeft, Coffee, Grid3X3, ChevronDown, ShieldCheck, ChevronRight, ChevronUp } from 'lucide-react'
 import { usePathname } from 'next/navigation';
 import { useEffect, useState } from 'react';
 
 const Sidebar = ({ isOpen, setIsOpen }) => {
   const [isCategoryOpen, setIsCategoryOpen] = useState(false);
+  const [expandedSubCategories, setExpandedSubCategories] = useState({});
   const toggleSidebar = () => setIsOpen(!isOpen);
   const toggleCategory = () => setIsCategoryOpen(!isCategoryOpen);
+
+  const toggleSubCategory = (index) => {
+    setExpandedSubCategories(prev => ({
+      ...prev,
+      [index]: !prev[index]
+    }));
+  };
 
   const pathname = usePathname()
 
@@ -34,6 +42,14 @@ const Sidebar = ({ isOpen, setIsOpen }) => {
     { href: "/category/hotels", icon: Building2, label: "Top Hotels" },
     { href: "/category/parks", icon: TreePine, label: "Best Parks" },
     { href: "/category/malls", icon: ShoppingBag, label: "Best Shopping Malls" },
+    {
+      label: "Help & Safety",
+      icon: ShieldCheck,
+      children: [
+        { href: "/category/police", label: "Police" },
+        { href: "/category/hospitals", label: "Hospitals" },
+      ],
+    },
   ];
 
   return (
@@ -58,41 +74,79 @@ const Sidebar = ({ isOpen, setIsOpen }) => {
       </div>
 
       {/* Navigation */}
-            <nav className="pt-4 px-3 h-[calc(100%-110px)] overflow-y-auto">
+      <nav className="pt-4 px-3 h-[calc(100%-110px)] overflow-y-auto">
         <div className="space-y-1">
           {/* Category Dropdown */}
           <div className="relative">
             <button
               onClick={toggleCategory}
-              className={`flex items-center w-full py-2.5 text-[var(--foreground)] group duration-150 transition-all ease-in
+              className={`flex items-center w-full py-2.5 text-[var(--foreground)] group duration-150 transition-all ease-in hover:bg-white/10 rounded-lg
                 ${isOpen ? 'px-3 justify-between' : 'pl-3 justify-center'}`}
             >
               <div className="flex items-center">
                 <Grid3X3 className="w-5 h-5 flex-shrink-0" />
                 <span className={`ml-3 font-medium text-sm transition-all duration-300 whitespace-nowrap ${isOpen ? 'opacity-100' : 'opacity-0 w-0 overflow-hidden'}`}>
-                  Category
+                  Marketplace
                 </span>
               </div>
               <ChevronDown
-                className={`w-3 h-3 transition-transform duration-300 ${isOpen ? 'opacity-100' : 'opacity-0'} ${isCategoryOpen ? 'rotate-180' : ''}`}
+                className={`w-4 h-4 transition-transform duration-300 ${isOpen ? 'opacity-100' : 'opacity-0'} ${isCategoryOpen ? 'rotate-180' : ''}`}
               />
             </button>
 
             {/* Dropdown Items */}
             <div className={`overflow-hidden transition-all duration-300 ${isCategoryOpen && isOpen ? 'max-h-96 opacity-100' : 'max-h-0 opacity-0'}`}>
               <div className="pt-1 pb-1 space-y-0.5">
-                {categories.map((category) => (
-                  <Link
-                    key={category.href}
-                    href={category.href}
-                    className="flex items-center py-2 ml-3 pl-5 pr-3 text-[var(--foreground)]/70 hover:text-[var(--foreground)] hover:bg-white/10 transition-all duration-300 rounded-lg border-l-2 border-transparent hover:border-[var(--bronze)] group"
-                  >
-                    <category.icon className="w-4 h-4 flex-shrink-0" />
-                    <span className="ml-2.5 font-medium text-xs">
-                      {category.label}
-                    </span>
-                  </Link>
-                ))}
+                {categories.map((category, i) => {
+                  if (category.children) {
+                    return (
+                      <div key={i}>
+                        <button
+                          onClick={() => toggleSubCategory(i)}
+                          className="flex items-center w-full py-2 pl-5 pr-2 text-[var(--foreground)]/80 hover:text-[var(--foreground)] hover:bg-white/10 transition-all duration-300 rounded-lg group"
+                        >
+                          <div className="flex items-center gap-4">
+                            <category.icon className="w-4 h-4" />
+                            <span className="font-bold text-xs">{category.label}</span>
+                            {expandedSubCategories[i] ? (
+                              <ChevronDown className="w-3 h-3" />
+                            ) : (
+                              <ChevronRight className="w-3 h-3" />
+                            )}
+                          </div>
+                        </button>
+
+                        {/* Sub-category items */}
+                        <div className={`overflow-hidden transition-all duration-300 ${expandedSubCategories[i] ? 'max-h-32 opacity-100' : 'max-h-0 opacity-0'}`}>
+                          <div className="space-y-0.5">
+                            {category.children.map((sub, j) => (
+                              <Link
+                                key={j}
+                                href={sub.href}
+                                className="flex items-center font-semibold py-2 ml-6 pl-6 pr-3 text-[var(--foreground)]/70 hover:text-[var(--foreground)] hover:bg-white/10 transition-all duration-300 rounded-lg border-l-2 border-transparent hover:border-[var(--bronze)] text-xs"
+                              >
+                                {sub.label}
+                              </Link>
+                            ))}
+                          </div>
+                        </div>
+                      </div>
+                    );
+                  }
+
+                  return (
+                    <Link
+                      key={category.href}
+                      href={category.href}
+                      className="flex items-center  py-2 ml-3 pl-3 pr-3 text-[var(--foreground)]/80 hover:text-[var(--foreground)] hover:bg-white/10 transition-all duration-300 rounded-lg border-l-2 border-transparent hover:border-[var(--bronze)] group"
+                    >
+                      <category.icon className="w-4 h-4 flex-shrink-0 mr-2" />
+                      <span className="font-semibold text-xs">
+                        {category.label}
+                      </span>
+                    </Link>
+                  );
+                })}
               </div>
             </div>
           </div>

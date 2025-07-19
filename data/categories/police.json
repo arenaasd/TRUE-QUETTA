@@ -1,0 +1,145 @@
+[
+  {
+    "name": "City Police Station",
+    "rating": 5,
+    "description": "Established in 1940",
+    "createdAt": "1940-01-01T00:00:00Z",
+    "image": "/images/police/police.svg",
+    "contact": { "phone": "0812-9201250" },
+    "features": [],
+    "gallery": [],
+    "branches": []
+  },
+  {
+    "name": "Civil Line Police Station",
+    "rating": 5,
+    "description": "Established in 1977",
+    "createdAt": "1977-01-01T00:00:00Z",
+    "image": "/images/police/police.svg",
+    "contact": { "phone": "0812-9202730" },
+    "features": [],
+    "gallery": [],
+    "branches": []
+  },
+  {
+    "name": "Qaid Abad Police Station",
+    "rating": 5,
+    "description": "Established in 1952",
+    "createdAt": "1952-01-01T00:00:00Z",
+    "image": "/images/police/police.svg",
+    "contact": { "phone": "0812-9202218" },
+    "features": [],
+    "gallery": [],
+    "branches": []
+  },
+  {
+    "name": "Gawal Mandi Police Station",
+    "rating": 5,
+    "description": "Established in 1940",
+    "createdAt": "1940-01-01T00:00:00Z",
+    "image": "/images/police/police.svg",
+    "contact": { "phone": "0812-9202230" },
+    "features": [],
+    "gallery": [],
+    "branches": []
+  },
+  {
+    "name": "Cantt Police Station",
+    "rating": 5,
+    "description": "Established in 1942",
+    "createdAt": "1942-01-01T00:00:00Z",
+    "image": "/images/police/police.svg",
+    "contact": { "phone": "0812-9201087" },
+    "features": [],
+    "gallery": [],
+    "branches": []
+  },
+  {
+    "name": "Bijli Ghar Police Station",
+    "rating": 5,
+    "description": "Established in 1942",
+    "createdAt": "1942-01-01T00:00:00Z",
+    "image": "/images/police/police.svg",
+    "contact": { "phone": "0812-9202042" },
+    "features": [],
+    "gallery": [],
+    "branches": []
+  },
+  {
+    "name": "Saddar Police Station",
+    "rating": 5,
+    "description": "Established in 1939",
+    "createdAt": "1939-01-01T00:00:00Z",
+    "image": "/images/police/police.svg",
+    "contact": { "phone": "0812-9202219" },
+    "features": [],
+    "gallery": [],
+    "branches": []
+  },
+  {
+    "name": "Brewery Police Station",
+    "rating": 5,
+    "description": "Established in 1991",
+    "createdAt": "1991-01-01T00:00:00Z",
+    "image": "/images/police/police.svg",
+    "contact": { "phone": "0812-2835610" },
+    "features": [],
+    "gallery": [],
+    "branches": []
+  },
+  {
+    "name": "Pashtoon Abad Police Station",
+    "rating": 5,
+    "description": "No established year found",
+    "createdAt": "2000-01-01T00:00:00Z",
+    "image": "/images/police/police.svg",
+    "contact": { "phone": "0812-9201611" },
+    "features": [],
+    "gallery": [],
+    "branches": []
+  },
+  {
+    "name": "Inductrial Police Station",
+    "rating": 5,
+    "description": "Established in 1982",
+    "createdAt": "1982-01-01T00:00:00Z",
+    "image": "/images/police/police.svg",
+    "contact": { "phone": "0812-9211050" },
+    "features": [],
+    "gallery": [],
+    "branches": []
+  },
+  {
+    "name": "Kuchlak Police Station",
+    "rating": 5,
+    "description": "Established in 1982",
+    "createdAt": "1982-01-01T00:00:00Z",
+    "image": "/images/police/police.svg",
+    "contact": { "phone": "0812-2890243" },
+    "features": [],
+    "gallery": [],
+    "branches": []
+  },
+  {
+    "name": "Sariab Police Station",
+    "rating": 5,
+    "description": "No established year found",
+    "createdAt": "2000-01-01T00:00:00Z",
+    "image": "/images/police/police.svg",
+    "contact": { "phone": "0812-9211080" },
+    "features": [],
+    "gallery": [],
+    "branches": []
+  },
+  {
+    "name": "Crime Branch Police Station",
+    "rating": 5,
+    "description": "Special crime investigations unit",
+    "createdAt": "2000-01-01T00:00:00Z",
+    "image": "/images/police/police.svg",
+    "contact": { "phone": "0812-9201419" },
+    "features": [],
+    "gallery": [],
+    "branches": []
+  }
+]

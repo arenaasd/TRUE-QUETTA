@@ -49,7 +49,7 @@ function capitalize(str) {
     .split('-')
     .map(s => s.charAt(0).toUpperCase() + s.slice(1))
     .join(' ');
-} 
+}
 
 const BASE_IMAGE_URL = "https://tgqbqycxltdgbdyewxth.supabase.co/storage/v1/object/public";
 
@@ -67,7 +67,9 @@ let Categories = {
   bakeries: 'Top Bakeries to Satisfy Your Sweet Tooth',
   cafes: 'Best Cafes to Relax',
   parks: 'Best Parks to Visit',
-  malls: 'Best Shopping Malls to Explore'
+  malls: 'Best Shopping Malls to Explore',
+  police: "Police Stations & Helplines",
+  hospitals: 'Top Hospitals for Medical Care'
 };
 
 const page = async ({ params, searchParams }) => {
@@ -161,7 +163,7 @@ const page = async ({ params, searchParams }) => {
       </div>
 
       <div className="max-w-7xl mx-auto px-4 md:px-6 py-4 md:py-6">
-        <div className="grid grid-cols-1 xs:grid-cols-2 sm:grid-cols-2 hover:shadow-md md:grid-cols-3 lg:grid-cols-4 xl:grid-cols-4 gap-4 md:gap-6">
+        <div className="grid grid-cols-1 xs:grid-cols-2 sm:grid-cols-2 md:grid-cols-3 lg:grid-cols-4 xl:grid-cols-4 gap-4 md:gap-6">
           {categoryData.map((place, index) => (
             <PlaceCard
               key={index}
