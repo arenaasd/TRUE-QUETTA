@@ -62,7 +62,7 @@ import path from 'path';
 import { promises as fs } from 'fs';
 import Image from 'next/image'
 import { notFound } from 'next/navigation'
-import { Phone, Mail, Globe, MapPin, Facebook, Twitter, Instagram, CheckCircle, Building2, ArrowRight } from 'lucide-react'
+import { Phone, Mail, Globe, MapPin, CheckCircle, Building2, ArrowRight } from 'lucide-react'
 import Link from 'next/link';
 
 export const dynamic = 'force-dynamic';
@@ -105,9 +105,10 @@ const page = async ({ params }) => {
           {/* Main Image */}
           <div className="relative h-48 sm:h-64 md:h-80 lg:h-96 overflow-hidden rounded-lg sm:rounded-2xl lg:rounded-3xl shadow-2xl">
             <Image
-              src={`${BASE_IMAGE_URL}${place.image}` || "/placeholder.jpg"}
+              src={`${BASE_IMAGE_URL}${place.image}` || "/placeholder.png"}
               alt={`${place.name} - ${categoryName} in Quetta`} fill
               priority
+              unoptimized
               quality={90}
               className="object-cover"
             />
