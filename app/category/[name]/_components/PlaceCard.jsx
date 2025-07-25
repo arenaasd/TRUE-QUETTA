@@ -31,6 +31,7 @@ const PlaceCard = ({ place, categoryName, BASE_IMAGE_URL }) => {
           width={400}
           height={150}
           priority
+          unoptimized
           onLoadingComplete={() => setLoaded(true)}
           quality={80}
           className="w-full h-32 md:h-36 object-cover group-hover:scale-105 transition-transform duration-300"

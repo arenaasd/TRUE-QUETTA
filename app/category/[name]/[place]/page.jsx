@@ -73,7 +73,7 @@ const page = async ({ params }) => {
   const categoryName = params.name
   const placeSlug = decodeURIComponent(params.place)
 
-    await new Promise((resolve) => setTimeout(resolve, 3000));
+  await new Promise((resolve) => setTimeout(resolve, 3000));
 
   // Step 1: Load JSON file
   const filePath = path.join(process.cwd(), 'data', 'categories', `${categoryName}.json`)
@@ -320,6 +320,8 @@ const page = async ({ params }) => {
                           src={`${BASE_IMAGE_URL}${branch.image}`}
                           alt={branch.name}
                           fill
+                          unoptimized
+                          quality={90}
                           className="object-cover group-hover:scale-105 transition-transform duration-500"
                           sizes="(max-width: 640px) 100vw, (max-width: 1024px) 50vw, 33vw"
                         />
