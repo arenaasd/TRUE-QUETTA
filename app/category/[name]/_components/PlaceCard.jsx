@@ -51,7 +51,7 @@ const PlaceCard = ({ place, categoryName, BASE_IMAGE_URL }) => {
           <p className="text-xs md:text-sm text-gray-600 line-clamp-2 leading-relaxed">
             {place.description}
           </p>
-          {categoryName === 'police' || categoryName === 'hospitals' && place.contact?.phone && (
+          {(categoryName === 'police' || categoryName === 'hospitals') && place.contact?.phone && (
             <p className="text-xs font-medium text-[var(--bronze)]">
               📞 Contact: {place.contact.phone}
             </p>

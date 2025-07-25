@@ -1,77 +1,233 @@
 [
     {
-        "name": "Civil Hospital Quetta",
+        "name": "Al-Khidmat Hospital (Ortho)",
         "rating": 5,
-        "description": "Main government hospital",
-        "createdAt": "1954-01-01T00:00:00Z",
-        "image": "/images/hospital/hospital.svg",
-        "contact": {
-            "phone": "081-9201456"
-        },
-        "features": [],
-        "gallery": [],
-        "branches": []
-    },
-    {
-        "name": "Bolan Medical Complex",
-        "rating": 5,
-        "description": "Tertiary care hospital",
-        "createdAt": "1984-01-01T00:00:00Z",
-        "image": "/images/hospital/hospital.svg",
-        "contact": {
-            "phone": "081-9213090"
-        },
-        "features": [],
-        "gallery": [],
-        "branches": []
-    },
-    {
-        "name": "Fatima Jinnah General Hospital",
-        "rating": 5,
-        "description": "General healthcare and maternity",
-        "createdAt": "1990-01-01T00:00:00Z",
-        "image": "/images/hospital/hospital.svg",
-        "contact": {
-            "phone": "081-9201370"
-        },
-        "features": [],
-        "gallery": [],
-        "branches": []
-    },
-    {
-        "name": "CMH Quetta",
-        "rating": 5,
-        "description": "Military hospital",
-        "createdAt": "1950-01-01T00:00:00Z",
-        "image": "/images/hospital/hospital.svg",
-        "contact": {
-            "phone": "081-9201234"
-        },
-        "features": [],
-        "gallery": [],
-        "branches": []
-    },
-    {
-        "name": "Agha Khan Laboratory & Collection Center",
-        "rating": 5,
-        "description": "Diagnostic and testing services",
-        "createdAt": "2005-01-01T00:00:00Z",
-        "image": "/images/hospital/hospital.svg",
-        "contact": {
-            "phone": "081-2826162"
-        },
-        "features": [],
-        "gallery": [],
-        "branches": []
-    },
-    {
-        "name": "Al Khidmat Hospital",
-        "rating": 5,
-        "description": "Affordable community care",
+        "description": "Sarhab Road Near-Rani Bagh",
         "createdAt": "2010-01-01T00:00:00Z",
         "image": "/images/hospital/hospital.svg",
         "contact": {
-            "phone": "081-2842200"
+            "phone": "081-2443600"
+        },
+        "features": [],
+        "gallery": [],
+        "branches": []
+    },
+    {
+        "name": "Al-khidmat Hospital (Genral)",
+        "rating": 5,
+        "description": "Sarhab Road Barma Hotel",
+        "createdAt": "2010-01-01T00:00:00Z",
+        "image": "/images/hospital/hospital.svg",
+        "contact": {
+            "phone": "0333-7846061"
+        },
+        "features": [],
+        "gallery": [],
+        "branches": []
+    },
+    {
+        "name": "Al-khidmat Hospital (Meterienty)",
+        "rating": 5,
+        "description": "Banvary Road Wahdat Colony",
+        "createdAt": "2010-01-01T00:00:00Z",
+        "image": "/images/hospital/hospital.svg",
+        "contact": {
+            "phone": "081-28470250"
+        },
+        "features": [],
+        "gallery": [],
+        "branches": []
+    },
+    {
+        "name": "Al-khair Hospital",
+        "rating": 5,
+        "description": "Double Road",
+        "createdAt": "2000-01-01T00:00:00Z",
+        "image": "/images/hospital/hospital.svg",
+        "contact": {
+            "phone": "081-2844907"
+        },
+        "features": [],
+        "gallery": [],
+        "branches": []
+    },
+    {
+        "name": "Al-Noor Hospital",
+        "rating": 5,
+        "description": "Toghi Road",
+        "createdAt": "2000-01-01T00:00:00Z",
+        "image": "/images/hospital/hospital.svg",
+        "contact": {
+            "phone": "081-2830395"
+        },
+        "features": [],
+        "gallery": [],
+        "branches": []
+    },
+    {
+        "name": "Akram Hospital",
+        "rating": 5,
+        "description": "Double Road",
+        "createdAt": "2000-01-01T00:00:00Z",
+        "image": "/images/hospital/hospital.svg",
+        "contact": {
+            "phone": "081-2869236"
+        },
+        "features": [],
+        "gallery": [],
+        "branches": []
+    },
+    {
+        "name": "Arif Hospital",
+        "rating": 5,
+        "description": "Sarhab Road Burma Hotel",
+        "createdAt": "2000-01-01T00:00:00Z",
+        "image": "/images/hospital/hospital.svg",
+        "contact": {
+            "phone": "081-2441689"
+        },
+        "features": [],
+        "gallery": [],
+        "branches": []
+    },
+    {
+        "name": "Abdul Khaliq Hospital",
+        "rating": 5,
+        "description": "Airport Road",
+        "createdAt": "2000-01-01T00:00:00Z",
+        "image": "/images/hospital/hospital.svg",
+        "contact": {
+            "phone": "081-2880920"
+        },
+        "features": [],
+        "gallery": [],
+        "branches": []
+    },
+    {
+        "name": "Al-Shifa Hospital",
+        "rating": 5,
+        "description": "Patail Road",
+        "createdAt": "2000-01-01T00:00:00Z",
+        "image": "/images/hospital/hospital.svg",
+        "contact": {
+            "phone": "081-2827892"
+        },
+        "features": [],
+        "gallery": [],
+        "branches": []
+    },
+    {
+        "name": "Al-Shafi Hospital",
+        "rating": 5,
+        "description": "Double Road",
+        "createdAt": "2000-01-01T00:00:00Z",
+        "image": "/images/hospital/hospital.svg",
+        "contact": {
+            "phone": "081-2827892"
+        },
+        "features": [],
+        "gallery": [],
+        "branches": []
+    },
+    {
+        "name": "Al-Nasir Hospital",
+        "rating": 5,
+        "description": "Adalat Road",
+        "createdAt": "2000-01-01T00:00:00Z",
+        "image": "/images/hospital/hospital.svg",
+        "contact": {
+            "phone": "081-2833573"
+        },
+        "features": [],
+        "gallery": [],
+        "branches": []
+    },
+    {
+        "name": "Benazir Shaheed Hospital",
+        "rating": 5,
+        "description": "Marri Abad",
+        "createdAt": "2000-01-01T00:00:00Z",
+        "image": "/images/hospital/hospital.svg",
+        "contact": {
+            "phone": "081-2680334"
+        },
+        "features": [],
+        "gallery": [],
+        "branches": []
+    },
+    {
+        "name": "Bolan Medical Complex Hospital",
+        "rating": 5,
+        "description": "Banvary Road",
+        "createdAt": "1984-01-01T00:00:00Z",
+        "image": "/images/hospital/hospital.svg",
+        "contact": {
+            "phone": "9213055"
+        },
+        "features": [],
+        "gallery": [],
+        "branches": []
+    },
+    {
+        "name": "Children Hospital",
+        "rating": 5,
+        "description": "Cawary Road",
+        "createdAt": "2000-01-01T00:00:00Z",
+        "image": "/images/hospital/hospital.svg",
+        "contact": {
+            "phone": "081-2823705"
+        },
+        "features": [],
+        "gallery": [],
+        "branches": []
+    },
+    {
+        "name": "Civil Hospital (SPH)",
+        "rating": 5,
+        "description": "Jinah Road",
+        "createdAt": "1954-01-01T00:00:00Z",
+        "image": "/images/hospital/hospital.svg",
+        "contact": {
+            "phone": "9202017"
+        },
+        "features": [],
+        "gallery": [],
+        "branches": []
+    },
+    {
+        "name": "Doctors Taranna Center",
+        "rating": 5,
+        "description": "Patail Road",
+        "createdAt": "2000-01-01T00:00:00Z",
+        "image": "/images/hospital/hospital.svg",
+        "contact": {
+            "phone": "081-2868317"
+        },
+        "features": [],
+        "gallery": [],
+        "branches": []
+    },
+    {
+        "name": "Dr Zoya Hospital",
+        "rating": 5,
+        "description": "Satellite Town",
+        "createdAt": "2000-01-01T00:00:00Z",
+        "image": "/images/hospital/hospital.svg",
+        "contact": {
+            "phone": "081-2433611"
+        },
+        "features": [],
+        "gallery": [],
+        "branches": []
+    },
+    {
+        "name": "Fatima Clinic Hospital",
+        "rating": 5,
+        "description": "Dr Sher Mohd Road",
+        "createdAt": "2000-01-01T00:00:00Z",
+        "image": "/images/hospital/hospital.svg",
+        "contact": {
+            "phone": "081-2834475"
         },
         "features": [],
         "gallery": [],
@@ -80,11 +236,11 @@
     {
         "name": "Helpers Eye Hospital",
         "rating": 5,
-        "description": "Specialized eye care services",
+        "description": "Sarhab Road Near Rani Bagh",
         "createdAt": "2000-01-01T00:00:00Z",
         "image": "/images/hospital/hospital.svg",
         "contact": {
-            "phone": "081-9211090"
+            "phone": "081-9211089"
         },
         "features": [],
         "gallery": [],
@@ -93,7 +249,7 @@
     {
         "name": "Imdad Hospital",
         "rating": 5,
-        "description": "General and emergency services",
+        "description": "Imdad Chowk dubai Road",
         "createdAt": "2005-01-01T00:00:00Z",
         "image": "/images/hospital/hospital.svg",
         "contact": {
@@ -104,26 +260,26 @@
         "branches": []
     },
     {
-        "name": "Gillani Hospital",
+        "name": "Gelani Hospital",
         "rating": 5,
-        "description": "Located in Satellite Town",
+        "description": "Satellite Town",
         "createdAt": "2006-01-01T00:00:00Z",
         "image": "/images/hospital/hospital.svg",
         "contact": {
-            "phone": "081-2853470"
+            "phone": "081-2453701"
         },
         "features": [],
         "gallery": [],
         "branches": []
     },
     {
-        "name": "Ghelani Hospital",
+        "name": "Gheliani Hospital",
         "rating": 5,
-        "description": "Community healthcare services",
+        "description": "Satellite Town",
         "createdAt": "2007-01-01T00:00:00Z",
         "image": "/images/hospital/hospital.svg",
         "contact": {
-            "phone": "081-2841343"
+            "phone": "081-2447183"
         },
         "features": [],
         "gallery": [],
@@ -132,24 +288,24 @@
     {
         "name": "Jam-e-Shifa Hospital",
         "rating": 5,
-        "description": "Private medical center",
+        "description": "Satellite Town",
         "createdAt": "2008-01-01T00:00:00Z",
         "image": "/images/hospital/hospital.svg",
         "contact": {
-            "phone": "081-2840772"
+            "phone": "081-2440772"
         },
         "features": [],
         "gallery": [],
         "branches": []
     },
     {
-        "name": "Kidney Center",
+        "name": "Kidny Center",
         "rating": 5,
-        "description": "Renal care and dialysis center",
+        "description": "Samangli Road",
         "createdAt": "2003-01-01T00:00:00Z",
         "image": "/images/hospital/hospital.svg",
         "contact": {
-            "phone": "081-2834196"
+            "phone": "081-2831917"
         },
         "features": [],
         "gallery": [],
@@ -158,11 +314,11 @@
     {
         "name": "LRBT Hospital",
         "rating": 5,
-        "description": "Free eye treatment center",
+        "description": "Sarhab Road walljet",
         "createdAt": "1998-01-01T00:00:00Z",
         "image": "/images/hospital/hospital.svg",
         "contact": {
-            "phone": "081-2667085"
+            "phone": "081-2740804"
         },
         "features": [],
         "gallery": [],
@@ -171,11 +327,11 @@
     {
         "name": "Leady Dephrin Hospital",
         "rating": 5,
-        "description": "Maternity and child care",
+        "description": "Mecongi Road",
         "createdAt": "1995-01-01T00:00:00Z",
         "image": "/images/hospital/hospital.svg",
         "contact": {
-            "phone": "081-2842029"
+            "phone": "081-2667985"
         },
         "features": [],
         "gallery": [],
@@ -184,11 +340,11 @@
     {
         "name": "Mission Hospital",
         "rating": 5,
-        "description": "Located in Mission Road",
+        "description": "Mission Road",
         "createdAt": "1992-01-01T00:00:00Z",
         "image": "/images/hospital/hospital.svg",
         "contact": {
-            "phone": "081-2826687"
+            "phone": "081-2842697"
         },
         "features": [],
         "gallery": [],
@@ -197,7 +353,7 @@
     {
         "name": "Alamgeer Hospital (Mansoor Hospital)",
         "rating": 5,
-        "description": "Double Road medical care",
+        "description": "Double Road",
         "createdAt": "2002-01-01T00:00:00Z",
         "image": "/images/hospital/hospital.svg",
         "contact": {
@@ -208,13 +364,13 @@
         "branches": []
     },
     {
-        "name": "Medi Care Hospital",
+        "name": "Medi care Hospital",
         "rating": 5,
-        "description": "General health and surgery",
+        "description": "Al-Gelani Road",
         "createdAt": "2001-01-01T00:00:00Z",
         "image": "/images/hospital/hospital.svg",
         "contact": {
-            "phone": "081-2834987"
+            "phone": "081-2839621"
         },
         "features": [],
         "gallery": [],
@@ -223,24 +379,89 @@
     {
         "name": "Mylo Shaheed Trust",
         "rating": 5,
-        "description": "Community healthcare services",
+        "description": "Alamdar Road",
         "createdAt": "2009-01-01T00:00:00Z",
         "image": "/images/hospital/hospital.svg",
         "contact": {
-            "phone": "081-2821264"
+            "phone": "081-2828383"
         },
         "features": [],
         "gallery": [],
         "branches": []
     },
     {
-        "name": "Al-Zahra Hospital",
+        "name": "Mediest Hospital",
         "rating": 5,
-        "description": "Double Road specialist center",
-        "createdAt": "2013-01-01T00:00:00Z",
+        "description": "Al-Gelani Road",
+        "createdAt": "2000-01-01T00:00:00Z",
         "image": "/images/hospital/hospital.svg",
         "contact": {
-            "phone": "081-2834086"
+            "phone": "081-2821101"
+        },
+        "features": [],
+        "gallery": [],
+        "branches": []
+    },
+    {
+        "name": "National Hospital",
+        "rating": 5,
+        "description": "Prince Road",
+        "createdAt": "2000-01-01T00:00:00Z",
+        "image": "/images/hospital/hospital.svg",
+        "contact": {
+            "phone": "081-2842366"
+        },
+        "features": [],
+        "gallery": [],
+        "branches": []
+    },
+    {
+        "name": "Nagi Cheltren Hospital",
+        "rating": 5,
+        "description": "Patail Bagh",
+        "createdAt": "2000-01-01T00:00:00Z",
+        "image": "/images/hospital/hospital.svg",
+        "contact": {
+            "phone": "081-2837882"
+        },
+        "features": [],
+        "gallery": [],
+        "branches": []
+    },
+    {
+        "name": "Pakistan Genral Hospital",
+        "rating": 5,
+        "description": "Dubai Road",
+        "createdAt": "2000-01-01T00:00:00Z",
+        "image": "/images/hospital/hospital.svg",
+        "contact": {
+            "phone": "081-2847043"
+        },
+        "features": [],
+        "gallery": [],
+        "branches": []
+    },
+    {
+        "name": "Quetta Hospital",
+        "rating": 5,
+        "description": "Dr Sher Mohd Road",
+        "createdAt": "2000-01-01T00:00:00Z",
+        "image": "/images/hospital/hospital.svg",
+        "contact": {
+            "phone": "081-2829915"
+        },
+        "features": [],
+        "gallery": [],
+        "branches": []
+    },
+    {
+        "name": "Rahat Medical Complex Hospital",
+        "rating": 5,
+        "description": "Art school Road",
+        "createdAt": "2000-01-01T00:00:00Z",
+        "image": "/images/hospital/hospital.svg",
+        "contact": {
+            "phone": "081-2838873"
         },
         "features": [],
         "gallery": [],
@@ -249,11 +470,24 @@
     {
         "name": "Rehan Hospital",
         "rating": 5,
-        "description": "Surgical and OPD services",
+        "description": "Dr Sher Mohd Road",
         "createdAt": "2011-01-01T00:00:00Z",
         "image": "/images/hospital/hospital.svg",
         "contact": {
-            "phone": "081-2826217"
+            "phone": "081-2834396"
+        },
+        "features": [],
+        "gallery": [],
+        "branches": []
+    },
+    {
+        "name": "Rana Eye Hospital",
+        "rating": 5,
+        "description": "Double Road",
+        "createdAt": "2000-01-01T00:00:00Z",
+        "image": "/images/hospital/hospital.svg",
+        "contact": {
+            "phone": "081-2820841"
         },
         "features": [],
         "gallery": [],
@@ -262,63 +496,115 @@
     {
         "name": "Saiban Family Hospital",
         "rating": 5,
-        "description": "Located in Satellite Town",
+        "description": "Satellite Town",
         "createdAt": "2014-01-01T00:00:00Z",
         "image": "/images/hospital/hospital.svg",
         "contact": {
-            "phone": "081-2444284"
+            "phone": "081-2442844"
         },
         "features": [],
         "gallery": [],
         "branches": []
     },
     {
-        "name": "Sandeman Provincial Hospital",
+        "name": "saleem medical complex",
         "rating": 5,
-        "description": "Oldest government hospital in Quetta",
-        "createdAt": "1881-01-01T00:00:00Z",
+        "description": "Jinah Road",
+        "createdAt": "2000-01-01T00:00:00Z",
         "image": "/images/hospital/hospital.svg",
         "contact": {
-            "phone": "081-9201757"
+            "phone": "081-2827105"
         },
         "features": [],
         "gallery": [],
         "branches": []
     },
     {
-        "name": "City International Hospital",
+        "name": "Sangeen khan Memorel Hospital",
         "rating": 5,
-        "description": "Private multispecialty care",
-        "createdAt": "2012-01-01T00:00:00Z",
+        "description": "Almo Chowk",
+        "createdAt": "2000-01-01T00:00:00Z",
         "image": "/images/hospital/hospital.svg",
         "contact": {
-            "phone": "081-2826681"
+            "phone": "081-2832370"
         },
         "features": [],
         "gallery": [],
         "branches": []
     },
     {
-        "name": "Medicare Hospital",
+        "name": "Senar Hospital",
         "rating": 5,
-        "description": "Private hospital with surgical care",
-        "createdAt": "2008-01-01T00:00:00Z",
+        "description": "A-1 city banvary Road",
+        "createdAt": "2000-01-01T00:00:00Z",
         "image": "/images/hospital/hospital.svg",
         "contact": {
-            "phone": "081-2825026"
+            "phone": "081-9202928"
         },
         "features": [],
         "gallery": [],
         "branches": []
     },
     {
-        "name": "BMC Hospital",
+        "name": "Sahib-ul-Zaman Hospital",
         "rating": 5,
-        "description": "Teaching hospital attached to BMC",
-        "createdAt": "1990-01-01T00:00:00Z",
+        "description": "Marri Abad",
+        "createdAt": "2000-01-01T00:00:00Z",
         "image": "/images/hospital/hospital.svg",
         "contact": {
-            "phone": "081-9213090"
+            "phone": "081-2827878"
+        },
+        "features": [],
+        "gallery": [],
+        "branches": []
+    },
+    {
+        "name": "Sajid Hospital",
+        "rating": 5,
+        "description": "Double Road",
+        "createdAt": "2000-01-01T00:00:00Z",
+        "image": "/images/hospital/hospital.svg",
+        "contact": {
+            "phone": "081-2869192"
+        },
+        "features": [],
+        "gallery": [],
+        "branches": []
+    },
+    {
+        "name": "Sheikh Zahid Hospital",
+        "rating": 5,
+        "description": "Mastoong Road",
+        "createdAt": "2000-01-01T00:00:00Z",
+        "image": "/images/hospital/hospital.svg",
+        "contact": {
+            "phone": "081-2892214"
+        },
+        "features": [],
+        "gallery": [],
+        "branches": []
+    },
+    {
+        "name": "T.B Sanatorium",
+        "rating": 5,
+        "description": "Banvary Quetta",
+        "createdAt": "2000-01-01T00:00:00Z",
+        "image": "/images/hospital/hospital.svg",
+        "contact": {
+            "phone": "081-2831917"
+        },
+        "features": [],
+        "gallery": [],
+        "branches": []
+    },
+    {
+        "name": "Tariq Hospital",
+        "rating": 5,
+        "description": "Sarhab Road walljet",
+        "createdAt": "2000-01-01T00:00:00Z",
+        "image": "/images/hospital/hospital.svg",
+        "contact": {
+            "phone": "081-2850467"
         },
         "features": [],
         "gallery": [],
