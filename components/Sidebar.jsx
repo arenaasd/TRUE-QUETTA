@@ -1,14 +1,21 @@
 'use client'
 import Link from 'next/link'
-import { Cake, Building2, TreePine, ShoppingBag, Utensils, ChevronLeft, Coffee, Grid3X3, ChevronDown, ShieldCheck, ChevronRight, ChevronUp, BookOpen, GraduationCap } from 'lucide-react'
+import { 
+  Cake, Building2, TreePine, ShoppingBag, Utensils, 
+  ChevronLeft, Coffee, Grid3X3, ChevronDown, ShieldCheck, 
+  ChevronRight, ChevronUp, BookOpen, GraduationCap, FileText, 
+  Award, School, Library 
+} from 'lucide-react'
 import { usePathname } from 'next/navigation';
 import { useEffect, useState } from 'react';
 
 const Sidebar = ({ isOpen, setIsOpen }) => {
   const [isCategoryOpen, setIsCategoryOpen] = useState(false);
+  const [isEducationOpen, setIsEducationOpen] = useState(false);
   const [expandedSubCategories, setExpandedSubCategories] = useState({});
   const toggleSidebar = () => setIsOpen(!isOpen);
   const toggleCategory = () => setIsCategoryOpen(!isCategoryOpen);
+  const toggleEducation = () => setIsEducationOpen(!isEducationOpen);
 
   const toggleSubCategory = (index) => {
     setExpandedSubCategories(prev => ({
@@ -53,10 +60,10 @@ const Sidebar = ({ isOpen, setIsOpen }) => {
   ];
 
   const educationLinks = [
-    { href: "/education/past-papers", icon: BookOpen, label: "Past Papers" },
-    { href: "/education/results", icon: BookOpen, label: "Results" },
-    { href: "/education/schools", icon: BookOpen, label: "Schools" },
-    { href: "/education/colleges", icon: GraduationCap, label: "Colleges" },
+    { href: "/education/past-papers", icon: FileText, label: "Past Papers" },
+    { href: "/education/results", icon: Award, label: "Results" },
+    { href: "/education/schools", icon: School, label: "Schools" },
+    { href: "/education/colleges", icon: Library, label: "Colleges" },
   ];
 
   return (
@@ -83,7 +90,7 @@ const Sidebar = ({ isOpen, setIsOpen }) => {
       {/* Navigation */}
       <nav className="pt-4 px-3 h-[calc(100%-110px)] overflow-y-auto">
         <div className="space-y-1">
-          {/* Category Dropdown */}
+          {/* Marketplace Dropdown */}
           <div className="relative">
             <button
               onClick={toggleCategory}
@@ -101,7 +108,7 @@ const Sidebar = ({ isOpen, setIsOpen }) => {
               />
             </button>
 
-            {/* Dropdown Items */}
+            {/* Marketplace Items */}
             <div className={`overflow-hidden transition-all duration-300 ${isCategoryOpen && isOpen ? 'max-h-96 opacity-100' : 'max-h-0 opacity-0'}`}>
               <div className="pt-1 pb-1 space-y-0.5">
                 {categories.map((category, i) => {
@@ -145,7 +152,7 @@ const Sidebar = ({ isOpen, setIsOpen }) => {
                     <Link
                       key={category.href}
                       href={category.href}
-                      className="flex items-center  py-2 ml-3 pl-3 pr-3 text-[var(--foreground)]/80 hover:text-[var(--foreground)] hover:bg-white/10 transition-all duration-300 rounded-lg border-l-2 border-transparent hover:border-[var(--bronze)] group"
+                      className="flex items-center py-2 ml-3 pl-3 pr-3 text-[var(--foreground)]/80 hover:text-[var(--foreground)] hover:bg-white/10 transition-all duration-300 rounded-lg border-l-2 border-transparent hover:border-[var(--bronze)] group"
                     >
                       <category.icon className="w-4 h-4 flex-shrink-0 mr-2" />
                       <span className="font-semibold text-xs">
@@ -158,32 +165,40 @@ const Sidebar = ({ isOpen, setIsOpen }) => {
             </div>
           </div>
 
-          {/* Education Section */}
+          {/* Education Dropdown */}
           <div className="relative mt-4">
-            <div className={`flex items-center w-full py-2.5 text-[var(--foreground)] group duration-150 transition-all ease-in rounded-lg
-                ${isOpen ? 'px-3 justify-between' : 'pl-3 justify-center'}`}>
+            <button
+              onClick={toggleEducation}
+              className={`flex items-center w-full py-2.5 text-[var(--foreground)] group duration-150 transition-all ease-in hover:bg-white/10 rounded-lg
+                ${isOpen ? 'px-3 justify-between' : 'pl-3 justify-center'}`}
+            >
               <div className="flex items-center">
                 <BookOpen className="w-5 h-5 flex-shrink-0" />
                 <span className={`ml-3 font-medium text-sm transition-all duration-300 whitespace-nowrap ${isOpen ? 'opacity-100' : 'opacity-0 w-0 overflow-hidden'}`}>
                   Education
                 </span>
               </div>
-            </div>
+              <ChevronDown
+                className={`w-4 h-4 transition-transform duration-300 ${isOpen ? 'opacity-100' : 'opacity-0'} ${isEducationOpen ? 'rotate-180' : ''}`}
+              />
+            </button>
 
-            {/* Education Links */}
-            <div className="pt-1 pb-1 space-y-0.5">
-              {educationLinks.map((item, i) => (
-                <Link
-                  key={i}
-                  href={item.href}
-                  className="flex items-center py-2 ml-3 pl-3 pr-3 text-[var(--foreground)]/80 hover:text-[var(--foreground)] hover:bg-white/10 transition-all duration-300 rounded-lg border-l-2 border-transparent hover:border-[var(--bronze)] group"
-                >
-                  <item.icon className="w-4 h-4 flex-shrink-0 mr-2" />
-                  <span className="font-semibold text-xs">
-                    {item.label}
-                  </span>
-                </Link>
-              ))}
+            {/* Education Items */}
+            <div className={`overflow-hidden transition-all duration-300 ${isEducationOpen && isOpen ? 'max-h-96 opacity-100' : 'max-h-0 opacity-0'}`}>
+              <div className="pt-1 pb-1 space-y-0.5">
+                {educationLinks.map((item, i) => (
+                  <Link
+                    key={i}
+                    href={item.href}
+                    className="flex items-center py-2 ml-3 pl-3 pr-3 text-[var(--foreground)]/80 hover:text-[var(--foreground)] hover:bg-white/10 transition-all duration-300 rounded-lg border-l-2 border-transparent hover:border-[var(--bronze)] group"
+                  >
+                    <item.icon className="w-4 h-4 flex-shrink-0 mr-2" />
+                    <span className="font-semibold text-xs">
+                      {item.label}
+                    </span>
+                  </Link>
+                ))}
+              </div>
             </div>
           </div>
 
