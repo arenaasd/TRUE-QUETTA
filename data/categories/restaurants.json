@@ -318,38 +318,6 @@
     "branches": []
   },
   {
-    "name": "Garden Cafe & Restaurant",
-    "image": "/images/restaurants/garden/garden.webp",
-    "rating": 3.8,
-    "description": "Elegant environment for steak, biryani, grilled chicken and fish tikka.",
-    "createdAt": "2016-05-01T00:00:00Z",
-    "contact": {
-      "phone": "0321 8040067",
-      "email": "",
-      "address": "Hazara Town, Quetta, Pakistan",
-      "website": "",
-      "socialMedia": {
-        "facebook": "",
-        "twitter": "",
-        "instagram": ""
-      }
-    },
-    "features": [
-      "Steak",
-      "Biryani",
-      "Grilled Chicken",
-      "Fine Dining"
-    ],
-    "gallery": [
-      "/images/restaurants/garden/gallery1.webp",
-      "/images/restaurants/garden/gallery2.webp",
-      "/images/restaurants/garden/gallery3.webp",
-      "/images/restaurants/garden/gallery4.webp",
-      "/images/restaurants/garden/gallery5.webp"
-    ],
-    "branches": []
-  },
-  {
     "name": "Jaan Broast",
     "image": "/images/restaurants/jaan/jaan.webp",
     "rating": 4.4,
@@ -523,40 +491,6 @@
       "/images/restaurants/king/gallery8.webp",
       "/images/restaurants/king/gallery9.webp",
       "/images/restaurants/king/gallery10.webp"
-    ],
-    "branches": []
-  },
-  {
-    "name": "EFC Quetta",
-    "image": "/images/restaurants/efc/efc.webp",
-    "rating": 3.7,
-    "description": "Family‑friendly fast‑food chain next to Sahaar Bakery serving fried chicken, burgers and sides.",
-    "createdAt": "2015-01-01T00:00:00Z",
-    "contact": {
-      "phone": "0311 8226682",
-      "email": "",
-      "address": "Airport Rd, near Sahaar Bakery, Quetta, Pakistan",
-      "website": "",
-      "socialMedia": {
-        "facebook": "",
-        "twitter": "",
-        "instagram": ""
-      }
-    },
-    "features": [
-      "Fried Chicken",
-      "Burgers",
-      "Fast Food",
-      "Family Friendly"
-    ],
-    "gallery": [
-      "/images/restaurants/efc/gallery1.webp",
-      "/images/restaurants/efc/gallery2.webp",
-      "/images/restaurants/efc/gallery3.webp",
-      "/images/restaurants/efc/gallery4.webp",
-      "/images/restaurants/efc/gallery5.webp",
-      "/images/restaurants/efc/gallery6.webp",
-      "/images/restaurants/efc/gallery7.jpg"
     ],
     "branches": []
   },

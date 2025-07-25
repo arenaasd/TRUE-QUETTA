@@ -332,31 +332,6 @@
         "branches": []
     },
     {
-        "name": "Dream Bakers & Super Store",
-        "image": "/images/bakeries/dream/dream.webp",
-        "rating": 3.2,
-        "description": "Popular bakery in Shahbaz Town known for cakes, pastries & same-day delivery; open daily 10 AM–11 PM.",
-        "createdAt": "2014-01-01T00:00:00Z",
-        "contact": {
-            "phone": "+92 333 7817344",
-            "email": "",
-            "address": "Shahbaz Town, Quetta, Balochistan, Pakistan",
-            "website": "",
-            "socialMedia": {
-                "facebook": "",
-                "twitter": "",
-                "instagram": ""
-            }
-        },
-        "features": [
-            "Cakes",
-            "Pastries",
-            "Same-day Delivery"
-        ],
-        "gallery": [],
-        "branches": []
-    },
-    {
         "name": "Palace Bakery",
         "image": "/images/bakeries/palace/palace.webp",
         "rating": 3.9,
@@ -385,40 +360,6 @@
             "/images/bakeries/palace/gallery4.webp",
             "/images/bakeries/palace/gallery5.webp",
             "/images/bakeries/palace/gallery6.webp"
-        ],
-        "branches": []
-    },
-    {
-        "name": "Zehri Sweets & Bakers",
-        "image": "/images/bakeries/zehri/zehri.webp",
-        "rating": 4.2,
-        "description": "Renowned bakery on Sirki Road, Satellite Town, specializing in freshly baked pastries, cakes & sweets.",
-        "createdAt": "2005-01-01T00:00:00Z",
-        "contact": {
-            "phone": "(081) 2447770",
-            "email": "",
-            "address": "Sirki Rd, Block 2‑3, Satellite Town, Quetta, Balochistan, Pakistan",
-            "website": "",
-            "socialMedia": {
-                "facebook": "https://www.facebook.com/p/Zehriz-Sweets-Bakers-100057488318683/",
-                "twitter": "",
-                "instagram": ""
-            }
-        },
-        "features": [
-            "Pastries",
-            "Cakes",
-            "Sweets"
-        ],
-        "gallery": [
-            "/images/bakeries/zehri/gallery1.webp",
-            "/images/bakeries/zehri/gallery2.webp",
-            "/images/bakeries/zehri/gallery3.webp",
-            "/images/bakeries/zehri/gallery4.webp",
-            "/images/bakeries/zehri/gallery5.webp",
-            "/images/bakeries/zehri/gallery6.webp",
-            "/images/bakeries/zehri/gallery7.jpg",
-            "/images/bakeries/zehri/gallery8.webp"
         ],
         "branches": []
     },
