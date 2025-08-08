@@ -222,6 +222,7 @@ export default function CompleteLandingPage() {
               key={index}
               src={bg}
               quality={100}
+              unoptimized
               alt={`Hero Background ${index + 1}`}
               fill
               style={{ objectFit: 'cover' }}

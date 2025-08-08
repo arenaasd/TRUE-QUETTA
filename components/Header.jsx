@@ -13,6 +13,8 @@ const Header = () => {
           alt='True Quetta'
           width={90}
           height={50}
+          quality={90}
+          unoptimized
           className='cursor-pointer hover:scale-105 transition-all duration-300'
         />
       </Link>
