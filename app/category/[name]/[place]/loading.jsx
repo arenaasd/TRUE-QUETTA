@@ -6,7 +6,7 @@ export default function Loading() {
         autoPlay
         muted
         playsInline
-        className="w-[350px] h-[250px] object-cover "
+        className="w-[200px] h-[250px] object-cover "
       ></video>
       <div
         className="mb-4 text-medium text-center md:text-xl lg:text-2xl font-black uppercase tracking-wider"

@@ -318,38 +318,6 @@
     "branches": []
   },
   {
-    "name": "Garden Cafe & Restaurant",
-    "image": "/images/restaurants/garden/garden.webp",
-    "rating": 3.8,
-    "description": "Elegant environment for steak, biryani, grilled chicken and fish tikka.",
-    "createdAt": "2016-05-01T00:00:00Z",
-    "contact": {
-      "phone": "0321 8040067",
-      "email": "",
-      "address": "Hazara Town, Quetta, Pakistan",
-      "website": "",
-      "socialMedia": {
-        "facebook": "",
-        "twitter": "",
-        "instagram": ""
-      }
-    },
-    "features": [
-      "Steak",
-      "Biryani",
-      "Grilled Chicken",
-      "Fine Dining"
-    ],
-    "gallery": [
-      "/images/restaurants/garden/gallery1.webp",
-      "/images/restaurants/garden/gallery2.webp",
-      "/images/restaurants/garden/gallery3.webp",
-      "/images/restaurants/garden/gallery4.webp",
-      "/images/restaurants/garden/gallery5.webp"
-    ],
-    "branches": []
-  },
-  {
     "name": "Jaan Broast",
     "image": "/images/restaurants/jaan/jaan.webp",
     "rating": 4.4,

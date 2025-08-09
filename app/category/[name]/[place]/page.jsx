@@ -109,7 +109,7 @@ const page = async ({ params }) => {
               alt={`${place.name} - ${categoryName} in Quetta`} fill
               priority
               unoptimized
-              quality={90}
+              quality={100}
               className="object-cover"
             />
             <div className="absolute inset-0 bg-gradient-to-t from-black/50 via-transparent to-transparent" />

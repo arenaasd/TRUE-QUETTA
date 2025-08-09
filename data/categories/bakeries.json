@@ -312,7 +312,9 @@
             "email": "",
             "address": "Shop No. G12, Engineering Building, near Serena Hotel, Zarghoon Road, Quetta, Pakistan",
             "website": "",
-            "socialMedia": {}
+            "socialMedia": {
+                "instagram": "https://www.instagram.com/utopiadessertshop/"
+            }
         },
         "features": [
             "Custom Cakes",
