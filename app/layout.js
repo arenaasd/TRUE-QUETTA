@@ -1,5 +1,6 @@
 import "./globals.css"
 import Header from "@/components/Header"
+import Script from "next/script"
 import SidebarWrapper from "@/components/SidebarWrapper"
 
 export const metadata = {
@@ -34,6 +35,14 @@ export const metadata = {
 export default function RootLayout({ children }) {
   return (
     <html lang="en">
+    <head>
+        <Script
+          async
+          strategy="afterInteractive"
+          src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-1485111412817846"
+          crossOrigin="anonymous"
+        />
+      </head>
       <body className="antialiased">
         <Header />
         <SidebarWrapper>
