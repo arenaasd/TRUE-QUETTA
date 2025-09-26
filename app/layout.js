@@ -36,6 +36,7 @@ export default function RootLayout({ children }) {
   return (
     <html lang="en">
     <head>
+    <meta name="google-adsense-account" content="ca-pub-1485111412817846"/>
         <Script
           async
           strategy="afterInteractive"
