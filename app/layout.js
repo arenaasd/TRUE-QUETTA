@@ -31,12 +31,12 @@ export const metadata = {
   }
 }
 
-
 export default function RootLayout({ children }) {
   return (
     <html lang="en">
-    <head>
-    <meta name="google-adsense-account" content="ca-pub-1485111412817846"/>
+      <head>
+        {/* Google AdSense */}
+        <meta name="google-adsense-account" content="ca-pub-1485111412817846"/>
         <Script
           async
           strategy="afterInteractive"
@@ -44,11 +44,29 @@ export default function RootLayout({ children }) {
           crossOrigin="anonymous"
         />
       </head>
+
       <body className="antialiased">
         <Header />
+
         <SidebarWrapper>
           {children}
         </SidebarWrapper>
+
+        {/* ---------------- GOOGLE ANALYTICS (GA4) ---------------- */}
+        <Script
+          src="https://www.googletagmanager.com/gtag/js?id=G-RZHYP9RXBW"
+          strategy="afterInteractive"
+        />
+
+        <Script id="ga4-init" strategy="afterInteractive">
+          {`
+            window.dataLayer = window.dataLayer || [];
+            function gtag(){dataLayer.push(arguments);}
+            gtag('js', new Date());
+            gtag('config', 'G-RZHYP9RXBW');
+          `}
+        </Script>
+        {/* -------------------------------------------------------- */}
       </body>
     </html>
   )
